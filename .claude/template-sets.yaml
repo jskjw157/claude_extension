@@ -1,0 +1,369 @@
+# AITMPL Project Template Sets (Enhanced)
+# Usage: python scripts/aitmpl_manager.py install <set_name>
+# Total: 920+ templates available
+
+version: "2.0"
+
+sets:
+  # ============================================
+  # MINIMAL - Every project needs these
+  # ============================================
+  minimal:
+    description: "Essential tools for all projects"
+    agents:
+      - development-tools/code-reviewer
+      - development-tools/debugger
+      - development-tools/error-detective
+    commands:
+      - git/feature
+      - git/hotfix
+    skills:
+      - development/test-driven-development
+      - development/brainstorming
+
+  # ============================================
+  # FRONTEND - React/Vue/Next.js/Svelte
+  # ============================================
+  frontend:
+    description: "Frontend web development"
+    extends:
+      - minimal
+    agents:
+      - development-tools/performance-profiler
+      - development-tools/code-simplifier
+      - ui-analysis/screenshot-ui-analyzer
+      - documentation/technical-writer
+    commands:
+      - nextjs-vercel/nextjs-component-generator
+      - nextjs-vercel/nextjs-bundle-analyzer
+      - performance/optimize-bundle-size
+      - performance/implement-caching-strategy
+    skills:
+      - creative-design/frontend-design
+      - creative-design/accessibility-auditor
+      - development/artifacts-builder
+    mcps:
+      - browser_automation/playwright-mcp-server
+
+  # ============================================
+  # BACKEND - Node.js/Python/Go API
+  # ============================================
+  backend:
+    description: "Backend API development"
+    extends:
+      - minimal
+    agents:
+      - security/security-auditor
+      - security/api-security-audit
+      - database/database-optimizer
+      - database/database-architect
+      - development-team/backend-architect
+      - api-graphql/graphql-architect
+    commands:
+      - setup/design-rest-api
+      - setup/implement-graphql-api
+      - setup/create-database-migrations
+      - security/add-authentication-system
+      - security/dependency-audit
+      - deployment/containerize-application
+    skills:
+      - development/api-integration-specialist
+      - database/postgres-schema-design
+    mcps:
+      - database/postgresql-integration
+      - database/supabase
+
+  # ============================================
+  # FULLSTACK - Frontend + Backend
+  # ============================================
+  fullstack:
+    description: "Full-stack web applications"
+    extends:
+      - frontend
+      - backend
+    agents:
+      - devops-infrastructure/deployment-engineer
+      - devops-infrastructure/vercel-deployment-specialist
+    commands:
+      - deployment/ci-setup
+      - orchestration/feature-dev
+      - orchestration/feature-pipeline
+
+  # ============================================
+  # DATA-AI - ML/AI/Data Science
+  # ============================================
+  data-ai:
+    description: "Machine Learning & Data Science"
+    extends:
+      - minimal
+    agents:
+      - data-ai/data-scientist
+      - data-ai/ml-engineer
+      - data-ai/mlops-engineer
+      - data-ai/data-engineer
+      - data-ai/nlp-engineer
+      - data-ai/computer-vision-engineer
+      - data-ai/ai-engineer
+      - ai-specialists/prompt-engineer
+      - ai-specialists/model-evaluator
+    skills:
+      - ai-research/agents-langchain
+      - ai-research/agents-crewai
+      - ai-research/data-processing-nemo-curator
+      - scientific/anndata
+    mcps:
+      - database/postgresql-integration
+      - database/supabase
+
+  # ============================================
+  # DEVOPS - Infrastructure & CI/CD
+  # ============================================
+  devops:
+    description: "DevOps & Infrastructure"
+    extends:
+      - minimal
+    agents:
+      - devops-infrastructure/cloud-architect
+      - devops-infrastructure/terraform-specialist
+      - devops-infrastructure/monitoring-specialist
+      - devops-infrastructure/network-engineer
+      - devops-infrastructure/deployment-engineer
+      - devops-infrastructure/devops-troubleshooter
+      - security/security-auditor
+    commands:
+      - deployment/containerize-application
+      - deployment/blue-green-deployment
+      - deployment/ci-setup
+      - automation/ci-pipeline
+      - automation/workflow-orchestrator
+    mcps:
+      - devtools/azure-kubernetes-service
+      - devtools/circleci
+
+  # ============================================
+  # SECURITY - Security-focused projects
+  # ============================================
+  security-focused:
+    description: "Security-critical applications"
+    extends:
+      - backend
+    agents:
+      - security/penetration-tester
+      - security/incident-responder
+      - security/compliance-specialist
+      - blockchain-web3/smart-contract-auditor
+    commands:
+      - security/penetration-test
+      - security/secrets-scanner
+      - security/security-audit
+      - security/dependency-audit
+
+  # ============================================
+  # DATABASE - Database-heavy projects
+  # ============================================
+  database:
+    description: "Database design & optimization"
+    agents:
+      - database/database-admin
+      - database/database-architect
+      - database/database-optimizer
+      - database/database-optimization
+    commands:
+      - setup/design-database-schema
+      - setup/create-database-migrations
+      - database/supabase-migration-assistant
+      - database/supabase-performance-optimizer
+    skills:
+      - database/postgres-schema-design
+    mcps:
+      - database/postgresql-integration
+      - database/mysql-integration
+      - database/supabase
+      - database/neon
+
+  # ============================================
+  # GAME-DEV - Game Development
+  # ============================================
+  game-dev:
+    description: "Game development projects"
+    agents:
+      - game-development/unity-game-developer
+      - game-development/unreal-engine-developer
+      - game-development/game-designer
+      - game-development/3d-artist
+    commands:
+      - game-development/unity-project-setup
+      - game-development/game-asset-pipeline
+      - game-development/game-performance-profiler
+      - game-development/game-testing-framework
+      - game-development/game-analytics-integration
+
+  # ============================================
+  # WEB3 - Blockchain & Web3
+  # ============================================
+  web3:
+    description: "Blockchain & Web3 development"
+    extends:
+      - backend
+    agents:
+      - blockchain-web3/smart-contract-specialist
+      - blockchain-web3/smart-contract-auditor
+      - blockchain-web3/web3-integration-specialist
+
+  # ============================================
+  # DOCUMENTATION - Docs-focused
+  # ============================================
+  documentation:
+    description: "Documentation & technical writing"
+    agents:
+      - documentation/technical-writer
+      - documentation/api-documenter
+      - documentation/changelog-generator
+      - documentation/docusaurus-expert
+    commands:
+      - documentation/create-architecture-documentation
+      - documentation/create-onboarding-guide
+      - documentation/generate-api-documentation
+      - documentation/doc-api
+    skills:
+      - development/changelog-generator
+      - document-processing/obsidian-markdown
+
+  # ============================================
+  # OPENSOURCE - Open Source projects
+  # ============================================
+  opensource:
+    description: "Open source project management"
+    extends:
+      - minimal
+      - documentation
+    agents:
+      - development-tools/test-engineer
+      - expert-advisors/dependency-manager
+    commands:
+      - git-workflow/create-pr
+      - git-workflow/branch-cleanup
+      - project-management/create-feature
+      - project-management/add-to-changelog
+
+  # ============================================
+  # STARTUP - Fast MVP development
+  # ============================================
+  startup:
+    description: "Rapid MVP & startup development"
+    extends:
+      - fullstack
+    agents:
+      - business-marketing/business-analyst
+      - ai-specialists/hackathon-ai-strategist
+    commands:
+      - project-management/create-prd
+      - project-management/create-jtbd
+      - project-management/create-feature
+    skills:
+      - business-marketing/ceo-advisor
+      - business-marketing/content-creator
+
+  # ============================================
+  # ENTERPRISE - Large-scale projects
+  # ============================================
+  enterprise:
+    description: "Enterprise-grade applications"
+    extends:
+      - fullstack
+      - security-focused
+      - devops
+    agents:
+      - expert-advisors/architect-review
+      - devops-infrastructure/terraform-specialist
+    commands:
+      - performance/add-performance-monitoring
+    skills:
+      - enterprise-communication/data-privacy-compliance
+
+  # ============================================
+  # RESEARCH - Deep research projects
+  # ============================================
+  research:
+    description: "Research & analysis projects"
+    agents:
+      - deep-research-team/academic-researcher
+      - deep-research-team/data-analyst
+      - deep-research-team/fact-checker
+      - deep-research-team/competitive-intelligence-analyst
+      - data-ai/quant-analyst
+    skills:
+      - ai-research/agents-llamaindex
+      - scientific/alphafold-database
+    mcps:
+      - deepresearch/mcp-server-nia
+
+  # ============================================
+  # CONTENT - Marketing & Content
+  # ============================================
+  content:
+    description: "Content creation & marketing"
+    agents:
+      - business-marketing/content-marketer
+      - business-marketing/marketing-attribution-analyst
+    commands:
+      - marketing/publisher-all
+      - marketing/publisher-linkedin
+      - marketing/publisher-medium
+      - marketing/publisher-devto
+    skills:
+      - business-marketing/content-creator
+      - business-marketing/content-research-writer
+      - creative-design/executing-marketing-campaigns
+    mcps:
+      - marketing/google-ads-mcp-server
+      - marketing/facebook-ads-mcp-server
+
+  # ============================================
+  # PRODUCTIVITY - Personal productivity
+  # ============================================
+  productivity:
+    description: "Personal & team productivity"
+    skills:
+      - productivity/file-organizer
+      - productivity/meeting-insights-analyzer
+      - productivity/linear
+      - document-processing/pdf
+      - document-processing/docx
+      - enterprise-communication/email-composer
+    mcps:
+      - productivity/notion
+      - productivity/monday
+      - integration/github-integration
+
+  # ============================================
+  # NEXTJS - Next.js specific
+  # ============================================
+  nextjs:
+    description: "Next.js & Vercel projects"
+    extends:
+      - frontend
+    commands:
+      - nextjs-vercel/nextjs-component-generator
+      - nextjs-vercel/nextjs-bundle-analyzer
+      - nextjs-vercel/nextjs-middleware-creator
+      - nextjs-vercel/nextjs-migration-helper
+      - nextjs-vercel/nextjs-api-tester
+    mcps:
+      - deepgraph/deepgraph-nextjs
+
+  # ============================================
+  # SUPABASE - Supabase projects
+  # ============================================
+  supabase:
+    description: "Supabase-based projects"
+    extends:
+      - backend
+    commands:
+      - database/supabase-migration-assistant
+      - database/supabase-performance-optimizer
+      - database/supabase-realtime-monitor
+      - database/supabase-backup-manager
+      - database/supabase-data-explorer
+    mcps:
+      - database/supabase

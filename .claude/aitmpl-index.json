@@ -1,0 +1,4836 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-01-14T17:50:36.914047",
+  "source": "https://github.com/davila7/claude-code-templates",
+  "method": "git-clone",
+  "categories": {
+    "agents": {
+      "ai-specialists": [
+        {
+          "name": "ai-ethics-advisor",
+          "file": "ai-ethics-advisor.md",
+          "size": 7218
+        },
+        {
+          "name": "hackathon-ai-strategist",
+          "file": "hackathon-ai-strategist.md",
+          "size": 3014
+        },
+        {
+          "name": "llms-maintainer",
+          "file": "llms-maintainer.md",
+          "size": 3491
+        },
+        {
+          "name": "model-evaluator",
+          "file": "model-evaluator.md",
+          "size": 5347
+        },
+        {
+          "name": "prompt-engineer",
+          "file": "prompt-engineer.md",
+          "size": 3259
+        },
+        {
+          "name": "search-specialist",
+          "file": "search-specialist.md",
+          "size": 1921
+        },
+        {
+          "name": "task-decomposition-expert",
+          "file": "task-decomposition-expert.md",
+          "size": 5233
+        }
+      ],
+      "api-graphql": [
+        {
+          "name": "graphql-architect",
+          "file": "graphql-architect.md",
+          "size": 6573
+        },
+        {
+          "name": "graphql-performance-optimizer",
+          "file": "graphql-performance-optimizer.md",
+          "size": 10183
+        },
+        {
+          "name": "graphql-security-specialist",
+          "file": "graphql-security-specialist.md",
+          "size": 13588
+        }
+      ],
+      "blockchain-web3": [
+        {
+          "name": "smart-contract-auditor",
+          "file": "smart-contract-auditor.md",
+          "size": 2765
+        },
+        {
+          "name": "smart-contract-specialist",
+          "file": "smart-contract-specialist.md",
+          "size": 2695
+        },
+        {
+          "name": "web3-integration-specialist",
+          "file": "web3-integration-specialist.md",
+          "size": 2897
+        }
+      ],
+      "business-marketing": [
+        {
+          "name": "business-analyst",
+          "file": "business-analyst.md",
+          "size": 6917
+        },
+        {
+          "name": "content-marketer",
+          "file": "content-marketer.md",
+          "size": 1104
+        },
+        {
+          "name": "customer-support",
+          "file": "customer-support.md",
+          "size": 1025
+        },
+        {
+          "name": "legal-advisor",
+          "file": "legal-advisor.md",
+          "size": 1968
+        },
+        {
+          "name": "marketing-attribution-analyst",
+          "file": "marketing-attribution-analyst.md",
+          "size": 12237
+        },
+        {
+          "name": "payment-integration",
+          "file": "payment-integration.md",
+          "size": 1294
+        },
+        {
+          "name": "product-strategist",
+          "file": "product-strategist.md",
+          "size": 8172
+        },
+        {
+          "name": "risk-manager",
+          "file": "risk-manager.md",
+          "size": 1437
+        },
+        {
+          "name": "sales-automator",
+          "file": "sales-automator.md",
+          "size": 1011
+        }
+      ],
+      "data-ai": [
+        {
+          "name": "ai-engineer",
+          "file": "ai-engineer.md",
+          "size": 1300
+        },
+        {
+          "name": "computer-vision-engineer",
+          "file": "computer-vision-engineer.md",
+          "size": 20122
+        },
+        {
+          "name": "data-engineer",
+          "file": "data-engineer.md",
+          "size": 1189
+        },
+        {
+          "name": "data-scientist",
+          "file": "data-scientist.md",
+          "size": 11423
+        },
+        {
+          "name": "ml-engineer",
+          "file": "ml-engineer.md",
+          "size": 1104
+        },
+        {
+          "name": "mlops-engineer",
+          "file": "mlops-engineer.md",
+          "size": 2018
+        },
+        {
+          "name": "nlp-engineer",
+          "file": "nlp-engineer.md",
+          "size": 23604
+        },
+        {
+          "name": "quant-analyst",
+          "file": "quant-analyst.md",
+          "size": 1303
+        }
+      ],
+      "database": [
+        {
+          "name": "database-admin",
+          "file": "database-admin.md",
+          "size": 1277
+        },
+        {
+          "name": "database-architect",
+          "file": "database-architect.md",
+          "size": 21925
+        },
+        {
+          "name": "database-optimization",
+          "file": "database-optimization.md",
+          "size": 1479
+        },
+        {
+          "name": "database-optimizer",
+          "file": "database-optimizer.md",
+          "size": 1208
+        },
+        {
+          "name": "neon-auth-specialist",
+          "file": "neon-auth-specialist.md",
+          "size": 4281
+        },
+        {
+          "name": "neon-database-architect",
+          "file": "neon-database-architect.md",
+          "size": 3718
+        },
+        {
+          "name": "neon-expert",
+          "file": "neon-expert.md",
+          "size": 24306
+        },
+        {
+          "name": "nosql-specialist",
+          "file": "nosql-specialist.md",
+          "size": 23390
+        },
+        {
+          "name": "supabase-schema-architect",
+          "file": "supabase-schema-architect.md",
+          "size": 4552
+        }
+      ],
+      "deep-research-team": [
+        {
+          "name": "academic-researcher",
+          "file": "academic-researcher.md",
+          "size": 1489
+        },
+        {
+          "name": "agent-overview",
+          "file": "agent-overview.md",
+          "size": 10492
+        },
+        {
+          "name": "competitive-intelligence-analyst",
+          "file": "competitive-intelligence-analyst.md",
+          "size": 19795
+        },
+        {
+          "name": "data-analyst",
+          "file": "data-analyst.md",
+          "size": 6664
+        },
+        {
+          "name": "fact-checker",
+          "file": "fact-checker.md",
+          "size": 22006
+        },
+        {
+          "name": "nia-oracle",
+          "file": "nia-oracle.md",
+          "size": 12691
+        },
+        {
+          "name": "query-clarifier",
+          "file": "query-clarifier.md",
+          "size": 5082
+        },
+        {
+          "name": "report-generator",
+          "file": "report-generator.md",
+          "size": 5460
+        },
+        {
+          "name": "research-brief-generator",
+          "file": "research-brief-generator.md",
+          "size": 6149
+        },
+        {
+          "name": "research-coordinator",
+          "file": "research-coordinator.md",
+          "size": 6109
+        },
+        {
+          "name": "research-orchestrator",
+          "file": "research-orchestrator.md",
+          "size": 5572
+        },
+        {
+          "name": "research-synthesizer",
+          "file": "research-synthesizer.md",
+          "size": 5097
+        },
+        {
+          "name": "technical-researcher",
+          "file": "technical-researcher.md",
+          "size": 4379
+        }
+      ],
+      "development-team": [
+        {
+          "name": "backend-architect",
+          "file": "backend-architect.md",
+          "size": 1267
+        },
+        {
+          "name": "cli-ui-designer",
+          "file": "cli-ui-designer.md",
+          "size": 11082
+        },
+        {
+          "name": "code-architect",
+          "file": "code-architect.md",
+          "size": 2291
+        },
+        {
+          "name": "code-explorer",
+          "file": "code-explorer.md",
+          "size": 2166
+        },
+        {
+          "name": "devops-engineer",
+          "file": "devops-engineer.md",
+          "size": 24545
+        },
+        {
+          "name": "frontend-developer",
+          "file": "frontend-developer.md",
+          "size": 1350
+        },
+        {
+          "name": "fullstack-developer",
+          "file": "fullstack-developer.md",
+          "size": 33505
+        },
+        {
+          "name": "ios-developer",
+          "file": "ios-developer.md",
+          "size": 1248
+        },
+        {
+          "name": "mobile-developer",
+          "file": "mobile-developer.md",
+          "size": 1188
+        },
+        {
+          "name": "test-generator",
+          "file": "test-generator.md",
+          "size": 2694
+        },
+        {
+          "name": "test-runner",
+          "file": "test-runner.md",
+          "size": 2530
+        },
+        {
+          "name": "ui-ux-designer",
+          "file": "ui-ux-designer.md",
+          "size": 1261
+        }
+      ],
+      "development-tools": [
+        {
+          "name": "code-reviewer",
+          "file": "code-reviewer.md",
+          "size": 913
+        },
+        {
+          "name": "code-simplifier",
+          "file": "code-simplifier.md",
+          "size": 3181
+        },
+        {
+          "name": "command-expert",
+          "file": "command-expert.md",
+          "size": 11325
+        },
+        {
+          "name": "context-manager",
+          "file": "context-manager.md",
+          "size": 2058
+        },
+        {
+          "name": "debugger",
+          "file": "debugger.md",
+          "size": 903
+        },
+        {
+          "name": "dx-optimizer",
+          "file": "dx-optimizer.md",
+          "size": 1884
+        },
+        {
+          "name": "error-detective",
+          "file": "error-detective.md",
+          "size": 1218
+        },
+        {
+          "name": "flutter-go-reviewer",
+          "file": "flutter-go-reviewer.md",
+          "size": 6913
+        },
+        {
+          "name": "mcp-expert",
+          "file": "mcp-expert.md",
+          "size": 7151
+        },
+        {
+          "name": "performance-profiler",
+          "file": "performance-profiler.md",
+          "size": 24821
+        },
+        {
+          "name": "slack-expert",
+          "file": "slack-expert.md",
+          "size": 5161
+        },
+        {
+          "name": "test-engineer",
+          "file": "test-engineer.md",
+          "size": 27177
+        },
+        {
+          "name": "unused-code-cleaner",
+          "file": "unused-code-cleaner.md",
+          "size": 4761
+        }
+      ],
+      "devops-infrastructure": [
+        {
+          "name": "cloud-architect",
+          "file": "cloud-architect.md",
+          "size": 1252
+        },
+        {
+          "name": "deployment-engineer",
+          "file": "deployment-engineer.md",
+          "size": 1306
+        },
+        {
+          "name": "devops-troubleshooter",
+          "file": "devops-troubleshooter.md",
+          "size": 1155
+        },
+        {
+          "name": "monitoring-specialist",
+          "file": "monitoring-specialist.md",
+          "size": 1299
+        },
+        {
+          "name": "network-engineer",
+          "file": "network-engineer.md",
+          "size": 1244
+        },
+        {
+          "name": "security-engineer",
+          "file": "security-engineer.md",
+          "size": 34696
+        },
+        {
+          "name": "terraform-specialist",
+          "file": "terraform-specialist.md",
+          "size": 1275
+        },
+        {
+          "name": "vercel-deployment-specialist",
+          "file": "vercel-deployment-specialist.md",
+          "size": 9602
+        }
+      ],
+      "documentation": [
+        {
+          "name": "api-documenter",
+          "file": "api-documenter.md",
+          "size": 1146
+        },
+        {
+          "name": "changelog-generator",
+          "file": "changelog-generator.md",
+          "size": 1321
+        },
+        {
+          "name": "docusaurus-expert",
+          "file": "docusaurus-expert.md",
+          "size": 5080
+        },
+        {
+          "name": "technical-writer",
+          "file": "technical-writer.md",
+          "size": 1351
+        }
+      ],
+      "expert-advisors": [
+        {
+          "name": "agent-expert",
+          "file": "agent-expert.md",
+          "size": 16702
+        },
+        {
+          "name": "architect-review",
+          "file": "architect-review.md",
+          "size": 3464
+        },
+        {
+          "name": "dependency-manager",
+          "file": "dependency-manager.md",
+          "size": 3168
+        },
+        {
+          "name": "documentation-expert",
+          "file": "documentation-expert.md",
+          "size": 3243
+        }
+      ],
+      "ffmpeg-clip-team": [
+        {
+          "name": "audio-mixer",
+          "file": "audio-mixer.md",
+          "size": 1182
+        },
+        {
+          "name": "audio-quality-controller",
+          "file": "audio-quality-controller.md",
+          "size": 4506
+        },
+        {
+          "name": "podcast-content-analyzer",
+          "file": "podcast-content-analyzer.md",
+          "size": 2875
+        },
+        {
+          "name": "podcast-metadata-specialist",
+          "file": "podcast-metadata-specialist.md",
+          "size": 3042
+        },
+        {
+          "name": "podcast-transcriber",
+          "file": "podcast-transcriber.md",
+          "size": 3384
+        },
+        {
+          "name": "social-media-clip-creator",
+          "file": "social-media-clip-creator.md",
+          "size": 3760
+        },
+        {
+          "name": "timestamp-precision-specialist",
+          "file": "timestamp-precision-specialist.md",
+          "size": 4271
+        },
+        {
+          "name": "video-editor",
+          "file": "video-editor.md",
+          "size": 1247
+        }
+      ],
+      "game-development": [
+        {
+          "name": "3d-artist",
+          "file": "3d-artist.md",
+          "size": 1280
+        },
+        {
+          "name": "game-designer",
+          "file": "game-designer.md",
+          "size": 1304
+        },
+        {
+          "name": "unity-game-developer",
+          "file": "unity-game-developer.md",
+          "size": 4647
+        },
+        {
+          "name": "unreal-engine-developer",
+          "file": "unreal-engine-developer.md",
+          "size": 4827
+        }
+      ],
+      "git": [
+        {
+          "name": "git-flow-manager",
+          "file": "git-flow-manager.md",
+          "size": 9081
+        }
+      ],
+      "mcp-dev-team": [
+        {
+          "name": "mcp-deployment-orchestrator",
+          "file": "mcp-deployment-orchestrator.md",
+          "size": 6300
+        },
+        {
+          "name": "mcp-integration-engineer",
+          "file": "mcp-integration-engineer.md",
+          "size": 1421
+        },
+        {
+          "name": "mcp-protocol-specialist",
+          "file": "mcp-protocol-specialist.md",
+          "size": 1450
+        },
+        {
+          "name": "mcp-registry-navigator",
+          "file": "mcp-registry-navigator.md",
+          "size": 5075
+        },
+        {
+          "name": "mcp-security-auditor",
+          "file": "mcp-security-auditor.md",
+          "size": 4969
+        },
+        {
+          "name": "mcp-server-architect",
+          "file": "mcp-server-architect.md",
+          "size": 4889
+        },
+        {
+          "name": "mcp-testing-engineer",
+          "file": "mcp-testing-engineer.md",
+          "size": 5126
+        }
+      ],
+      "modernization": [
+        {
+          "name": "architecture-modernizer",
+          "file": "architecture-modernizer.md",
+          "size": 1411
+        },
+        {
+          "name": "cloud-migration-specialist",
+          "file": "cloud-migration-specialist.md",
+          "size": 1401
+        },
+        {
+          "name": "legacy-modernizer",
+          "file": "legacy-modernizer.md",
+          "size": 1292
+        }
+      ],
+      "obsidian-ops-team": [
+        {
+          "name": "connection-agent",
+          "file": "connection-agent.md",
+          "size": 2580
+        },
+        {
+          "name": "content-curator",
+          "file": "content-curator.md",
+          "size": 2978
+        },
+        {
+          "name": "metadata-agent",
+          "file": "metadata-agent.md",
+          "size": 2148
+        },
+        {
+          "name": "moc-agent",
+          "file": "moc-agent.md",
+          "size": 3058
+        },
+        {
+          "name": "review-agent",
+          "file": "review-agent.md",
+          "size": 3246
+        },
+        {
+          "name": "tag-agent",
+          "file": "tag-agent.md",
+          "size": 2838
+        },
+        {
+          "name": "vault-optimizer",
+          "file": "vault-optimizer.md",
+          "size": 2691
+        }
+      ],
+      "ocr-extraction-team": [
+        {
+          "name": "document-structure-analyzer",
+          "file": "document-structure-analyzer.md",
+          "size": 1568
+        },
+        {
+          "name": "markdown-syntax-formatter",
+          "file": "markdown-syntax-formatter.md",
+          "size": 3292
+        },
+        {
+          "name": "ocr-grammar-fixer",
+          "file": "ocr-grammar-fixer.md",
+          "size": 2439
+        },
+        {
+          "name": "ocr-preprocessing-optimizer",
+          "file": "ocr-preprocessing-optimizer.md",
+          "size": 1477
+        },
+        {
+          "name": "ocr-quality-assurance",
+          "file": "ocr-quality-assurance.md",
+          "size": 3390
+        },
+        {
+          "name": "text-comparison-validator",
+          "file": "text-comparison-validator.md",
+          "size": 2797
+        },
+        {
+          "name": "visual-analysis-ocr",
+          "file": "visual-analysis-ocr.md",
+          "size": 3038
+        }
+      ],
+      "performance-testing": [
+        {
+          "name": "load-testing-specialist",
+          "file": "load-testing-specialist.md",
+          "size": 1498
+        },
+        {
+          "name": "performance-engineer",
+          "file": "performance-engineer.md",
+          "size": 1151
+        },
+        {
+          "name": "react-performance-optimization",
+          "file": "react-performance-optimization.md",
+          "size": 2260
+        },
+        {
+          "name": "test-automator",
+          "file": "test-automator.md",
+          "size": 1191
+        },
+        {
+          "name": "web-vitals-optimizer",
+          "file": "web-vitals-optimizer.md",
+          "size": 1492
+        }
+      ],
+      "podcast-creator-team": [
+        {
+          "name": "academic-research-synthesizer",
+          "file": "academic-research-synthesizer.md",
+          "size": 3379
+        },
+        {
+          "name": "comprehensive-researcher",
+          "file": "comprehensive-researcher.md",
+          "size": 3386
+        },
+        {
+          "name": "episode-orchestrator",
+          "file": "episode-orchestrator.md",
+          "size": 2982
+        },
+        {
+          "name": "guest-outreach-coordinator",
+          "file": "guest-outreach-coordinator.md",
+          "size": 1512
+        },
+        {
+          "name": "market-research-analyst",
+          "file": "market-research-analyst.md",
+          "size": 3203
+        },
+        {
+          "name": "podcast-editor",
+          "file": "podcast-editor.md",
+          "size": 1434
+        },
+        {
+          "name": "podcast-trend-scout",
+          "file": "podcast-trend-scout.md",
+          "size": 2758
+        },
+        {
+          "name": "project-supervisor-orchestrator",
+          "file": "project-supervisor-orchestrator.md",
+          "size": 2866
+        },
+        {
+          "name": "seo-podcast-optimizer",
+          "file": "seo-podcast-optimizer.md",
+          "size": 2489
+        },
+        {
+          "name": "social-media-copywriter",
+          "file": "social-media-copywriter.md",
+          "size": 2744
+        },
+        {
+          "name": "twitter-ai-influencer-manager",
+          "file": "twitter-ai-influencer-manager.md",
+          "size": 2862
+        }
+      ],
+      "programming-languages": [
+        {
+          "name": "c-pro",
+          "file": "c-pro.md",
+          "size": 1232
+        },
+        {
+          "name": "c-sharp-pro",
+          "file": "c-sharp-pro.md",
+          "size": 1995
+        },
+        {
+          "name": "cpp-pro",
+          "file": "cpp-pro.md",
+          "size": 1468
+        },
+        {
+          "name": "golang-pro",
+          "file": "golang-pro.md",
+          "size": 1304
+        },
+        {
+          "name": "javascript-pro",
+          "file": "javascript-pro.md",
+          "size": 1275
+        },
+        {
+          "name": "php-pro",
+          "file": "php-pro.md",
+          "size": 2136
+        },
+        {
+          "name": "python-pro",
+          "file": "python-pro.md",
+          "size": 1367
+        },
+        {
+          "name": "rust-pro",
+          "file": "rust-pro.md",
+          "size": 1236
+        },
+        {
+          "name": "shell-scripting-pro",
+          "file": "shell-scripting-pro.md",
+          "size": 1567
+        },
+        {
+          "name": "sql-pro",
+          "file": "sql-pro.md",
+          "size": 1256
+        },
+        {
+          "name": "typescript-pro",
+          "file": "typescript-pro.md",
+          "size": 1634
+        }
+      ],
+      "realtime": [
+        {
+          "name": "supabase-realtime-optimizer",
+          "file": "supabase-realtime-optimizer.md",
+          "size": 5885
+        }
+      ],
+      "security": [
+        {
+          "name": "api-security-audit",
+          "file": "api-security-audit.md",
+          "size": 2967
+        },
+        {
+          "name": "compliance-specialist",
+          "file": "compliance-specialist.md",
+          "size": 1478
+        },
+        {
+          "name": "incident-responder",
+          "file": "incident-responder.md",
+          "size": 2032
+        },
+        {
+          "name": "penetration-tester",
+          "file": "penetration-tester.md",
+          "size": 1458
+        },
+        {
+          "name": "security-auditor",
+          "file": "security-auditor.md",
+          "size": 1263
+        }
+      ],
+      "ui-analysis": [
+        {
+          "name": "screenshot-business-analyzer",
+          "file": "screenshot-business-analyzer.md",
+          "size": 2214
+        },
+        {
+          "name": "screenshot-interaction-analyzer",
+          "file": "screenshot-interaction-analyzer.md",
+          "size": 2218
+        },
+        {
+          "name": "screenshot-reviewer",
+          "file": "screenshot-reviewer.md",
+          "size": 2380
+        },
+        {
+          "name": "screenshot-synthesizer",
+          "file": "screenshot-synthesizer.md",
+          "size": 2341
+        },
+        {
+          "name": "screenshot-ui-analyzer",
+          "file": "screenshot-ui-analyzer.md",
+          "size": 1888
+        }
+      ],
+      "web-tools": [
+        {
+          "name": "nextjs-architecture-expert",
+          "file": "nextjs-architecture-expert.md",
+          "size": 6304
+        },
+        {
+          "name": "react-performance-optimizer",
+          "file": "react-performance-optimizer.md",
+          "size": 11940
+        },
+        {
+          "name": "seo-analyzer",
+          "file": "seo-analyzer.md",
+          "size": 1478
+        },
+        {
+          "name": "url-context-validator",
+          "file": "url-context-validator.md",
+          "size": 3777
+        },
+        {
+          "name": "url-link-extractor",
+          "file": "url-link-extractor.md",
+          "size": 2938
+        },
+        {
+          "name": "web-accessibility-checker",
+          "file": "web-accessibility-checker.md",
+          "size": 1458
+        }
+      ]
+    },
+    "commands": {
+      "automation": [
+        {
+          "name": "act",
+          "file": "act.md",
+          "size": 1419
+        },
+        {
+          "name": "ci-pipeline",
+          "file": "ci-pipeline.md",
+          "size": 9172
+        },
+        {
+          "name": "husky",
+          "file": "husky.md",
+          "size": 3881
+        },
+        {
+          "name": "workflow-orchestrator",
+          "file": "workflow-orchestrator.md",
+          "size": 14116
+        }
+      ],
+      "database": [
+        {
+          "name": "supabase-backup-manager",
+          "file": "supabase-backup-manager.md",
+          "size": 2360
+        },
+        {
+          "name": "supabase-data-explorer",
+          "file": "supabase-data-explorer.md",
+          "size": 2233
+        },
+        {
+          "name": "supabase-migration-assistant",
+          "file": "supabase-migration-assistant.md",
+          "size": 2251
+        },
+        {
+          "name": "supabase-performance-optimizer",
+          "file": "supabase-performance-optimizer.md",
+          "size": 2386
+        },
+        {
+          "name": "supabase-realtime-monitor",
+          "file": "supabase-realtime-monitor.md",
+          "size": 2492
+        },
+        {
+          "name": "supabase-schema-sync",
+          "file": "supabase-schema-sync.md",
+          "size": 2235
+        },
+        {
+          "name": "supabase-security-audit",
+          "file": "supabase-security-audit.md",
+          "size": 2389
+        },
+        {
+          "name": "supabase-type-generator",
+          "file": "supabase-type-generator.md",
+          "size": 2384
+        }
+      ],
+      "deployment": [
+        {
+          "name": "add-changelog",
+          "file": "add-changelog.md",
+          "size": 2332
+        },
+        {
+          "name": "blue-green-deployment",
+          "file": "blue-green-deployment.md",
+          "size": 23074
+        },
+        {
+          "name": "changelog-demo-command",
+          "file": "changelog-demo-command.md",
+          "size": 1449
+        },
+        {
+          "name": "ci-setup",
+          "file": "ci-setup.md",
+          "size": 9548
+        },
+        {
+          "name": "containerize-application",
+          "file": "containerize-application.md",
+          "size": 4115
+        },
+        {
+          "name": "deployment-monitoring",
+          "file": "deployment-monitoring.md",
+          "size": 36392
+        },
+        {
+          "name": "hotfix-deploy",
+          "file": "hotfix-deploy.md",
+          "size": 9499
+        },
+        {
+          "name": "prepare-release",
+          "file": "prepare-release.md",
+          "size": 10095
+        },
+        {
+          "name": "rollback-deploy",
+          "file": "rollback-deploy.md",
+          "size": 11625
+        },
+        {
+          "name": "setup-automated-releases",
+          "file": "setup-automated-releases.md",
+          "size": 4889
+        },
+        {
+          "name": "setup-kubernetes-deployment",
+          "file": "setup-kubernetes-deployment.md",
+          "size": 4187
+        }
+      ],
+      "documentation": [
+        {
+          "name": "create-architecture-documentation",
+          "file": "create-architecture-documentation.md",
+          "size": 4516
+        },
+        {
+          "name": "create-onboarding-guide",
+          "file": "create-onboarding-guide.md",
+          "size": 4231
+        },
+        {
+          "name": "doc-api",
+          "file": "doc-api.md",
+          "size": 7880
+        },
+        {
+          "name": "docs-maintenance",
+          "file": "docs-maintenance.md",
+          "size": 5038
+        },
+        {
+          "name": "generate-api-documentation",
+          "file": "generate-api-documentation.md",
+          "size": 4486
+        },
+        {
+          "name": "interactive-documentation",
+          "file": "interactive-documentation.md",
+          "size": 5567
+        },
+        {
+          "name": "load-llms-txt",
+          "file": "load-llms-txt.md",
+          "size": 1345
+        },
+        {
+          "name": "migration-guide",
+          "file": "migration-guide.md",
+          "size": 8384
+        },
+        {
+          "name": "troubleshooting-guide",
+          "file": "troubleshooting-guide.md",
+          "size": 9962
+        },
+        {
+          "name": "update-docs",
+          "file": "update-docs.md",
+          "size": 4540
+        }
+      ],
+      "game-development": [
+        {
+          "name": "game-analytics-integration",
+          "file": "game-analytics-integration.md",
+          "size": 4971
+        },
+        {
+          "name": "game-asset-pipeline",
+          "file": "game-asset-pipeline.md",
+          "size": 4291
+        },
+        {
+          "name": "game-performance-profiler",
+          "file": "game-performance-profiler.md",
+          "size": 3118
+        },
+        {
+          "name": "game-testing-framework",
+          "file": "game-testing-framework.md",
+          "size": 4261
+        },
+        {
+          "name": "unity-project-setup",
+          "file": "unity-project-setup.md",
+          "size": 5594
+        }
+      ],
+      "git": [
+        {
+          "name": "feature",
+          "file": "feature.md",
+          "size": 5097
+        },
+        {
+          "name": "finish",
+          "file": "finish.md",
+          "size": 12227
+        },
+        {
+          "name": "flow-status",
+          "file": "flow-status.md",
+          "size": 9747
+        },
+        {
+          "name": "hotfix",
+          "file": "hotfix.md",
+          "size": 11694
+        },
+        {
+          "name": "release",
+          "file": "release.md",
+          "size": 9449
+        }
+      ],
+      "git-workflow": [
+        {
+          "name": "branch-cleanup",
+          "file": "branch-cleanup.md",
+          "size": 6207
+        },
+        {
+          "name": "commit",
+          "file": "commit.md",
+          "size": 8067
+        },
+        {
+          "name": "create-pr",
+          "file": "create-pr.md",
+          "size": 813
+        },
+        {
+          "name": "create-pull-request",
+          "file": "create-pull-request.md",
+          "size": 4364
+        },
+        {
+          "name": "create-worktrees",
+          "file": "create-worktrees.md",
+          "size": 5363
+        },
+        {
+          "name": "fix-github-issue",
+          "file": "fix-github-issue.md",
+          "size": 476
+        },
+        {
+          "name": "gemini-review",
+          "file": "gemini-review.md",
+          "size": 11058
+        },
+        {
+          "name": "git-bisect-helper",
+          "file": "git-bisect-helper.md",
+          "size": 7979
+        },
+        {
+          "name": "pr-review",
+          "file": "pr-review.md",
+          "size": 3895
+        },
+        {
+          "name": "update-branch-name",
+          "file": "update-branch-name.md",
+          "size": 450
+        }
+      ],
+      "marketing": [
+        {
+          "name": "publisher-all",
+          "file": "publisher-all.md",
+          "size": 1664
+        },
+        {
+          "name": "publisher-devto",
+          "file": "publisher-devto.md",
+          "size": 1870
+        },
+        {
+          "name": "publisher-linkedin",
+          "file": "publisher-linkedin.md",
+          "size": 2419
+        },
+        {
+          "name": "publisher-medium",
+          "file": "publisher-medium.md",
+          "size": 1827
+        },
+        {
+          "name": "publisher-x",
+          "file": "publisher-x.md",
+          "size": 5336
+        }
+      ],
+      "nextjs-vercel": [
+        {
+          "name": "nextjs-api-tester",
+          "file": "nextjs-api-tester.md",
+          "size": 12888
+        },
+        {
+          "name": "nextjs-bundle-analyzer",
+          "file": "nextjs-bundle-analyzer.md",
+          "size": 11031
+        },
+        {
+          "name": "nextjs-component-generator",
+          "file": "nextjs-component-generator.md",
+          "size": 11646
+        },
+        {
+          "name": "nextjs-middleware-creator",
+          "file": "nextjs-middleware-creator.md",
+          "size": 19826
+        },
+        {
+          "name": "nextjs-migration-helper",
+          "file": "nextjs-migration-helper.md",
+          "size": 20698
+        },
+        {
+          "name": "nextjs-performance-audit",
+          "file": "nextjs-performance-audit.md",
+          "size": 17305
+        },
+        {
+          "name": "nextjs-scaffold",
+          "file": "nextjs-scaffold.md",
+          "size": 6436
+        },
+        {
+          "name": "vercel-deploy-optimize",
+          "file": "vercel-deploy-optimize.md",
+          "size": 9301
+        },
+        {
+          "name": "vercel-edge-function",
+          "file": "vercel-edge-function.md",
+          "size": 21689
+        },
+        {
+          "name": "vercel-env-sync",
+          "file": "vercel-env-sync.md",
+          "size": 19666
+        }
+      ],
+      "orchestration": [
+        {
+          "name": "archive",
+          "file": "archive.md",
+          "size": 11462
+        },
+        {
+          "name": "commit",
+          "file": "commit.md",
+          "size": 6531
+        },
+        {
+          "name": "feature-analyzer",
+          "file": "feature-analyzer.md",
+          "size": 823
+        },
+        {
+          "name": "feature-dev",
+          "file": "feature-dev.md",
+          "size": 6932
+        },
+        {
+          "name": "feature-pipeline",
+          "file": "feature-pipeline.md",
+          "size": 3351
+        },
+        {
+          "name": "find",
+          "file": "find.md",
+          "size": 5405
+        },
+        {
+          "name": "log",
+          "file": "log.md",
+          "size": 7428
+        },
+        {
+          "name": "move",
+          "file": "move.md",
+          "size": 4981
+        },
+        {
+          "name": "optimize",
+          "file": "optimize.md",
+          "size": 9807
+        },
+        {
+          "name": "remove",
+          "file": "remove.md",
+          "size": 6832
+        },
+        {
+          "name": "report",
+          "file": "report.md",
+          "size": 6711
+        },
+        {
+          "name": "resume",
+          "file": "resume.md",
+          "size": 7160
+        },
+        {
+          "name": "start",
+          "file": "start.md",
+          "size": 4594
+        },
+        {
+          "name": "status",
+          "file": "status.md",
+          "size": 4972
+        },
+        {
+          "name": "sync",
+          "file": "sync.md",
+          "size": 6608
+        }
+      ],
+      "performance": [
+        {
+          "name": "add-performance-monitoring",
+          "file": "add-performance-monitoring.md",
+          "size": 3980
+        },
+        {
+          "name": "implement-caching-strategy",
+          "file": "implement-caching-strategy.md",
+          "size": 4115
+        },
+        {
+          "name": "optimize-api-performance",
+          "file": "optimize-api-performance.md",
+          "size": 5585
+        },
+        {
+          "name": "optimize-build",
+          "file": "optimize-build.md",
+          "size": 5179
+        },
+        {
+          "name": "optimize-bundle-size",
+          "file": "optimize-bundle-size.md",
+          "size": 3740
+        },
+        {
+          "name": "optimize-database-performance",
+          "file": "optimize-database-performance.md",
+          "size": 3711
+        },
+        {
+          "name": "optimize-memory-usage",
+          "file": "optimize-memory-usage.md",
+          "size": 4186
+        },
+        {
+          "name": "performance-audit",
+          "file": "performance-audit.md",
+          "size": 3626
+        },
+        {
+          "name": "setup-cdn-optimization",
+          "file": "setup-cdn-optimization.md",
+          "size": 3799
+        },
+        {
+          "name": "system-behavior-simulator",
+          "file": "system-behavior-simulator.md",
+          "size": 17884
+        }
+      ],
+      "project-management": [
+        {
+          "name": "add-package",
+          "file": "add-package.md",
+          "size": 3999
+        },
+        {
+          "name": "add-to-changelog",
+          "file": "add-to-changelog.md",
+          "size": 1290
+        },
+        {
+          "name": "create-feature",
+          "file": "create-feature.md",
+          "size": 4845
+        },
+        {
+          "name": "create-jtbd",
+          "file": "create-jtbd.md",
+          "size": 1579
+        },
+        {
+          "name": "create-prd",
+          "file": "create-prd.md",
+          "size": 1541
+        },
+        {
+          "name": "create-prp",
+          "file": "create-prp.md",
+          "size": 1633
+        },
+        {
+          "name": "init-project",
+          "file": "init-project.md",
+          "size": 3794
+        },
+        {
+          "name": "milestone-tracker",
+          "file": "milestone-tracker.md",
+          "size": 1583
+        },
+        {
+          "name": "pac-configure",
+          "file": "pac-configure.md",
+          "size": 1427
+        },
+        {
+          "name": "pac-create-epic",
+          "file": "pac-create-epic.md",
+          "size": 1549
+        },
+        {
+          "name": "pac-create-ticket",
+          "file": "pac-create-ticket.md",
+          "size": 1618
+        },
+        {
+          "name": "pac-update-status",
+          "file": "pac-update-status.md",
+          "size": 1573
+        },
+        {
+          "name": "pac-validate",
+          "file": "pac-validate.md",
+          "size": 1535
+        },
+        {
+          "name": "project-health-check",
+          "file": "project-health-check.md",
+          "size": 1937
+        },
+        {
+          "name": "project-timeline-simulator",
+          "file": "project-timeline-simulator.md",
+          "size": 1641
+        },
+        {
+          "name": "project-to-linear",
+          "file": "project-to-linear.md",
+          "size": 1536
+        },
+        {
+          "name": "release",
+          "file": "release.md",
+          "size": 1567
+        },
+        {
+          "name": "todo",
+          "file": "todo.md",
+          "size": 3129
+        }
+      ],
+      "security": [
+        {
+          "name": "add-authentication-system",
+          "file": "add-authentication-system.md",
+          "size": 1599
+        },
+        {
+          "name": "dependency-audit",
+          "file": "dependency-audit.md",
+          "size": 1527
+        },
+        {
+          "name": "penetration-test",
+          "file": "penetration-test.md",
+          "size": 1916
+        },
+        {
+          "name": "secrets-scanner",
+          "file": "secrets-scanner.md",
+          "size": 1674
+        },
+        {
+          "name": "security-audit",
+          "file": "security-audit.md",
+          "size": 3106
+        },
+        {
+          "name": "security-hardening",
+          "file": "security-hardening.md",
+          "size": 1573
+        }
+      ],
+      "setup": [
+        {
+          "name": "create-database-migrations",
+          "file": "create-database-migrations.md",
+          "size": 1669
+        },
+        {
+          "name": "design-database-schema",
+          "file": "design-database-schema.md",
+          "size": 1754
+        },
+        {
+          "name": "design-rest-api",
+          "file": "design-rest-api.md",
+          "size": 1828
+        },
+        {
+          "name": "implement-graphql-api",
+          "file": "implement-graphql-api.md",
+          "size": 1856
+        },
+        {
+          "name": "migrate-to-typescript",
+          "file": "migrate-to-typescript.md",
+          "size": 1904
+        },
+        {
+          "name": "setup-ci-cd-pipeline",
+          "file": "setup-ci-cd-pipeline.md",
+          "size": 1905
+        },
+        {
+          "name": "setup-development-environment",
+          "file": "setup-development-environment.md",
+          "size": 1890
+        },
+        {
+          "name": "setup-docker-containers",
+          "file": "setup-docker-containers.md",
+          "size": 1888
+        },
+        {
+          "name": "setup-formatting",
+          "file": "setup-formatting.md",
+          "size": 1876
+        },
+        {
+          "name": "setup-linting",
+          "file": "setup-linting.md",
+          "size": 1954
+        },
+        {
+          "name": "setup-monitoring-observability",
+          "file": "setup-monitoring-observability.md",
+          "size": 2015
+        },
+        {
+          "name": "setup-monorepo",
+          "file": "setup-monorepo.md",
+          "size": 1977
+        },
+        {
+          "name": "setup-rate-limiting",
+          "file": "setup-rate-limiting.md",
+          "size": 2069
+        },
+        {
+          "name": "update-dependencies",
+          "file": "update-dependencies.md",
+          "size": 1940
+        },
+        {
+          "name": "vercel-analytics",
+          "file": "vercel-analytics.md",
+          "size": 2026
+        }
+      ],
+      "simulation": [
+        {
+          "name": "business-scenario-explorer",
+          "file": "business-scenario-explorer.md",
+          "size": 1939
+        },
+        {
+          "name": "constraint-modeler",
+          "file": "constraint-modeler.md",
+          "size": 1889
+        },
+        {
+          "name": "decision-tree-explorer",
+          "file": "decision-tree-explorer.md",
+          "size": 2018
+        },
+        {
+          "name": "digital-twin-creator",
+          "file": "digital-twin-creator.md",
+          "size": 2035
+        },
+        {
+          "name": "future-scenario-generator",
+          "file": "future-scenario-generator.md",
+          "size": 2101
+        },
+        {
+          "name": "market-response-modeler",
+          "file": "market-response-modeler.md",
+          "size": 2210
+        },
+        {
+          "name": "monte-carlo-simulator",
+          "file": "monte-carlo-simulator.md",
+          "size": 2202
+        },
+        {
+          "name": "simulation-calibrator",
+          "file": "simulation-calibrator.md",
+          "size": 2111
+        },
+        {
+          "name": "system-dynamics-modeler",
+          "file": "system-dynamics-modeler.md",
+          "size": 2202
+        },
+        {
+          "name": "timeline-compressor",
+          "file": "timeline-compressor.md",
+          "size": 2294
+        }
+      ],
+      "svelte": [
+        {
+          "name": "svelte-a11y",
+          "file": "svelte-a11y.md",
+          "size": 2656
+        },
+        {
+          "name": "svelte-component",
+          "file": "svelte-component.md",
+          "size": 2294
+        },
+        {
+          "name": "svelte-debug",
+          "file": "svelte-debug.md",
+          "size": 1728
+        },
+        {
+          "name": "svelte-migrate",
+          "file": "svelte-migrate.md",
+          "size": 2063
+        },
+        {
+          "name": "svelte-optimize",
+          "file": "svelte-optimize.md",
+          "size": 2661
+        },
+        {
+          "name": "svelte-scaffold",
+          "file": "svelte-scaffold.md",
+          "size": 2425
+        },
+        {
+          "name": "svelte-storybook-migrate",
+          "file": "svelte-storybook-migrate.md",
+          "size": 4575
+        },
+        {
+          "name": "svelte-storybook-mock",
+          "file": "svelte-storybook-mock.md",
+          "size": 5603
+        },
+        {
+          "name": "svelte-storybook-setup",
+          "file": "svelte-storybook-setup.md",
+          "size": 2964
+        },
+        {
+          "name": "svelte-storybook-story",
+          "file": "svelte-storybook-story.md",
+          "size": 3696
+        },
+        {
+          "name": "svelte-storybook-troubleshoot",
+          "file": "svelte-storybook-troubleshoot.md",
+          "size": 4615
+        },
+        {
+          "name": "svelte-storybook",
+          "file": "svelte-storybook.md",
+          "size": 1576
+        },
+        {
+          "name": "svelte-test-coverage",
+          "file": "svelte-test-coverage.md",
+          "size": 2042
+        },
+        {
+          "name": "svelte-test-fix",
+          "file": "svelte-test-fix.md",
+          "size": 2375
+        },
+        {
+          "name": "svelte-test-setup",
+          "file": "svelte-test-setup.md",
+          "size": 2358
+        },
+        {
+          "name": "svelte-test",
+          "file": "svelte-test.md",
+          "size": 1841
+        }
+      ],
+      "sync": [
+        {
+          "name": "bidirectional-sync",
+          "file": "bidirectional-sync.md",
+          "size": 1975
+        },
+        {
+          "name": "bulk-import-issues",
+          "file": "bulk-import-issues.md",
+          "size": 2128
+        },
+        {
+          "name": "cross-reference-manager",
+          "file": "cross-reference-manager.md",
+          "size": 2120
+        },
+        {
+          "name": "issue-to-linear-task",
+          "file": "issue-to-linear-task.md",
+          "size": 2114
+        },
+        {
+          "name": "linear-task-to-issue",
+          "file": "linear-task-to-issue.md",
+          "size": 2141
+        },
+        {
+          "name": "sync-automation-setup",
+          "file": "sync-automation-setup.md",
+          "size": 2194
+        },
+        {
+          "name": "sync-conflict-resolver",
+          "file": "sync-conflict-resolver.md",
+          "size": 2207
+        },
+        {
+          "name": "sync-health-monitor",
+          "file": "sync-health-monitor.md",
+          "size": 2185
+        },
+        {
+          "name": "sync-issues-to-linear",
+          "file": "sync-issues-to-linear.md",
+          "size": 2110
+        },
+        {
+          "name": "sync-linear-to-issues",
+          "file": "sync-linear-to-issues.md",
+          "size": 2007
+        },
+        {
+          "name": "sync-migration-assistant",
+          "file": "sync-migration-assistant.md",
+          "size": 2213
+        },
+        {
+          "name": "sync-pr-to-task",
+          "file": "sync-pr-to-task.md",
+          "size": 2048
+        },
+        {
+          "name": "sync-status",
+          "file": "sync-status.md",
+          "size": 11271
+        },
+        {
+          "name": "task-from-pr",
+          "file": "task-from-pr.md",
+          "size": 2126
+        }
+      ],
+      "team": [
+        {
+          "name": "architecture-review",
+          "file": "architecture-review.md",
+          "size": 2484
+        },
+        {
+          "name": "decision-quality-analyzer",
+          "file": "decision-quality-analyzer.md",
+          "size": 2272
+        },
+        {
+          "name": "dependency-mapper",
+          "file": "dependency-mapper.md",
+          "size": 2355
+        },
+        {
+          "name": "estimate-assistant",
+          "file": "estimate-assistant.md",
+          "size": 2430
+        },
+        {
+          "name": "issue-triage",
+          "file": "issue-triage.md",
+          "size": 2170
+        },
+        {
+          "name": "memory-spring-cleaning",
+          "file": "memory-spring-cleaning.md",
+          "size": 2310
+        },
+        {
+          "name": "migration-assistant",
+          "file": "migration-assistant.md",
+          "size": 2236
+        },
+        {
+          "name": "retrospective-analyzer",
+          "file": "retrospective-analyzer.md",
+          "size": 2300
+        },
+        {
+          "name": "session-learning-capture",
+          "file": "session-learning-capture.md",
+          "size": 2373
+        },
+        {
+          "name": "sprint-planning",
+          "file": "sprint-planning.md",
+          "size": 5000
+        },
+        {
+          "name": "standup-report",
+          "file": "standup-report.md",
+          "size": 2205
+        },
+        {
+          "name": "team-knowledge-mapper",
+          "file": "team-knowledge-mapper.md",
+          "size": 2437
+        },
+        {
+          "name": "team-velocity-tracker",
+          "file": "team-velocity-tracker.md",
+          "size": 2450
+        },
+        {
+          "name": "team-workload-balancer",
+          "file": "team-workload-balancer.md",
+          "size": 2411
+        }
+      ],
+      "testing": [
+        {
+          "name": "add-mutation-testing",
+          "file": "add-mutation-testing.md",
+          "size": 2607
+        },
+        {
+          "name": "add-property-based-testing",
+          "file": "add-property-based-testing.md",
+          "size": 2466
+        },
+        {
+          "name": "e2e-setup",
+          "file": "e2e-setup.md",
+          "size": 2341
+        },
+        {
+          "name": "generate-test-cases",
+          "file": "generate-test-cases.md",
+          "size": 2384
+        },
+        {
+          "name": "generate-tests",
+          "file": "generate-tests.md",
+          "size": 2776
+        },
+        {
+          "name": "setup-comprehensive-testing",
+          "file": "setup-comprehensive-testing.md",
+          "size": 2417
+        },
+        {
+          "name": "setup-load-testing",
+          "file": "setup-load-testing.md",
+          "size": 2472
+        },
+        {
+          "name": "setup-visual-testing",
+          "file": "setup-visual-testing.md",
+          "size": 2492
+        },
+        {
+          "name": "test-automation-orchestrator",
+          "file": "test-automation-orchestrator.md",
+          "size": 2481
+        },
+        {
+          "name": "test-changelog-automation",
+          "file": "test-changelog-automation.md",
+          "size": 2357
+        },
+        {
+          "name": "test-coverage",
+          "file": "test-coverage.md",
+          "size": 2483
+        },
+        {
+          "name": "test-quality-analyzer",
+          "file": "test-quality-analyzer.md",
+          "size": 2391
+        },
+        {
+          "name": "testing_plan_integration",
+          "file": "testing_plan_integration.md",
+          "size": 2379
+        },
+        {
+          "name": "write-tests",
+          "file": "write-tests.md",
+          "size": 2282
+        }
+      ],
+      "utilities": [
+        {
+          "name": "all-tools",
+          "file": "all-tools.md",
+          "size": 1094
+        },
+        {
+          "name": "architecture-scenario-explorer",
+          "file": "architecture-scenario-explorer.md",
+          "size": 16026
+        },
+        {
+          "name": "check-file",
+          "file": "check-file.md",
+          "size": 1779
+        },
+        {
+          "name": "clean-branches",
+          "file": "clean-branches.md",
+          "size": 7608
+        },
+        {
+          "name": "clean",
+          "file": "clean.md",
+          "size": 69
+        },
+        {
+          "name": "cleanup-cache",
+          "file": "cleanup-cache.md",
+          "size": 5251
+        },
+        {
+          "name": "code-permutation-tester",
+          "file": "code-permutation-tester.md",
+          "size": 13737
+        },
+        {
+          "name": "code-review",
+          "file": "code-review.md",
+          "size": 2619
+        },
+        {
+          "name": "code-to-task",
+          "file": "code-to-task.md",
+          "size": 16911
+        },
+        {
+          "name": "context-prime",
+          "file": "context-prime.md",
+          "size": 139
+        },
+        {
+          "name": "debug-error",
+          "file": "debug-error.md",
+          "size": 4812
+        },
+        {
+          "name": "directory-deep-dive",
+          "file": "directory-deep-dive.md",
+          "size": 1243
+        },
+        {
+          "name": "explain-code",
+          "file": "explain-code.md",
+          "size": 6864
+        },
+        {
+          "name": "fix-issue",
+          "file": "fix-issue.md",
+          "size": 3321
+        },
+        {
+          "name": "generate-linear-worklog",
+          "file": "generate-linear-worklog.md",
+          "size": 4350
+        },
+        {
+          "name": "git-status",
+          "file": "git-status.md",
+          "size": 1381
+        },
+        {
+          "name": "initref",
+          "file": "initref.md",
+          "size": 457
+        },
+        {
+          "name": "prime",
+          "file": "prime.md",
+          "size": 1633
+        },
+        {
+          "name": "refactor-code",
+          "file": "refactor-code.md",
+          "size": 4526
+        },
+        {
+          "name": "screenshot-analyzer",
+          "file": "screenshot-analyzer.md",
+          "size": 3079
+        },
+        {
+          "name": "ultra-think",
+          "file": "ultra-think.md",
+          "size": 4974
+        }
+      ]
+    },
+    "hooks": {
+      "automation": [
+        {
+          "name": "agents-md-loader",
+          "file": "agents-md-loader.json",
+          "size": 818
+        },
+        {
+          "name": "build-on-change",
+          "file": "build-on-change.json",
+          "size": 743
+        },
+        {
+          "name": "dependency-checker",
+          "file": "dependency-checker.json",
+          "size": 1137
+        },
+        {
+          "name": "deployment-health-monitor",
+          "file": "deployment-health-monitor.json",
+          "size": 5850
+        },
+        {
+          "name": "discord-detailed-notifications",
+          "file": "discord-detailed-notifications.json",
+          "size": 2611
+        },
+        {
+          "name": "discord-error-notifications",
+          "file": "discord-error-notifications.json",
+          "size": 2364
+        },
+        {
+          "name": "discord-notifications",
+          "file": "discord-notifications.json",
+          "size": 1353
+        },
+        {
+          "name": "simple-notifications",
+          "file": "simple-notifications.json",
+          "size": 603
+        },
+        {
+          "name": "slack-detailed-notifications",
+          "file": "slack-detailed-notifications.json",
+          "size": 2536
+        },
+        {
+          "name": "slack-error-notifications",
+          "file": "slack-error-notifications.json",
+          "size": 2301
+        },
+        {
+          "name": "slack-notifications",
+          "file": "slack-notifications.json",
+          "size": 1311
+        },
+        {
+          "name": "telegram-detailed-notifications",
+          "file": "telegram-detailed-notifications.json",
+          "size": 2210
+        },
+        {
+          "name": "telegram-error-notifications",
+          "file": "telegram-error-notifications.json",
+          "size": 2060
+        },
+        {
+          "name": "telegram-notifications",
+          "file": "telegram-notifications.json",
+          "size": 1617
+        },
+        {
+          "name": "vercel-auto-deploy",
+          "file": "vercel-auto-deploy.json",
+          "size": 2739
+        },
+        {
+          "name": "vercel-environment-sync",
+          "file": "vercel-environment-sync.json",
+          "size": 4788
+        }
+      ],
+      "development-tools": [
+        {
+          "name": "change-tracker",
+          "file": "change-tracker.json",
+          "size": 734
+        },
+        {
+          "name": "command-logger",
+          "file": "command-logger.json",
+          "size": 462
+        },
+        {
+          "name": "debug-window",
+          "file": "debug-window.json",
+          "size": 400
+        },
+        {
+          "name": "file-backup",
+          "file": "file-backup.json",
+          "size": 575
+        },
+        {
+          "name": "lint-on-save",
+          "file": "lint-on-save.json",
+          "size": 850
+        },
+        {
+          "name": "nextjs-code-quality-enforcer",
+          "file": "nextjs-code-quality-enforcer.json",
+          "size": 4468
+        },
+        {
+          "name": "smart-formatting",
+          "file": "smart-formatting.json",
+          "size": 1190
+        }
+      ],
+      "git": [
+        {
+          "name": "conventional-commits",
+          "file": "conventional-commits.json",
+          "size": 614
+        },
+        {
+          "name": "prevent-direct-push",
+          "file": "prevent-direct-push.json",
+          "size": 569
+        },
+        {
+          "name": "validate-branch-name",
+          "file": "validate-branch-name.json",
+          "size": 506
+        }
+      ],
+      "git-workflow": [
+        {
+          "name": "auto-git-add",
+          "file": "auto-git-add.json",
+          "size": 532
+        },
+        {
+          "name": "smart-commit",
+          "file": "smart-commit.json",
+          "size": 1413
+        }
+      ],
+      "root": [
+        {
+          "name": "HOOK_PATTERNS_COMPRESSED",
+          "file": "HOOK_PATTERNS_COMPRESSED.json",
+          "size": 3484
+        }
+      ],
+      "monitoring": [
+        {
+          "name": "langsmith-tracing",
+          "file": "langsmith-tracing.json",
+          "size": 1153
+        }
+      ],
+      "performance": [
+        {
+          "name": "performance-budget-guard",
+          "file": "performance-budget-guard.json",
+          "size": 4577
+        },
+        {
+          "name": "performance-monitor",
+          "file": "performance-monitor.json",
+          "size": 983
+        }
+      ],
+      "post-tool": [
+        {
+          "name": "format-javascript-files",
+          "file": "format-javascript-files.json",
+          "size": 728
+        },
+        {
+          "name": "format-python-files",
+          "file": "format-python-files.json",
+          "size": 687
+        },
+        {
+          "name": "git-add-changes",
+          "file": "git-add-changes.json",
+          "size": 855
+        },
+        {
+          "name": "run-tests-after-changes",
+          "file": "run-tests-after-changes.json",
+          "size": 712
+        }
+      ],
+      "pre-tool": [
+        {
+          "name": "backup-before-edit",
+          "file": "backup-before-edit.json",
+          "size": 721
+        },
+        {
+          "name": "notify-before-bash",
+          "file": "notify-before-bash.json",
+          "size": 588
+        },
+        {
+          "name": "update-search-year",
+          "file": "update-search-year.json",
+          "size": 1184
+        }
+      ],
+      "security": [
+        {
+          "name": "file-protection",
+          "file": "file-protection.json",
+          "size": 713
+        },
+        {
+          "name": "security-scanner",
+          "file": "security-scanner.json",
+          "size": 970
+        }
+      ],
+      "testing": [
+        {
+          "name": "test-runner",
+          "file": "test-runner.json",
+          "size": 924
+        }
+      ]
+    },
+    "mcps": {
+      "audio": [
+        {
+          "name": "elevenlabs",
+          "file": "elevenlabs.json",
+          "size": 499
+        }
+      ],
+      "browser_automation": [
+        {
+          "name": "browser-use-mcp-server",
+          "file": "browser-use-mcp-server.json",
+          "size": 435
+        },
+        {
+          "name": "browsermcp",
+          "file": "browsermcp.json",
+          "size": 279
+        },
+        {
+          "name": "mcp-server-browserbase",
+          "file": "mcp-server-browserbase.json",
+          "size": 523
+        },
+        {
+          "name": "mcp-server-playwright",
+          "file": "mcp-server-playwright.json",
+          "size": 282
+        },
+        {
+          "name": "playwright-mcp-server",
+          "file": "playwright-mcp-server.json",
+          "size": 458
+        },
+        {
+          "name": "playwright-mcp",
+          "file": "playwright-mcp.json",
+          "size": 432
+        }
+      ],
+      "database": [
+        {
+          "name": "mysql-integration",
+          "file": "mysql-integration.json",
+          "size": 359
+        },
+        {
+          "name": "neon",
+          "file": "neon.json",
+          "size": 230
+        },
+        {
+          "name": "postgresql-documentation",
+          "file": "postgresql-documentation.json",
+          "size": 233
+        },
+        {
+          "name": "postgresql-integration",
+          "file": "postgresql-integration.json",
+          "size": 400
+        },
+        {
+          "name": "supabase",
+          "file": "supabase.json",
+          "size": 390
+        }
+      ],
+      "deepgraph": [
+        {
+          "name": "deepgraph-nextjs",
+          "file": "deepgraph-nextjs.json",
+          "size": 354
+        },
+        {
+          "name": "deepgraph-react",
+          "file": "deepgraph-react.json",
+          "size": 331
+        },
+        {
+          "name": "deepgraph-typescript",
+          "file": "deepgraph-typescript.json",
+          "size": 342
+        },
+        {
+          "name": "deepgraph-vue",
+          "file": "deepgraph-vue.json",
+          "size": 326
+        }
+      ],
+      "deepresearch": [
+        {
+          "name": "mcp-server-nia",
+          "file": "mcp-server-nia.json",
+          "size": 369
+        }
+      ],
+      "devtools": [
+        {
+          "name": "azure-kubernetes-service",
+          "file": "azure-kubernetes-service.json",
+          "size": 558
+        },
+        {
+          "name": "box",
+          "file": "box.json",
+          "size": 596
+        },
+        {
+          "name": "chrome-devtools",
+          "file": "chrome-devtools.json",
+          "size": 314
+        },
+        {
+          "name": "circleci",
+          "file": "circleci.json",
+          "size": 457
+        },
+        {
+          "name": "codacy",
+          "file": "codacy.json",
+          "size": 328
+        },
+        {
+          "name": "context7",
+          "file": "context7.json",
+          "size": 303
+        },
+        {
+          "name": "dynatrace",
+          "file": "dynatrace.json",
+          "size": 365
+        },
+        {
+          "name": "elasticsearch",
+          "file": "elasticsearch.json",
+          "size": 545
+        },
+        {
+          "name": "figma-dev-mode",
+          "file": "figma-dev-mode.json",
+          "size": 327
+        },
+        {
+          "name": "firecrawl",
+          "file": "firecrawl.json",
+          "size": 334
+        },
+        {
+          "name": "firefly-mcp",
+          "file": "firefly-mcp.json",
+          "size": 440
+        },
+        {
+          "name": "grafana",
+          "file": "grafana.json",
+          "size": 526
+        },
+        {
+          "name": "huggingface",
+          "file": "huggingface.json",
+          "size": 302
+        },
+        {
+          "name": "imagesorcery",
+          "file": "imagesorcery.json",
+          "size": 507
+        },
+        {
+          "name": "ios-simulator-mcp",
+          "file": "ios-simulator-mcp.json",
+          "size": 299
+        },
+        {
+          "name": "jfrog",
+          "file": "jfrog.json",
+          "size": 232
+        },
+        {
+          "name": "just-mcp",
+          "file": "just-mcp.json",
+          "size": 312
+        },
+        {
+          "name": "launchdarkly",
+          "file": "launchdarkly.json",
+          "size": 519
+        },
+        {
+          "name": "leetcode",
+          "file": "leetcode.json",
+          "size": 266
+        },
+        {
+          "name": "logfire",
+          "file": "logfire.json",
+          "size": 236
+        },
+        {
+          "name": "markitdown",
+          "file": "markitdown.json",
+          "size": 292
+        },
+        {
+          "name": "mcp-server-atlassian-bitbucket",
+          "file": "mcp-server-atlassian-bitbucket.json",
+          "size": 404
+        },
+        {
+          "name": "mcp-server-trello",
+          "file": "mcp-server-trello.json",
+          "size": 232
+        },
+        {
+          "name": "microsoft-clarity",
+          "file": "microsoft-clarity.json",
+          "size": 219
+        },
+        {
+          "name": "microsoft-dev-box",
+          "file": "microsoft-dev-box.json",
+          "size": 296
+        },
+        {
+          "name": "mongodb",
+          "file": "mongodb.json",
+          "size": 362
+        },
+        {
+          "name": "postman",
+          "file": "postman.json",
+          "size": 496
+        },
+        {
+          "name": "pulumi",
+          "file": "pulumi.json",
+          "size": 395
+        },
+        {
+          "name": "railway",
+          "file": "railway.json",
+          "size": 326
+        },
+        {
+          "name": "sentry",
+          "file": "sentry.json",
+          "size": 312
+        },
+        {
+          "name": "serena",
+          "file": "serena.json",
+          "size": 294
+        },
+        {
+          "name": "stripe",
+          "file": "stripe.json",
+          "size": 313
+        },
+        {
+          "name": "terraform",
+          "file": "terraform.json",
+          "size": 465
+        },
+        {
+          "name": "testsprite",
+          "file": "testsprite.json",
+          "size": 320
+        },
+        {
+          "name": "webflow",
+          "file": "webflow.json",
+          "size": 188
+        },
+        {
+          "name": "zai-mcp-server",
+          "file": "zai-mcp-server.json",
+          "size": 565
+        }
+      ],
+      "filesystem": [
+        {
+          "name": "filesystem-access",
+          "file": "filesystem-access.json",
+          "size": 335
+        }
+      ],
+      "integration": [
+        {
+          "name": "github-integration",
+          "file": "github-integration.json",
+          "size": 374
+        },
+        {
+          "name": "memory-integration",
+          "file": "memory-integration.json",
+          "size": 294
+        }
+      ],
+      "marketing": [
+        {
+          "name": "facebook-ads-mcp-server",
+          "file": "facebook-ads-mcp-server.json",
+          "size": 400
+        },
+        {
+          "name": "google-ads-mcp-server",
+          "file": "google-ads-mcp-server.json",
+          "size": 339
+        }
+      ],
+      "productivity": [
+        {
+          "name": "monday",
+          "file": "monday.json",
+          "size": 503
+        },
+        {
+          "name": "notion",
+          "file": "notion.json",
+          "size": 255
+        }
+      ],
+      "web": [
+        {
+          "name": "web-fetch",
+          "file": "web-fetch.json",
+          "size": 295
+        },
+        {
+          "name": "web-reader",
+          "file": "web-reader.json",
+          "size": 510
+        },
+        {
+          "name": "web-search-prime",
+          "file": "web-search-prime.json",
+          "size": 534
+        },
+        {
+          "name": "zread",
+          "file": "zread.json",
+          "size": 486
+        }
+      ]
+    },
+    "skills": {
+      "ai-research": [
+        {
+          "name": "agents-autogpt",
+          "file": "agents-autogpt/SKILL.md",
+          "size": 9707
+        },
+        {
+          "name": "agents-crewai",
+          "file": "agents-crewai/SKILL.md",
+          "size": 13967
+        },
+        {
+          "name": "agents-langchain",
+          "file": "agents-langchain/SKILL.md",
+          "size": 13319
+        },
+        {
+          "name": "agents-llamaindex",
+          "file": "agents-llamaindex/SKILL.md",
+          "size": 15295
+        },
+        {
+          "name": "data-processing-nemo-curator",
+          "file": "data-processing-nemo-curator/SKILL.md",
+          "size": 9721
+        },
+        {
+          "name": "data-processing-ray-data",
+          "file": "data-processing-ray-data/SKILL.md",
+          "size": 7652
+        },
+        {
+          "name": "distributed-training-accelerate",
+          "file": "distributed-training-accelerate/SKILL.md",
+          "size": 8672
+        },
+        {
+          "name": "distributed-training-deepspeed",
+          "file": "distributed-training-deepspeed/SKILL.md",
+          "size": 145129
+        },
+        {
+          "name": "distributed-training-megatron-core",
+          "file": "distributed-training-megatron-core/SKILL.md",
+          "size": 10072
+        },
+        {
+          "name": "distributed-training-pytorch-fsdp",
+          "file": "distributed-training-pytorch-fsdp/SKILL.md",
+          "size": 160271
+        },
+        {
+          "name": "distributed-training-pytorch-lightning",
+          "file": "distributed-training-pytorch-lightning/SKILL.md",
+          "size": 9467
+        },
+        {
+          "name": "distributed-training-ray-train",
+          "file": "distributed-training-ray-train/SKILL.md",
+          "size": 11100
+        },
+        {
+          "name": "emerging-techniques-knowledge-distillation",
+          "file": "emerging-techniques-knowledge-distillation/SKILL.md",
+          "size": 14058
+        },
+        {
+          "name": "emerging-techniques-long-context",
+          "file": "emerging-techniques-long-context/SKILL.md",
+          "size": 16113
+        },
+        {
+          "name": "emerging-techniques-model-merging",
+          "file": "emerging-techniques-model-merging/SKILL.md",
+          "size": 12978
+        },
+        {
+          "name": "emerging-techniques-model-pruning",
+          "file": "emerging-techniques-model-pruning/SKILL.md",
+          "size": 14239
+        },
+        {
+          "name": "emerging-techniques-moe-training",
+          "file": "emerging-techniques-moe-training/SKILL.md",
+          "size": 15494
+        },
+        {
+          "name": "emerging-techniques-speculative-decoding",
+          "file": "emerging-techniques-speculative-decoding/SKILL.md",
+          "size": 14539
+        },
+        {
+          "name": "evaluation-bigcode-evaluation-harness",
+          "file": "evaluation-bigcode-evaluation-harness/SKILL.md",
+          "size": 12101
+        },
+        {
+          "name": "evaluation-lm-evaluation-harness",
+          "file": "evaluation-lm-evaluation-harness/SKILL.md",
+          "size": 12385
+        },
+        {
+          "name": "fine-tuning-axolotl",
+          "file": "fine-tuning-axolotl/SKILL.md",
+          "size": 4955
+        },
+        {
+          "name": "fine-tuning-llama-factory",
+          "file": "fine-tuning-llama-factory/SKILL.md",
+          "size": 2552
+        },
+        {
+          "name": "fine-tuning-peft",
+          "file": "fine-tuning-peft/SKILL.md",
+          "size": 12641
+        },
+        {
+          "name": "fine-tuning-unsloth",
+          "file": "fine-tuning-unsloth/SKILL.md",
+          "size": 2387
+        },
+        {
+          "name": "inference-serving-llama-cpp",
+          "file": "inference-serving-llama-cpp/SKILL.md",
+          "size": 6170
+        },
+        {
+          "name": "inference-serving-sglang",
+          "file": "inference-serving-sglang/SKILL.md",
+          "size": 11873
+        },
+        {
+          "name": "inference-serving-tensorrt-llm",
+          "file": "inference-serving-tensorrt-llm/SKILL.md",
+          "size": 5226
+        },
+        {
+          "name": "inference-serving-vllm",
+          "file": "inference-serving-vllm/SKILL.md",
+          "size": 9390
+        },
+        {
+          "name": "infrastructure-lambda-labs",
+          "file": "infrastructure-lambda-labs/SKILL.md",
+          "size": 12698
+        },
+        {
+          "name": "infrastructure-modal",
+          "file": "infrastructure-modal/SKILL.md",
+          "size": 8896
+        },
+        {
+          "name": "infrastructure-skypilot",
+          "file": "infrastructure-skypilot/SKILL.md",
+          "size": 10150
+        },
+        {
+          "name": "mechanistic-interpretability-nnsight",
+          "file": "mechanistic-interpretability-nnsight/SKILL.md",
+          "size": 13502
+        },
+        {
+          "name": "mechanistic-interpretability-pyvene",
+          "file": "mechanistic-interpretability-pyvene/SKILL.md",
+          "size": 14617
+        },
+        {
+          "name": "mechanistic-interpretability-saelens",
+          "file": "mechanistic-interpretability-saelens/SKILL.md",
+          "size": 13140
+        },
+        {
+          "name": "mechanistic-interpretability-transformer-lens",
+          "file": "mechanistic-interpretability-transformer-lens/SKILL.md",
+          "size": 12382
+        },
+        {
+          "name": "mlops-mlflow",
+          "file": "mlops-mlflow/SKILL.md",
+          "size": 16303
+        },
+        {
+          "name": "mlops-tensorboard",
+          "file": "mlops-tensorboard/SKILL.md",
+          "size": 15905
+        },
+        {
+          "name": "mlops-weights-and-biases",
+          "file": "mlops-weights-and-biases/SKILL.md",
+          "size": 13044
+        },
+        {
+          "name": "model-architecture-litgpt",
+          "file": "model-architecture-litgpt/SKILL.md",
+          "size": 11479
+        },
+        {
+          "name": "model-architecture-mamba",
+          "file": "model-architecture-mamba/SKILL.md",
+          "size": 7628
+        },
+        {
+          "name": "model-architecture-nanogpt",
+          "file": "model-architecture-nanogpt/SKILL.md",
+          "size": 7042
+        },
+        {
+          "name": "model-architecture-rwkv",
+          "file": "model-architecture-rwkv/SKILL.md",
+          "size": 7359
+        },
+        {
+          "name": "multimodal-audiocraft",
+          "file": "multimodal-audiocraft/SKILL.md",
+          "size": 16872
+        },
+        {
+          "name": "multimodal-blip-2",
+          "file": "multimodal-blip-2/SKILL.md",
+          "size": 19180
+        },
+        {
+          "name": "multimodal-clip",
+          "file": "multimodal-clip/SKILL.md",
+          "size": 7137
+        },
+        {
+          "name": "multimodal-llava",
+          "file": "multimodal-llava/SKILL.md",
+          "size": 8137
+        },
+        {
+          "name": "multimodal-segment-anything",
+          "file": "multimodal-segment-anything/SKILL.md",
+          "size": 13903
+        },
+        {
+          "name": "multimodal-stable-diffusion",
+          "file": "multimodal-stable-diffusion/SKILL.md",
+          "size": 13508
+        },
+        {
+          "name": "multimodal-whisper",
+          "file": "multimodal-whisper/SKILL.md",
+          "size": 7783
+        },
+        {
+          "name": "observability-langsmith",
+          "file": "observability-langsmith/SKILL.md",
+          "size": 10115
+        },
+        {
+          "name": "observability-phoenix",
+          "file": "observability-phoenix/SKILL.md",
+          "size": 11941
+        },
+        {
+          "name": "optimization-awq",
+          "file": "optimization-awq/SKILL.md",
+          "size": 8693
+        },
+        {
+          "name": "optimization-bitsandbytes",
+          "file": "optimization-bitsandbytes/SKILL.md",
+          "size": 10537
+        },
+        {
+          "name": "optimization-flash-attention",
+          "file": "optimization-flash-attention/SKILL.md",
+          "size": 10568
+        },
+        {
+          "name": "optimization-gguf",
+          "file": "optimization-gguf/SKILL.md",
+          "size": 10747
+        },
+        {
+          "name": "optimization-gptq",
+          "file": "optimization-gptq/SKILL.md",
+          "size": 12043
+        },
+        {
+          "name": "optimization-hqq",
+          "file": "optimization-hqq/SKILL.md",
+          "size": 11911
+        },
+        {
+          "name": "post-training-grpo-rl-training",
+          "file": "post-training-grpo-rl-training/SKILL.md",
+          "size": 17772
+        },
+        {
+          "name": "post-training-openrlhf",
+          "file": "post-training-openrlhf/SKILL.md",
+          "size": 8628
+        },
+        {
+          "name": "post-training-simpo",
+          "file": "post-training-simpo/SKILL.md",
+          "size": 6135
+        },
+        {
+          "name": "post-training-trl-fine-tuning",
+          "file": "post-training-trl-fine-tuning/SKILL.md",
+          "size": 11906
+        },
+        {
+          "name": "prompt-engineering-dspy",
+          "file": "prompt-engineering-dspy/SKILL.md",
+          "size": 15881
+        },
+        {
+          "name": "prompt-engineering-guidance",
+          "file": "prompt-engineering-guidance/SKILL.md",
+          "size": 15087
+        },
+        {
+          "name": "prompt-engineering-instructor",
+          "file": "prompt-engineering-instructor/SKILL.md",
+          "size": 17567
+        },
+        {
+          "name": "prompt-engineering-outlines",
+          "file": "prompt-engineering-outlines/SKILL.md",
+          "size": 16603
+        },
+        {
+          "name": "rag-chroma",
+          "file": "rag-chroma/SKILL.md",
+          "size": 9571
+        },
+        {
+          "name": "rag-faiss",
+          "file": "rag-faiss/SKILL.md",
+          "size": 5269
+        },
+        {
+          "name": "rag-pinecone",
+          "file": "rag-pinecone/SKILL.md",
+          "size": 8185
+        },
+        {
+          "name": "rag-qdrant",
+          "file": "rag-qdrant/SKILL.md",
+          "size": 13944
+        },
+        {
+          "name": "rag-sentence-transformers",
+          "file": "rag-sentence-transformers/SKILL.md",
+          "size": 6582
+        },
+        {
+          "name": "safety-alignment-constitutional-ai",
+          "file": "safety-alignment-constitutional-ai/SKILL.md",
+          "size": 8467
+        },
+        {
+          "name": "safety-alignment-llamaguard",
+          "file": "safety-alignment-llamaguard/SKILL.md",
+          "size": 9541
+        },
+        {
+          "name": "safety-alignment-nemo-guardrails",
+          "file": "safety-alignment-nemo-guardrails/SKILL.md",
+          "size": 7939
+        },
+        {
+          "name": "tokenization-huggingface-tokenizers",
+          "file": "tokenization-huggingface-tokenizers/SKILL.md",
+          "size": 14190
+        },
+        {
+          "name": "tokenization-sentencepiece",
+          "file": "tokenization-sentencepiece/SKILL.md",
+          "size": 5867
+        }
+      ],
+      "root": [
+        {
+          "name": "ANTHROPIC_ATTRIBUTION",
+          "file": "ANTHROPIC_ATTRIBUTION.md",
+          "size": 3330
+        }
+      ],
+      "business-marketing": [
+        {
+          "name": "agile-product-owner",
+          "file": "agile-product-owner/SKILL.md",
+          "size": 1055
+        },
+        {
+          "name": "ceo-advisor",
+          "file": "ceo-advisor/SKILL.md",
+          "size": 11737
+        },
+        {
+          "name": "competitive-ads-extractor",
+          "file": "competitive-ads-extractor/SKILL.md",
+          "size": 8205
+        },
+        {
+          "name": "content-creator",
+          "file": "content-creator/SKILL.md",
+          "size": 7706
+        },
+        {
+          "name": "content-research-writer",
+          "file": "content-research-writer/SKILL.md",
+          "size": 14782
+        },
+        {
+          "name": "cto-advisor",
+          "file": "cto-advisor/SKILL.md",
+          "size": 9896
+        },
+        {
+          "name": "lead-research-assistant",
+          "file": "lead-research-assistant/SKILL.md",
+          "size": 6786
+        },
+        {
+          "name": "marketing-demand-acquisition",
+          "file": "marketing-demand-acquisition/SKILL.md",
+          "size": 34763
+        },
+        {
+          "name": "marketing-strategy-pmm",
+          "file": "marketing-strategy-pmm/SKILL.md",
+          "size": 39605
+        },
+        {
+          "name": "product-manager-toolkit",
+          "file": "product-manager-toolkit/SKILL.md",
+          "size": 9275
+        },
+        {
+          "name": "product-strategist",
+          "file": "product-strategist/SKILL.md",
+          "size": 1020
+        },
+        {
+          "name": "seo-optimizer",
+          "file": "seo-optimizer/SKILL.md",
+          "size": 12100
+        }
+      ],
+      "creative-design": [
+        {
+          "name": "accessibility-auditor",
+          "file": "accessibility-auditor/SKILL.md",
+          "size": 12626
+        },
+        {
+          "name": "algorithmic-art",
+          "file": "algorithmic-art/SKILL.md",
+          "size": 20173
+        },
+        {
+          "name": "canvas-design",
+          "file": "canvas-design/SKILL.md",
+          "size": 12068
+        },
+        {
+          "name": "executing-marketing-campaigns",
+          "file": "executing-marketing-campaigns/SKILL.md",
+          "size": 5793
+        },
+        {
+          "name": "frontend-design",
+          "file": "frontend-design/SKILL.md",
+          "size": 4315
+        },
+        {
+          "name": "slack-gif-creator",
+          "file": "slack-gif-creator/SKILL.md",
+          "size": 17788
+        },
+        {
+          "name": "theme-factory",
+          "file": "theme-factory/SKILL.md",
+          "size": 3183
+        },
+        {
+          "name": "ui-design-system",
+          "file": "ui-design-system/SKILL.md",
+          "size": 1092
+        },
+        {
+          "name": "ux-researcher-designer",
+          "file": "ux-researcher-designer/SKILL.md",
+          "size": 980
+        }
+      ],
+      "database": [
+        {
+          "name": "postgres-schema-design",
+          "file": "postgres-schema-design/SKILL.md",
+          "size": 16285
+        }
+      ],
+      "development": [
+        {
+          "name": "agent-development",
+          "file": "agent-development/SKILL.md",
+          "size": 10845
+        },
+        {
+          "name": "api-integration-specialist",
+          "file": "api-integration-specialist/SKILL.md",
+          "size": 9301
+        },
+        {
+          "name": "artifacts-builder",
+          "file": "artifacts-builder/SKILL.md",
+          "size": 3152
+        },
+        {
+          "name": "brainstorming",
+          "file": "brainstorming/SKILL.md",
+          "size": 2559
+        },
+        {
+          "name": "changelog-generator",
+          "file": "changelog-generator/SKILL.md",
+          "size": 3200
+        },
+        {
+          "name": "claude-opus-4-5-migration",
+          "file": "claude-opus-4-5-migration/SKILL.md",
+          "size": 4851
+        },
+        {
+          "name": "cocoindex",
+          "file": "cocoindex/SKILL.md",
+          "size": 26490
+        },
+        {
+          "name": "code-reviewer",
+          "file": "code-reviewer/SKILL.md",
+          "size": 4605
+        },
+        {
+          "name": "command-development",
+          "file": "command-development/SKILL.md",
+          "size": 19775
+        },
+        {
+          "name": "create-plan",
+          "file": "create-plan/SKILL.md",
+          "size": 2522
+        },
+        {
+          "name": "developer-growth-analysis",
+          "file": "developer-growth-analysis/SKILL.md",
+          "size": 16042
+        },
+        {
+          "name": "devops-iac-engineer",
+          "file": "devops-iac-engineer/SKILL.md",
+          "size": 6707
+        },
+        {
+          "name": "dispatching-parallel-agents",
+          "file": "dispatching-parallel-agents/SKILL.md",
+          "size": 6284
+        },
+        {
+          "name": "error-resolver",
+          "file": "error-resolver/SKILL.md",
+          "size": 8435
+        },
+        {
+          "name": "executing-plans",
+          "file": "executing-plans/SKILL.md",
+          "size": 2247
+        },
+        {
+          "name": "feature-design-assistant",
+          "file": "feature-design-assistant/SKILL.md",
+          "size": 12500
+        },
+        {
+          "name": "finishing-a-development-branch",
+          "file": "finishing-a-development-branch/SKILL.md",
+          "size": 4450
+        },
+        {
+          "name": "gh-address-comments",
+          "file": "gh-address-comments/SKILL.md",
+          "size": 1531
+        },
+        {
+          "name": "gh-fix-ci",
+          "file": "gh-fix-ci/SKILL.md",
+          "size": 3992
+        },
+        {
+          "name": "git-commit-helper",
+          "file": "git-commit-helper/SKILL.md",
+          "size": 4793
+        },
+        {
+          "name": "hook-development",
+          "file": "hook-development/SKILL.md",
+          "size": 16958
+        },
+        {
+          "name": "it-operations",
+          "file": "it-operations/SKILL.md",
+          "size": 15502
+        },
+        {
+          "name": "mcp-builder",
+          "file": "mcp-builder/SKILL.md",
+          "size": 13880
+        },
+        {
+          "name": "mcp-integration",
+          "file": "mcp-integration/SKILL.md",
+          "size": 13073
+        },
+        {
+          "name": "move-code-quality",
+          "file": "move-code-quality/SKILL.md",
+          "size": 13411
+        },
+        {
+          "name": "plugin-settings",
+          "file": "plugin-settings/SKILL.md",
+          "size": 12645
+        },
+        {
+          "name": "plugin-structure",
+          "file": "plugin-structure/SKILL.md",
+          "size": 14272
+        },
+        {
+          "name": "receiving-code-review",
+          "file": "receiving-code-review/SKILL.md",
+          "size": 6320
+        },
+        {
+          "name": "requesting-code-review",
+          "file": "requesting-code-review/SKILL.md",
+          "size": 2805
+        },
+        {
+          "name": "screenshot-feature-extractor",
+          "file": "screenshot-feature-extractor/SKILL.md",
+          "size": 5281
+        },
+        {
+          "name": "security-compliance",
+          "file": "security-compliance/SKILL.md",
+          "size": 30044
+        },
+        {
+          "name": "senior-architect",
+          "file": "senior-architect/SKILL.md",
+          "size": 4863
+        },
+        {
+          "name": "senior-backend",
+          "file": "senior-backend/SKILL.md",
+          "size": 4750
+        },
+        {
+          "name": "senior-computer-vision",
+          "file": "senior-computer-vision/SKILL.md",
+          "size": 5819
+        },
+        {
+          "name": "senior-data-engineer",
+          "file": "senior-data-engineer/SKILL.md",
+          "size": 5732
+        },
+        {
+          "name": "senior-data-scientist",
+          "file": "senior-data-scientist/SKILL.md",
+          "size": 5856
+        },
+        {
+          "name": "senior-devops",
+          "file": "senior-devops/SKILL.md",
+          "size": 4680
+        },
+        {
+          "name": "senior-frontend",
+          "file": "senior-frontend/SKILL.md",
+          "size": 4689
+        },
+        {
+          "name": "senior-fullstack",
+          "file": "senior-fullstack/SKILL.md",
+          "size": 4704
+        },
+        {
+          "name": "senior-ml-engineer",
+          "file": "senior-ml-engineer/SKILL.md",
+          "size": 5732
+        },
+        {
+          "name": "senior-prompt-engineer",
+          "file": "senior-prompt-engineer/SKILL.md",
+          "size": 5770
+        },
+        {
+          "name": "senior-qa",
+          "file": "senior-qa/SKILL.md",
+          "size": 4670
+        },
+        {
+          "name": "senior-secops",
+          "file": "senior-secops/SKILL.md",
+          "size": 4731
+        },
+        {
+          "name": "senior-security",
+          "file": "senior-security/SKILL.md",
+          "size": 4739
+        },
+        {
+          "name": "skill-creation-guide",
+          "file": "skill-creation-guide/SKILL.md",
+          "size": 18200
+        },
+        {
+          "name": "skill-creator",
+          "file": "skill-creator/SKILL.md",
+          "size": 11756
+        },
+        {
+          "name": "skill-development",
+          "file": "skill-development/SKILL.md",
+          "size": 23464
+        },
+        {
+          "name": "skill-installer",
+          "file": "skill-installer/SKILL.md",
+          "size": 2871
+        },
+        {
+          "name": "subagent-driven-development",
+          "file": "subagent-driven-development/SKILL.md",
+          "size": 10049
+        },
+        {
+          "name": "systematic-debugging",
+          "file": "systematic-debugging/SKILL.md",
+          "size": 10180
+        },
+        {
+          "name": "task-execution-engine",
+          "file": "task-execution-engine/SKILL.md",
+          "size": 3229
+        },
+        {
+          "name": "test-driven-development",
+          "file": "test-driven-development/SKILL.md",
+          "size": 10238
+        },
+        {
+          "name": "using-git-worktrees",
+          "file": "using-git-worktrees/SKILL.md",
+          "size": 5722
+        },
+        {
+          "name": "using-superpowers",
+          "file": "using-superpowers/SKILL.md",
+          "size": 3388
+        },
+        {
+          "name": "verification-before-completion",
+          "file": "verification-before-completion/SKILL.md",
+          "size": 4340
+        },
+        {
+          "name": "web-artifacts-builder",
+          "file": "web-artifacts-builder/SKILL.md",
+          "size": 3160
+        },
+        {
+          "name": "webapp-testing",
+          "file": "webapp-testing/SKILL.md",
+          "size": 4008
+        },
+        {
+          "name": "writing-plans",
+          "file": "writing-plans/SKILL.md",
+          "size": 3380
+        },
+        {
+          "name": "writing-skills",
+          "file": "writing-skills/SKILL.md",
+          "size": 22995
+        },
+        {
+          "name": "zapier-workflows",
+          "file": "zapier-workflows/SKILL.md",
+          "size": 20092
+        }
+      ],
+      "document-processing": [
+        {
+          "name": "docx",
+          "file": "docx/SKILL.md",
+          "size": 10346
+        },
+        {
+          "name": "json-canvas",
+          "file": "json-canvas/SKILL.md",
+          "size": 14644
+        },
+        {
+          "name": "obsidian-bases",
+          "file": "obsidian-bases/SKILL.md",
+          "size": 17028
+        },
+        {
+          "name": "obsidian-markdown",
+          "file": "obsidian-markdown/SKILL.md",
+          "size": 11422
+        },
+        {
+          "name": "pdf",
+          "file": "pdf/SKILL.md",
+          "size": 7362
+        },
+        {
+          "name": "pdf-anthropic",
+          "file": "pdf-anthropic/SKILL.md",
+          "size": 7362
+        },
+        {
+          "name": "pdf-processing",
+          "file": "pdf-processing/SKILL.md",
+          "size": 3297
+        },
+        {
+          "name": "pdf-processing-pro",
+          "file": "pdf-processing-pro/SKILL.md",
+          "size": 7325
+        },
+        {
+          "name": "pptx",
+          "file": "pptx/SKILL.md",
+          "size": 26034
+        },
+        {
+          "name": "xlsx",
+          "file": "xlsx/SKILL.md",
+          "size": 10920
+        }
+      ],
+      "enterprise-communication": [
+        {
+          "name": "brand-guidelines",
+          "file": "brand-guidelines/SKILL.md",
+          "size": 2308
+        },
+        {
+          "name": "capa-officer",
+          "file": "capa-officer/SKILL.md",
+          "size": 8510
+        },
+        {
+          "name": "data-privacy-compliance",
+          "file": "data-privacy-compliance/SKILL.md",
+          "size": 18029
+        },
+        {
+          "name": "email-composer",
+          "file": "email-composer/SKILL.md",
+          "size": 7130
+        },
+        {
+          "name": "excel-analysis",
+          "file": "excel-analysis/SKILL.md",
+          "size": 5413
+        },
+        {
+          "name": "fda-consultant-specialist",
+          "file": "fda-consultant-specialist/SKILL.md",
+          "size": 11435
+        },
+        {
+          "name": "gdpr-dsgvo-expert",
+          "file": "gdpr-dsgvo-expert/SKILL.md",
+          "size": 13063
+        },
+        {
+          "name": "information-security-manager-iso27001",
+          "file": "information-security-manager-iso27001/SKILL.md",
+          "size": 12199
+        },
+        {
+          "name": "internal-comms",
+          "file": "internal-comms/SKILL.md",
+          "size": 1543
+        },
+        {
+          "name": "isms-audit-expert",
+          "file": "isms-audit-expert/SKILL.md",
+          "size": 13201
+        },
+        {
+          "name": "mdr-745-specialist",
+          "file": "mdr-745-specialist/SKILL.md",
+          "size": 8973
+        },
+        {
+          "name": "qms-audit-expert",
+          "file": "qms-audit-expert/SKILL.md",
+          "size": 11302
+        },
+        {
+          "name": "quality-documentation-manager",
+          "file": "quality-documentation-manager/SKILL.md",
+          "size": 13686
+        },
+        {
+          "name": "quality-manager-qmr",
+          "file": "quality-manager-qmr/SKILL.md",
+          "size": 10211
+        },
+        {
+          "name": "quality-manager-qms-iso13485",
+          "file": "quality-manager-qms-iso13485/SKILL.md",
+          "size": 7773
+        },
+        {
+          "name": "regulatory-affairs-head",
+          "file": "regulatory-affairs-head/SKILL.md",
+          "size": 5435
+        },
+        {
+          "name": "risk-management-specialist",
+          "file": "risk-management-specialist/SKILL.md",
+          "size": 10485
+        }
+      ],
+      "media": [
+        {
+          "name": "image-enhancer",
+          "file": "image-enhancer/SKILL.md",
+          "size": 2639
+        },
+        {
+          "name": "video-downloader",
+          "file": "video-downloader/SKILL.md",
+          "size": 2793
+        }
+      ],
+      "productivity": [
+        {
+          "name": "doc-coauthoring",
+          "file": "doc-coauthoring/SKILL.md",
+          "size": 16190
+        },
+        {
+          "name": "file-organizer",
+          "file": "file-organizer/SKILL.md",
+          "size": 11745
+        },
+        {
+          "name": "invoice-organizer",
+          "file": "invoice-organizer/SKILL.md",
+          "size": 12456
+        },
+        {
+          "name": "linear",
+          "file": "linear/SKILL.md",
+          "size": 5039
+        },
+        {
+          "name": "meeting-insights-analyzer",
+          "file": "meeting-insights-analyzer/SKILL.md",
+          "size": 10504
+        },
+        {
+          "name": "notion-knowledge-capture",
+          "file": "notion-knowledge-capture/SKILL.md",
+          "size": 3370
+        },
+        {
+          "name": "notion-meeting-intelligence",
+          "file": "notion-meeting-intelligence/SKILL.md",
+          "size": 3478
+        },
+        {
+          "name": "notion-research-documentation",
+          "file": "notion-research-documentation/SKILL.md",
+          "size": 3463
+        },
+        {
+          "name": "notion-spec-to-implementation",
+          "file": "notion-spec-to-implementation/SKILL.md",
+          "size": 3573
+        },
+        {
+          "name": "nowait",
+          "file": "nowait/SKILL.md",
+          "size": 5033
+        },
+        {
+          "name": "raffle-winner-picker",
+          "file": "raffle-winner-picker/SKILL.md",
+          "size": 3955
+        },
+        {
+          "name": "writing-rules",
+          "file": "writing-rules/SKILL.md",
+          "size": 8797
+        }
+      ],
+      "railway": [
+        {
+          "name": "database",
+          "file": "database/SKILL.md",
+          "size": 8183
+        },
+        {
+          "name": "deploy",
+          "file": "deploy/SKILL.md",
+          "size": 3623
+        },
+        {
+          "name": "deployment",
+          "file": "deployment/SKILL.md",
+          "size": 6389
+        },
+        {
+          "name": "domain",
+          "file": "domain/SKILL.md",
+          "size": 3118
+        },
+        {
+          "name": "environment",
+          "file": "environment/SKILL.md",
+          "size": 11342
+        },
+        {
+          "name": "metrics",
+          "file": "metrics/SKILL.md",
+          "size": 6237
+        },
+        {
+          "name": "new",
+          "file": "new/SKILL.md",
+          "size": 13725
+        },
+        {
+          "name": "projects",
+          "file": "projects/SKILL.md",
+          "size": 3726
+        },
+        {
+          "name": "railway-docs",
+          "file": "railway-docs/SKILL.md",
+          "size": 2045
+        },
+        {
+          "name": "service",
+          "file": "service/SKILL.md",
+          "size": 7026
+        },
+        {
+          "name": "status",
+          "file": "status/SKILL.md",
+          "size": 2621
+        },
+        {
+          "name": "templates",
+          "file": "templates/SKILL.md",
+          "size": 4219
+        }
+      ],
+      "scientific": [
+        {
+          "name": "adaptyv",
+          "file": "adaptyv/SKILL.md",
+          "size": 3803
+        },
+        {
+          "name": "aeon",
+          "file": "aeon/SKILL.md",
+          "size": 10883
+        },
+        {
+          "name": "alphafold-database",
+          "file": "alphafold-database/SKILL.md",
+          "size": 16306
+        },
+        {
+          "name": "anndata",
+          "file": "anndata/SKILL.md",
+          "size": 10579
+        },
+        {
+          "name": "arboreto",
+          "file": "arboreto/SKILL.md",
+          "size": 7094
+        },
+        {
+          "name": "astropy",
+          "file": "astropy/SKILL.md",
+          "size": 11787
+        },
+        {
+          "name": "benchling-integration",
+          "file": "benchling-integration/SKILL.md",
+          "size": 13423
+        },
+        {
+          "name": "biomni",
+          "file": "biomni/SKILL.md",
+          "size": 10088
+        },
+        {
+          "name": "biopython",
+          "file": "biopython/SKILL.md",
+          "size": 14180
+        },
+        {
+          "name": "biorxiv-database",
+          "file": "biorxiv-database/SKILL.md",
+          "size": 13002
+        },
+        {
+          "name": "bioservices",
+          "file": "bioservices/SKILL.md",
+          "size": 10207
+        },
+        {
+          "name": "brenda-database",
+          "file": "brenda-database/SKILL.md",
+          "size": 22821
+        },
+        {
+          "name": "cellxgene-census",
+          "file": "cellxgene-census/SKILL.md",
+          "size": 15769
+        },
+        {
+          "name": "chembl-database",
+          "file": "chembl-database/SKILL.md",
+          "size": 10578
+        },
+        {
+          "name": "cirq",
+          "file": "cirq/SKILL.md",
+          "size": 11005
+        },
+        {
+          "name": "citation-management",
+          "file": "citation-management/SKILL.md",
+          "size": 32443
+        },
+        {
+          "name": "clinical-decision-support",
+          "file": "clinical-decision-support/SKILL.md",
+          "size": 26709
+        },
+        {
+          "name": "clinical-reports",
+          "file": "clinical-reports/SKILL.md",
+          "size": 40767
+        },
+        {
+          "name": "clinicaltrials-database",
+          "file": "clinicaltrials-database/SKILL.md",
+          "size": 15432
+        },
+        {
+          "name": "clinpgx-database",
+          "file": "clinpgx-database/SKILL.md",
+          "size": 21523
+        },
+        {
+          "name": "clinvar-database",
+          "file": "clinvar-database/SKILL.md",
+          "size": 13583
+        },
+        {
+          "name": "cobrapy",
+          "file": "cobrapy/SKILL.md",
+          "size": 12842
+        },
+        {
+          "name": "cosmic-database",
+          "file": "cosmic-database/SKILL.md",
+          "size": 10305
+        },
+        {
+          "name": "dask",
+          "file": "dask/SKILL.md",
+          "size": 14536
+        },
+        {
+          "name": "datacommons-client",
+          "file": "datacommons-client/SKILL.md",
+          "size": 8176
+        },
+        {
+          "name": "datamol",
+          "file": "datamol/SKILL.md",
+          "size": 19490
+        },
+        {
+          "name": "deepchem",
+          "file": "deepchem/SKILL.md",
+          "size": 18107
+        },
+        {
+          "name": "deeptools",
+          "file": "deeptools/SKILL.md",
+          "size": 18449
+        },
+        {
+          "name": "denario",
+          "file": "denario/SKILL.md",
+          "size": 6142
+        },
+        {
+          "name": "diffdock",
+          "file": "diffdock/SKILL.md",
+          "size": 15903
+        },
+        {
+          "name": "dnanexus-integration",
+          "file": "dnanexus-integration/SKILL.md",
+          "size": 10926
+        },
+        {
+          "name": "drugbank-database",
+          "file": "drugbank-database/SKILL.md",
+          "size": 9523
+        },
+        {
+          "name": "ena-database",
+          "file": "ena-database/SKILL.md",
+          "size": 7175
+        },
+        {
+          "name": "ensembl-database",
+          "file": "ensembl-database/SKILL.md",
+          "size": 8507
+        },
+        {
+          "name": "esm",
+          "file": "esm/SKILL.md",
+          "size": 10799
+        },
+        {
+          "name": "etetoolkit",
+          "file": "etetoolkit/SKILL.md",
+          "size": 18436
+        },
+        {
+          "name": "exploratory-data-analysis",
+          "file": "exploratory-data-analysis/SKILL.md",
+          "size": 14693
+        },
+        {
+          "name": "fda-database",
+          "file": "fda-database/SKILL.md",
+          "size": 14878
+        },
+        {
+          "name": "flowio",
+          "file": "flowio/SKILL.md",
+          "size": 17304
+        },
+        {
+          "name": "fluidsim",
+          "file": "fluidsim/SKILL.md",
+          "size": 9649
+        },
+        {
+          "name": "gene-database",
+          "file": "gene-database/SKILL.md",
+          "size": 6512
+        },
+        {
+          "name": "generate-image",
+          "file": "generate-image/SKILL.md",
+          "size": 7025
+        },
+        {
+          "name": "geniml",
+          "file": "geniml/SKILL.md",
+          "size": 10332
+        },
+        {
+          "name": "geo-database",
+          "file": "geo-database/SKILL.md",
+          "size": 25281
+        },
+        {
+          "name": "geopandas",
+          "file": "geopandas/SKILL.md",
+          "size": 7290
+        },
+        {
+          "name": "get-available-resources",
+          "file": "get-available-resources/SKILL.md",
+          "size": 10045
+        },
+        {
+          "name": "gget",
+          "file": "gget/SKILL.md",
+          "size": 25885
+        },
+        {
+          "name": "gtars",
+          "file": "gtars/SKILL.md",
+          "size": 8026
+        },
+        {
+          "name": "gwas-database",
+          "file": "gwas-database/SKILL.md",
+          "size": 20630
+        },
+        {
+          "name": "histolab",
+          "file": "histolab/SKILL.md",
+          "size": 20894
+        },
+        {
+          "name": "hmdb-database",
+          "file": "hmdb-database/SKILL.md",
+          "size": 7725
+        },
+        {
+          "name": "hypogenic",
+          "file": "hypogenic/SKILL.md",
+          "size": 22278
+        },
+        {
+          "name": "hypothesis-generation",
+          "file": "hypothesis-generation/SKILL.md",
+          "size": 13477
+        },
+        {
+          "name": "kegg-database",
+          "file": "kegg-database/SKILL.md",
+          "size": 12035
+        },
+        {
+          "name": "labarchive-integration",
+          "file": "labarchive-integration/SKILL.md",
+          "size": 9648
+        },
+        {
+          "name": "lamindb",
+          "file": "lamindb/SKILL.md",
+          "size": 14684
+        },
+        {
+          "name": "latchbio-integration",
+          "file": "latchbio-integration/SKILL.md",
+          "size": 10106
+        },
+        {
+          "name": "latex-posters",
+          "file": "latex-posters/SKILL.md",
+          "size": 31251
+        },
+        {
+          "name": "literature-review",
+          "file": "literature-review/SKILL.md",
+          "size": 21981
+        },
+        {
+          "name": "market-research-reports",
+          "file": "market-research-reports/SKILL.md",
+          "size": 29590
+        },
+        {
+          "name": "markitdown",
+          "file": "markitdown/SKILL.md",
+          "size": 13129
+        },
+        {
+          "name": "matchms",
+          "file": "matchms/SKILL.md",
+          "size": 6975
+        },
+        {
+          "name": "matplotlib",
+          "file": "matplotlib/SKILL.md",
+          "size": 11474
+        },
+        {
+          "name": "medchem",
+          "file": "medchem/SKILL.md",
+          "size": 10485
+        },
+        {
+          "name": "metabolomics-workbench-database",
+          "file": "metabolomics-workbench-database/SKILL.md",
+          "size": 10506
+        },
+        {
+          "name": "modal",
+          "file": "modal/SKILL.md",
+          "size": 10942
+        },
+        {
+          "name": "molfeat",
+          "file": "molfeat/SKILL.md",
+          "size": 15248
+        },
+        {
+          "name": "networkx",
+          "file": "networkx/SKILL.md",
+          "size": 13073
+        },
+        {
+          "name": "neurokit2",
+          "file": "neurokit2/SKILL.md",
+          "size": 12307
+        },
+        {
+          "name": "neuropixels-analysis",
+          "file": "neuropixels-analysis/SKILL.md",
+          "size": 11684
+        },
+        {
+          "name": "omero-integration",
+          "file": "omero-integration/SKILL.md",
+          "size": 8232
+        },
+        {
+          "name": "openalex-database",
+          "file": "openalex-database/SKILL.md",
+          "size": 12501
+        },
+        {
+          "name": "opentargets-database",
+          "file": "opentargets-database/SKILL.md",
+          "size": 14387
+        },
+        {
+          "name": "opentrons-integration",
+          "file": "opentrons-integration/SKILL.md",
+          "size": 15121
+        },
+        {
+          "name": "paper-2-web",
+          "file": "paper-2-web/SKILL.md",
+          "size": 16884
+        },
+        {
+          "name": "pathml",
+          "file": "pathml/SKILL.md",
+          "size": 7589
+        },
+        {
+          "name": "pdb-database",
+          "file": "pdb-database/SKILL.md",
+          "size": 9477
+        },
+        {
+          "name": "peer-review",
+          "file": "peer-review/SKILL.md",
+          "size": 23383
+        },
+        {
+          "name": "pennylane",
+          "file": "pennylane/SKILL.md",
+          "size": 7791
+        },
+        {
+          "name": "perplexity-search",
+          "file": "perplexity-search/SKILL.md",
+          "size": 14391
+        },
+        {
+          "name": "plotly",
+          "file": "plotly/SKILL.md",
+          "size": 7594
+        },
+        {
+          "name": "polars",
+          "file": "polars/SKILL.md",
+          "size": 9586
+        },
+        {
+          "name": "pptx-posters",
+          "file": "pptx-posters/SKILL.md",
+          "size": 31251
+        },
+        {
+          "name": "protocolsio-integration",
+          "file": "protocolsio-integration/SKILL.md",
+          "size": 15256
+        },
+        {
+          "name": "pubchem-database",
+          "file": "pubchem-database/SKILL.md",
+          "size": 16824
+        },
+        {
+          "name": "pubmed-database",
+          "file": "pubmed-database/SKILL.md",
+          "size": 15967
+        },
+        {
+          "name": "pufferlib",
+          "file": "pufferlib/SKILL.md",
+          "size": 13894
+        },
+        {
+          "name": "pydeseq2",
+          "file": "pydeseq2/SKILL.md",
+          "size": 16658
+        },
+        {
+          "name": "pydicom",
+          "file": "pydicom/SKILL.md",
+          "size": 13513
+        },
+        {
+          "name": "pyhealth",
+          "file": "pyhealth/SKILL.md",
+          "size": 18075
+        },
+        {
+          "name": "pylabrobot",
+          "file": "pylabrobot/SKILL.md",
+          "size": 8476
+        },
+        {
+          "name": "pymatgen",
+          "file": "pymatgen/SKILL.md",
+          "size": 20658
+        },
+        {
+          "name": "pymc",
+          "file": "pymc/SKILL.md",
+          "size": 16287
+        },
+        {
+          "name": "pymoo",
+          "file": "pymoo/SKILL.md",
+          "size": 17250
+        },
+        {
+          "name": "pyopenms",
+          "file": "pyopenms/SKILL.md",
+          "size": 5837
+        },
+        {
+          "name": "pysam",
+          "file": "pysam/SKILL.md",
+          "size": 10193
+        },
+        {
+          "name": "pytdc",
+          "file": "pytdc/SKILL.md",
+          "size": 13093
+        },
+        {
+          "name": "pytorch-lightning",
+          "file": "pytorch-lightning/SKILL.md",
+          "size": 6775
+        },
+        {
+          "name": "qiskit",
+          "file": "qiskit/SKILL.md",
+          "size": 9129
+        },
+        {
+          "name": "qutip",
+          "file": "qutip/SKILL.md",
+          "size": 9622
+        },
+        {
+          "name": "rdkit",
+          "file": "rdkit/SKILL.md",
+          "size": 20662
+        },
+        {
+          "name": "reactome-database",
+          "file": "reactome-database/SKILL.md",
+          "size": 8051
+        },
+        {
+          "name": "research-grants",
+          "file": "research-grants/SKILL.md",
+          "size": 37216
+        },
+        {
+          "name": "research-lookup",
+          "file": "research-lookup/SKILL.md",
+          "size": 20371
+        },
+        {
+          "name": "scanpy",
+          "file": "scanpy/SKILL.md",
+          "size": 11489
+        },
+        {
+          "name": "scholar-evaluation",
+          "file": "scholar-evaluation/SKILL.md",
+          "size": 12181
+        },
+        {
+          "name": "scientific-brainstorming",
+          "file": "scientific-brainstorming/SKILL.md",
+          "size": 8158
+        },
+        {
+          "name": "scientific-critical-thinking",
+          "file": "scientific-critical-thinking/SKILL.md",
+          "size": 24067
+        },
+        {
+          "name": "scientific-schematics",
+          "file": "scientific-schematics/SKILL.md",
+          "size": 24331
+        },
+        {
+          "name": "scientific-slides",
+          "file": "scientific-slides/SKILL.md",
+          "size": 48385
+        },
+        {
+          "name": "scientific-visualization",
+          "file": "scientific-visualization/SKILL.md",
+          "size": 26071
+        },
+        {
+          "name": "scientific-writing",
+          "file": "scientific-writing/SKILL.md",
+          "size": 24750
+        },
+        {
+          "name": "scikit-bio",
+          "file": "scikit-bio/SKILL.md",
+          "size": 15112
+        },
+        {
+          "name": "scikit-learn",
+          "file": "scikit-learn/SKILL.md",
+          "size": 15976
+        },
+        {
+          "name": "scikit-survival",
+          "file": "scikit-survival/SKILL.md",
+          "size": 15404
+        },
+        {
+          "name": "scvi-tools",
+          "file": "scvi-tools/SKILL.md",
+          "size": 7418
+        },
+        {
+          "name": "seaborn",
+          "file": "seaborn/SKILL.md",
+          "size": 20044
+        },
+        {
+          "name": "shap",
+          "file": "shap/SKILL.md",
+          "size": 18910
+        },
+        {
+          "name": "simpy",
+          "file": "simpy/SKILL.md",
+          "size": 12525
+        },
+        {
+          "name": "stable-baselines3",
+          "file": "stable-baselines3/SKILL.md",
+          "size": 9781
+        },
+        {
+          "name": "statistical-analysis",
+          "file": "statistical-analysis/SKILL.md",
+          "size": 20199
+        },
+        {
+          "name": "statsmodels",
+          "file": "statsmodels/SKILL.md",
+          "size": 20073
+        },
+        {
+          "name": "string-database",
+          "file": "string-database/SKILL.md",
+          "size": 18696
+        },
+        {
+          "name": "sympy",
+          "file": "sympy/SKILL.md",
+          "size": 13859
+        },
+        {
+          "name": "torch_geometric",
+          "file": "torch_geometric/SKILL.md",
+          "size": 20991
+        },
+        {
+          "name": "torchdrug",
+          "file": "torchdrug/SKILL.md",
+          "size": 14436
+        },
+        {
+          "name": "transformers",
+          "file": "transformers/SKILL.md",
+          "size": 5113
+        },
+        {
+          "name": "treatment-plans",
+          "file": "treatment-plans/SKILL.md",
+          "size": 54213
+        },
+        {
+          "name": "umap-learn",
+          "file": "umap-learn/SKILL.md",
+          "size": 15797
+        },
+        {
+          "name": "uniprot-database",
+          "file": "uniprot-database/SKILL.md",
+          "size": 6920
+        },
+        {
+          "name": "uspto-database",
+          "file": "uspto-database/SKILL.md",
+          "size": 19094
+        },
+        {
+          "name": "vaex",
+          "file": "vaex/SKILL.md",
+          "size": 6708
+        },
+        {
+          "name": "venue-templates",
+          "file": "venue-templates/SKILL.md",
+          "size": 20850
+        },
+        {
+          "name": "zarr-python",
+          "file": "zarr-python/SKILL.md",
+          "size": 20759
+        },
+        {
+          "name": "zinc-database",
+          "file": "zinc-database/SKILL.md",
+          "size": 14226
+        }
+      ],
+      "sentry": [
+        {
+          "name": "code-review",
+          "file": "code-review/SKILL.md",
+          "size": 2870
+        },
+        {
+          "name": "commit",
+          "file": "commit/SKILL.md",
+          "size": 3050
+        },
+        {
+          "name": "create-pr",
+          "file": "create-pr/SKILL.md",
+          "size": 4012
+        },
+        {
+          "name": "deslop",
+          "file": "deslop/SKILL.md",
+          "size": 1023
+        },
+        {
+          "name": "find-bugs",
+          "file": "find-bugs/SKILL.md",
+          "size": 2842
+        },
+        {
+          "name": "iterate-pr",
+          "file": "iterate-pr/SKILL.md",
+          "size": 4147
+        }
+      ],
+      "utilities": [
+        {
+          "name": "domain-name-brainstormer",
+          "file": "domain-name-brainstormer/SKILL.md",
+          "size": 5908
+        },
+        {
+          "name": "skill-share",
+          "file": "skill-share/SKILL.md",
+          "size": 2993
+        },
+        {
+          "name": "template-skill",
+          "file": "template-skill/SKILL.md",
+          "size": 146
+        }
+      ],
+      "workflow-automation": [
+        {
+          "name": "n8n/LICENSE",
+          "file": "n8n/LICENSE.md",
+          "size": 1548
+        },
+        {
+          "name": "planning-with-files",
+          "file": "planning-with-files/SKILL.md",
+          "size": 4036
+        }
+      ]
+    },
+    "settings": {
+      "api": [
+        {
+          "name": "bedrock-configuration",
+          "file": "bedrock-configuration.json",
+          "size": 336
+        },
+        {
+          "name": "corporate-proxy",
+          "file": "corporate-proxy.json",
+          "size": 352
+        },
+        {
+          "name": "custom-headers",
+          "file": "custom-headers.json",
+          "size": 365
+        },
+        {
+          "name": "vertex-configuration",
+          "file": "vertex-configuration.json",
+          "size": 997
+        }
+      ],
+      "authentication": [
+        {
+          "name": "api-key-helper",
+          "file": "api-key-helper.json",
+          "size": 385
+        },
+        {
+          "name": "force-claudeai-login",
+          "file": "force-claudeai-login.json",
+          "size": 280
+        },
+        {
+          "name": "force-console-login",
+          "file": "force-console-login.json",
+          "size": 286
+        }
+      ],
+      "cleanup": [
+        {
+          "name": "retention-7-days",
+          "file": "retention-7-days.json",
+          "size": 104
+        },
+        {
+          "name": "retention-90-days",
+          "file": "retention-90-days.json",
+          "size": 115
+        }
+      ],
+      "environment": [
+        {
+          "name": "bash-timeouts",
+          "file": "bash-timeouts.json",
+          "size": 357
+        },
+        {
+          "name": "development-utils",
+          "file": "development-utils.json",
+          "size": 387
+        },
+        {
+          "name": "performance-optimization",
+          "file": "performance-optimization.json",
+          "size": 392
+        },
+        {
+          "name": "privacy-focused",
+          "file": "privacy-focused.json",
+          "size": 427
+        }
+      ],
+      "git": [
+        {
+          "name": "git-flow-settings",
+          "file": "git-flow-settings.json",
+          "size": 8094
+        }
+      ],
+      "global": [
+        {
+          "name": "aws-credentials",
+          "file": "aws-credentials.json",
+          "size": 330
+        },
+        {
+          "name": "custom-model",
+          "file": "custom-model.json",
+          "size": 319
+        },
+        {
+          "name": "git-commit-settings",
+          "file": "git-commit-settings.json",
+          "size": 256
+        }
+      ],
+      "mcp": [
+        {
+          "name": "disable-risky-servers",
+          "file": "disable-risky-servers.json",
+          "size": 315
+        },
+        {
+          "name": "enable-all-project-servers",
+          "file": "enable-all-project-servers.json",
+          "size": 286
+        },
+        {
+          "name": "enable-specific-servers",
+          "file": "enable-specific-servers.json",
+          "size": 320
+        },
+        {
+          "name": "mcp-timeouts",
+          "file": "mcp-timeouts.json",
+          "size": 338
+        }
+      ],
+      "model": [
+        {
+          "name": "use-haiku",
+          "file": "use-haiku.json",
+          "size": 139
+        },
+        {
+          "name": "use-sonnet",
+          "file": "use-sonnet.json",
+          "size": 120
+        }
+      ],
+      "partnerships": [
+        {
+          "name": "glm-coding-plan",
+          "file": "glm-coding-plan.json",
+          "size": 736
+        }
+      ],
+      "permissions": [
+        {
+          "name": "additional-directories",
+          "file": "additional-directories.json",
+          "size": 386
+        },
+        {
+          "name": "allow-git-operations",
+          "file": "allow-git-operations.json",
+          "size": 478
+        },
+        {
+          "name": "allow-npm-commands",
+          "file": "allow-npm-commands.json",
+          "size": 254
+        },
+        {
+          "name": "deny-sensitive-files",
+          "file": "deny-sensitive-files.json",
+          "size": 261
+        },
+        {
+          "name": "development-mode",
+          "file": "development-mode.json",
+          "size": 840
+        },
+        {
+          "name": "read-only-mode",
+          "file": "read-only-mode.json",
+          "size": 449
+        }
+      ],
+      "statusline": [
+        {
+          "name": "asset-pipeline-controller-statusline",
+          "file": "asset-pipeline-controller-statusline.json",
+          "size": 1976
+        },
+        {
+          "name": "bug-circus-statusline",
+          "file": "bug-circus-statusline.json",
+          "size": 1222
+        },
+        {
+          "name": "code-casino-statusline",
+          "file": "code-casino-statusline.json",
+          "size": 1188
+        },
+        {
+          "name": "code-spaceship-statusline",
+          "file": "code-spaceship-statusline.json",
+          "size": 1382
+        },
+        {
+          "name": "colorful-statusline",
+          "file": "colorful-statusline.json",
+          "size": 595
+        },
+        {
+          "name": "command-statusline",
+          "file": "command-statusline.json",
+          "size": 397
+        },
+        {
+          "name": "context-monitor",
+          "file": "context-monitor.json",
+          "size": 406
+        },
+        {
+          "name": "data-ocean-statusline",
+          "file": "data-ocean-statusline.json",
+          "size": 1126
+        },
+        {
+          "name": "emotion-theater-statusline",
+          "file": "emotion-theater-statusline.json",
+          "size": 1106
+        },
+        {
+          "name": "game-performance-monitor-statusline",
+          "file": "game-performance-monitor-statusline.json",
+          "size": 2300
+        },
+        {
+          "name": "git-branch-statusline",
+          "file": "git-branch-statusline.json",
+          "size": 723
+        },
+        {
+          "name": "git-flow-status",
+          "file": "git-flow-status.json",
+          "size": 1769
+        },
+        {
+          "name": "minimal-statusline",
+          "file": "minimal-statusline.json",
+          "size": 450
+        },
+        {
+          "name": "multiplatform-build-status-statusline",
+          "file": "multiplatform-build-status-statusline.json",
+          "size": 2665
+        },
+        {
+          "name": "neon-database-dev",
+          "file": "neon-database-dev.json",
+          "size": 3086
+        },
+        {
+          "name": "neon-database-resources",
+          "file": "neon-database-resources.json",
+          "size": 3571
+        },
+        {
+          "name": "productivity-rainbow-statusline",
+          "file": "productivity-rainbow-statusline.json",
+          "size": 1059
+        },
+        {
+          "name": "programmer-tamagotchi-statusline",
+          "file": "programmer-tamagotchi-statusline.json",
+          "size": 1599
+        },
+        {
+          "name": "programming-fitness-tracker-statusline",
+          "file": "programming-fitness-tracker-statusline.json",
+          "size": 1197
+        },
+        {
+          "name": "project-info-statusline",
+          "file": "project-info-statusline.json",
+          "size": 616
+        },
+        {
+          "name": "rpg-status-bar-statusline",
+          "file": "rpg-status-bar-statusline.json",
+          "size": 1359
+        },
+        {
+          "name": "time-statusline",
+          "file": "time-statusline.json",
+          "size": 475
+        },
+        {
+          "name": "unity-project-dashboard-statusline",
+          "file": "unity-project-dashboard-statusline.json",
+          "size": 2097
+        },
+        {
+          "name": "vercel-deployment-monitor",
+          "file": "vercel-deployment-monitor.json",
+          "size": 1665
+        },
+        {
+          "name": "vercel-error-alert-system",
+          "file": "vercel-error-alert-system.json",
+          "size": 1850
+        },
+        {
+          "name": "vercel-multi-env-status",
+          "file": "vercel-multi-env-status.json",
+          "size": 1628
+        },
+        {
+          "name": "virtual-code-garden-statusline",
+          "file": "virtual-code-garden-statusline.json",
+          "size": 1239
+        },
+        {
+          "name": "zero-config-deployment-monitor",
+          "file": "zero-config-deployment-monitor.json",
+          "size": 2604
+        }
+      ],
+      "telemetry": [
+        {
+          "name": "custom-telemetry",
+          "file": "custom-telemetry.json",
+          "size": 179
+        },
+        {
+          "name": "disable-telemetry",
+          "file": "disable-telemetry.json",
+          "size": 115
+        },
+        {
+          "name": "enable-telemetry",
+          "file": "enable-telemetry.json",
+          "size": 150
+        },
+        {
+          "name": "langsmith-tracing",
+          "file": "langsmith-tracing.json",
+          "size": 603
+        }
+      ]
+    }
+  },
+  "summary": {
+    "agents": {
+      "categories": 26,
+      "templates": 174
+    },
+    "commands": {
+      "categories": 20,
+      "templates": 221
+    },
+    "hooks": {
+      "categories": 11,
+      "templates": 42
+    },
+    "mcps": {
+      "categories": 11,
+      "templates": 64
+    },
+    "skills": {
+      "categories": 15,
+      "templates": 357
+    },
+    "settings": {
+      "categories": 12,
+      "templates": 62
+    }
+  }
+}

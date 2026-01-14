@@ -1,0 +1,53 @@
+# AITMPL 인덱스 자동 동기화 워크플로우
+# Git clone 방식으로 rate limit 없이 업데이트
+
+name: Sync AITMPL Index
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 매주 일요일 자정 (UTC)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sync AITMPL index (no token needed - uses git clone)
+        run: python scripts/aitmpl_manager.py sync
+
+      - name: Check for changes
+        id: check
+        run: git diff --quiet .claude/aitmpl-index.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .claude/aitmpl-index.json
+          git commit -m "chore: sync AITMPL template index"
+          git push
+
+      - name: Summary
+        run: |
+          echo "## AITMPL Index Sync" >> $GITHUB_STEP_SUMMARY
+          if [ -f .claude/aitmpl-index.json ]; then
+            python3 -c "
+          import json
+          with open('.claude/aitmpl-index.json') as f:
+              data = json.load(f)
+          print('| Category | Count |')
+          print('|----------|-------|')
+          for cat, items in data.get('summary', {}).items():
+              print(f'| {cat} | {items[\"templates\"]} |')
+          " >> $GITHUB_STEP_SUMMARY
+          fi

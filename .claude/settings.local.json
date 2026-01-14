@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\source\\\\guide\\\\monet-registry-main\")",
+      "Bash(dir \"C:\\\\source\\\\guide\\\\monet-registry-main\\\\.claude\")",
+      "Bash(dir \"C:\\\\source\\\\guide\\\\monet-registry-main\\\\prompt\")",
+      "Bash(dir:*)",
+      "Bash(wc:*)",
+      "WebFetch(domain:www.aitmpl.com)",
+      "WebFetch(domain:docs.aitmpl.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(npx claude-code-templates@latest --help)",
+      "Bash(npx claude-code-templates@latest --list-agents)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(findstr:*)",
+      "Bash(python scripts/aitmpl_manager.py:*)",
+      "Bash(cat:*)",
+      "Bash(npx claude-code-templates@latest --agent)",
+      "Bash(python:*)",
+      "Bash(npx claude-code-templates@latest:*)"
+    ]
+  }
+}
