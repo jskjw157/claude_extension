@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-18T00:22:40.843636",
+  "updated_at": "2026-01-25T00:23:19.932337",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -44,6 +44,16 @@
       ],
       "api-graphql": [
         {
+          "name": "Thinking-Beast-Mode",
+          "file": "Thinking-Beast-Mode.md",
+          "size": 18000
+        },
+        {
+          "name": "api-architect",
+          "file": "api-architect.md",
+          "size": 2603
+        },
+        {
           "name": "graphql-architect",
           "file": "graphql-architect.md",
           "size": 6365
@@ -57,6 +67,16 @@
           "name": "graphql-security-specialist",
           "file": "graphql-security-specialist.md",
           "size": 13070
+        },
+        {
+          "name": "octopus-deploy-release-notes-mcp",
+          "file": "octopus-deploy-release-notes-mcp.md",
+          "size": 1071
+        },
+        {
+          "name": "shopify-expert",
+          "file": "shopify-expert.md",
+          "size": 22599
         }
       ],
       "blockchain-web3": [
@@ -121,13 +141,48 @@
           "name": "sales-automator",
           "file": "sales-automator.md",
           "size": 975
+        },
+        {
+          "name": "salesforce-expert",
+          "file": "salesforce-expert.md",
+          "size": 6848
         }
       ],
       "data-ai": [
         {
+          "name": "adr-generator",
+          "file": "adr-generator.md",
+          "size": 6719
+        },
+        {
           "name": "ai-engineer",
           "file": "ai-engineer.md",
           "size": 1267
+        },
+        {
+          "name": "amplitude-experiment-implementation",
+          "file": "amplitude-experiment-implementation.md",
+          "size": 1920
+        },
+        {
+          "name": "blueprint-mode-codex",
+          "file": "blueprint-mode-codex.md",
+          "size": 6045
+        },
+        {
+          "name": "blueprint-mode",
+          "file": "blueprint-mode.md",
+          "size": 10960
+        },
+        {
+          "name": "clojure-interactive-programming",
+          "file": "clojure-interactive-programming.md",
+          "size": 6705
+        },
+        {
+          "name": "code-tour",
+          "file": "code-tour.md",
+          "size": 7091
         },
         {
           "name": "computer-vision-engineer",
@@ -145,6 +200,26 @@
           "size": 11086
         },
         {
+          "name": "demonstrate-understanding",
+          "file": "demonstrate-understanding.md",
+          "size": 3021
+        },
+        {
+          "name": "dotnet-maui",
+          "file": "dotnet-maui.md",
+          "size": 6653
+        },
+        {
+          "name": "hlbpa",
+          "file": "hlbpa.md",
+          "size": 12090
+        },
+        {
+          "name": "microsoft-agent-framework-dotnet",
+          "file": "microsoft-agent-framework-dotnet.md",
+          "size": 3937
+        },
+        {
           "name": "ml-engineer",
           "file": "ml-engineer.md",
           "size": 1071
@@ -155,14 +230,114 @@
           "size": 1960
         },
         {
+          "name": "monday-bug-fixer",
+          "file": "monday-bug-fixer.md",
+          "size": 13452
+        },
+        {
+          "name": "ms-sql-dba",
+          "file": "ms-sql-dba.md",
+          "size": 2192
+        },
+        {
+          "name": "neon-migration-specialist",
+          "file": "neon-migration-specialist.md",
+          "size": 2746
+        },
+        {
+          "name": "neon-optimization-analyzer",
+          "file": "neon-optimization-analyzer.md",
+          "size": 3617
+        },
+        {
           "name": "nlp-engineer",
           "file": "nlp-engineer.md",
           "size": 22925
         },
         {
+          "name": "postgresql-dba",
+          "file": "postgresql-dba.md",
+          "size": 1233
+        },
+        {
+          "name": "power-bi-data-modeling-expert",
+          "file": "power-bi-data-modeling-expert.md",
+          "size": 12514
+        },
+        {
+          "name": "power-bi-dax-expert",
+          "file": "power-bi-dax-expert.md",
+          "size": 10651
+        },
+        {
+          "name": "power-platform-expert",
+          "file": "power-platform-expert.md",
+          "size": 7177
+        },
+        {
+          "name": "prd",
+          "file": "prd.md",
+          "size": 5505
+        },
+        {
+          "name": "prompt-builder",
+          "file": "prompt-builder.md",
+          "size": 18519
+        },
+        {
+          "name": "prompt-engineer",
+          "file": "prompt-engineer.md",
+          "size": 5714
+        },
+        {
           "name": "quant-analyst",
           "file": "quant-analyst.md",
           "size": 1270
+        },
+        {
+          "name": "se-product-manager-advisor",
+          "file": "se-product-manager-advisor.md",
+          "size": 6489
+        },
+        {
+          "name": "se-system-architecture-reviewer",
+          "file": "se-system-architecture-reviewer.md",
+          "size": 4372
+        },
+        {
+          "name": "semantic-kernel-dotnet",
+          "file": "semantic-kernel-dotnet.md",
+          "size": 2357
+        },
+        {
+          "name": "simple-app-idea-generator",
+          "file": "simple-app-idea-generator.md",
+          "size": 5338
+        },
+        {
+          "name": "software-engineer-agent-v1",
+          "file": "software-engineer-agent-v1.md",
+          "size": 10134
+        },
+        {
+          "name": "task-planner",
+          "file": "task-planner.md",
+          "size": 15436
+        },
+        {
+          "name": "task-researcher",
+          "file": "task-researcher.md",
+          "size": 12612
+        },
+        {
+          "name": "tdd-green",
+          "file": "tdd-green.md",
+          "size": 3441
+        },
+        {
+          "name": "tdd-red",
+          "file": "tdd-red.md",
+          "size": 3493
         }
       ],
       "database": [
@@ -383,14 +558,34 @@
           "size": 6750
         },
         {
+          "name": "laravel-expert-agent",
+          "file": "laravel-expert-agent.md",
+          "size": 23511
+        },
+        {
+          "name": "launchdarkly-flag-cleanup",
+          "file": "launchdarkly-flag-cleanup.md",
+          "size": 8380
+        },
+        {
           "name": "mcp-expert",
           "file": "mcp-expert.md",
           "size": 6893
         },
         {
+          "name": "pagerduty-incident-responder",
+          "file": "pagerduty-incident-responder.md",
+          "size": 2042
+        },
+        {
           "name": "performance-profiler",
           "file": "performance-profiler.md",
           "size": 24023
+        },
+        {
+          "name": "playwright-tester",
+          "file": "playwright-tester.md",
+          "size": 1286
         },
         {
           "name": "slack-expert",
@@ -410,6 +605,61 @@
       ],
       "devops-infrastructure": [
         {
+          "name": "apify-integration-expert",
+          "file": "apify-integration-expert.md",
+          "size": 7115
+        },
+        {
+          "name": "arm-migration",
+          "file": "arm-migration.md",
+          "size": 3104
+        },
+        {
+          "name": "azure-iac-exporter",
+          "file": "azure-iac-exporter.md",
+          "size": 23369
+        },
+        {
+          "name": "azure-iac-generator",
+          "file": "azure-iac-generator.md",
+          "size": 10593
+        },
+        {
+          "name": "azure-logic-apps-expert",
+          "file": "azure-logic-apps-expert.md",
+          "size": 5132
+        },
+        {
+          "name": "azure-principal-architect",
+          "file": "azure-principal-architect.md",
+          "size": 4370
+        },
+        {
+          "name": "azure-saas-architect",
+          "file": "azure-saas-architect.md",
+          "size": 8391
+        },
+        {
+          "name": "azure-verified-modules-bicep",
+          "file": "azure-verified-modules-bicep.md",
+          "size": 1812
+        },
+        {
+          "name": "azure-verified-modules-terraform",
+          "file": "azure-verified-modules-terraform.md",
+          "size": 2626
+        },
+        {
+          "name": "bicep-implement",
+          "file": "bicep-implement.md",
+          "size": 2258
+        },
+        {
+          "name": "bicep-plan",
+          "file": "bicep-plan.md",
+          "size": 4517
+        },
+        {
           "name": "cloud-architect",
           "file": "cloud-architect.md",
           "size": 1219
@@ -420,9 +670,24 @@
           "size": 1273
         },
         {
+          "name": "devops-expert",
+          "file": "devops-expert.md",
+          "size": 8283
+        },
+        {
           "name": "devops-troubleshooter",
           "file": "devops-troubleshooter.md",
           "size": 1122
+        },
+        {
+          "name": "kusto-assistant",
+          "file": "kusto-assistant.md",
+          "size": 8898
+        },
+        {
+          "name": "microsoft-study-mode",
+          "file": "microsoft-study-mode.md",
+          "size": 3641
         },
         {
           "name": "monitoring-specialist",
@@ -430,14 +695,39 @@
           "size": 1264
         },
         {
+          "name": "neo4j-docker-client-generator",
+          "file": "neo4j-docker-client-generator.md",
+          "size": 7750
+        },
+        {
           "name": "network-engineer",
           "file": "network-engineer.md",
           "size": 1211
         },
         {
+          "name": "se-gitops-ci-specialist",
+          "file": "se-gitops-ci-specialist.md",
+          "size": 5357
+        },
+        {
           "name": "security-engineer",
           "file": "security-engineer.md",
           "size": 33726
+        },
+        {
+          "name": "terraform-azure-implement",
+          "file": "terraform-azure-implement.md",
+          "size": 6793
+        },
+        {
+          "name": "terraform-azure-planning",
+          "file": "terraform-azure-planning.md",
+          "size": 7603
+        },
+        {
+          "name": "terraform-iac-reviewer",
+          "file": "terraform-iac-reviewer.md",
+          "size": 4530
         },
         {
           "name": "terraform-specialist",
@@ -457,14 +747,44 @@
           "size": 1113
         },
         {
+          "name": "arch",
+          "file": "arch.md",
+          "size": 7124
+        },
+        {
           "name": "changelog-generator",
           "file": "changelog-generator.md",
           "size": 1285
         },
         {
+          "name": "context7",
+          "file": "context7.md",
+          "size": 26175
+        },
+        {
+          "name": "diagram-architect",
+          "file": "diagram-architect.md",
+          "size": 4287
+        },
+        {
           "name": "docusaurus-expert",
           "file": "docusaurus-expert.md",
           "size": 4905
+        },
+        {
+          "name": "microsoft_learn_contributor",
+          "file": "microsoft_learn_contributor.md",
+          "size": 16087
+        },
+        {
+          "name": "se-technical-writer",
+          "file": "se-technical-writer.md",
+          "size": 10754
+        },
+        {
+          "name": "tech-debt-remediation-plan",
+          "file": "tech-debt-remediation-plan.md",
+          "size": 1888
         },
         {
           "name": "technical-writer",
@@ -473,6 +793,26 @@
         }
       ],
       "expert-advisors": [
+        {
+          "name": "4.1-Beast",
+          "file": "4.1-Beast.md",
+          "size": 11331
+        },
+        {
+          "name": "Ultimate-Transparent-Thinking-Beast-Mode",
+          "file": "Ultimate-Transparent-Thinking-Beast-Mode.md",
+          "size": 29072
+        },
+        {
+          "name": "WinFormsExpert",
+          "file": "WinFormsExpert.md",
+          "size": 26088
+        },
+        {
+          "name": "address-comments",
+          "file": "address-comments.md",
+          "size": 1386
+        },
         {
           "name": "agent-expert",
           "file": "agent-expert.md",
@@ -484,6 +824,31 @@
           "size": 3414
         },
         {
+          "name": "atlassian-requirements-to-jira",
+          "file": "atlassian-requirements-to-jira.md",
+          "size": 18647
+        },
+        {
+          "name": "critical-thinking",
+          "file": "critical-thinking.md",
+          "size": 2122
+        },
+        {
+          "name": "custom-agent-foundry",
+          "file": "custom-agent-foundry.md",
+          "size": 7107
+        },
+        {
+          "name": "debug",
+          "file": "debug.md",
+          "size": 3528
+        },
+        {
+          "name": "declarative-agents-architect",
+          "file": "declarative-agents-architect.md",
+          "size": 4081
+        },
+        {
           "name": "dependency-manager",
           "file": "dependency-manager.md",
           "size": 3124
@@ -492,6 +857,146 @@
           "name": "documentation-expert",
           "file": "documentation-expert.md",
           "size": 3197
+        },
+        {
+          "name": "dotnet-upgrade",
+          "file": "dotnet-upgrade.md",
+          "size": 7239
+        },
+        {
+          "name": "droid",
+          "file": "droid.md",
+          "size": 9046
+        },
+        {
+          "name": "drupal-expert",
+          "file": "drupal-expert.md",
+          "size": 21182
+        },
+        {
+          "name": "expert-dotnet-software-engineer",
+          "file": "expert-dotnet-software-engineer.md",
+          "size": 2304
+        },
+        {
+          "name": "gilfoyle",
+          "file": "gilfoyle.md",
+          "size": 3882
+        },
+        {
+          "name": "gpt-5-beast-mode",
+          "file": "gpt-5-beast-mode.md",
+          "size": 6801
+        },
+        {
+          "name": "implementation-plan",
+          "file": "implementation-plan.md",
+          "size": 7009
+        },
+        {
+          "name": "janitor",
+          "file": "janitor.md",
+          "size": 3224
+        },
+        {
+          "name": "kotlin-mcp-expert",
+          "file": "kotlin-mcp-expert.md",
+          "size": 5644
+        },
+        {
+          "name": "mcp-m365-agent-expert",
+          "file": "mcp-m365-agent-expert.md",
+          "size": 4762
+        },
+        {
+          "name": "mentor",
+          "file": "mentor.md",
+          "size": 3546
+        },
+        {
+          "name": "meta-agentic-project-scaffold",
+          "file": "meta-agentic-project-scaffold.md",
+          "size": 1476
+        },
+        {
+          "name": "modernization",
+          "file": "modernization.md",
+          "size": 26747
+        },
+        {
+          "name": "php-mcp-expert",
+          "file": "php-mcp-expert.md",
+          "size": 11168
+        },
+        {
+          "name": "pimcore-expert",
+          "file": "pimcore-expert.md",
+          "size": 31897
+        },
+        {
+          "name": "plan",
+          "file": "plan.md",
+          "size": 6715
+        },
+        {
+          "name": "planner",
+          "file": "planner.md",
+          "size": 854
+        },
+        {
+          "name": "power-bi-performance-expert",
+          "file": "power-bi-performance-expert.md",
+          "size": 15857
+        },
+        {
+          "name": "power-bi-visualization-expert",
+          "file": "power-bi-visualization-expert.md",
+          "size": 14961
+        },
+        {
+          "name": "power-platform-mcp-integration-expert",
+          "file": "power-platform-mcp-integration-expert.md",
+          "size": 7170
+        },
+        {
+          "name": "principal-software-engineer",
+          "file": "principal-software-engineer.md",
+          "size": 2710
+        },
+        {
+          "name": "refine-issue",
+          "file": "refine-issue.md",
+          "size": 1322
+        },
+        {
+          "name": "research-technical-spike",
+          "file": "research-technical-spike.md",
+          "size": 9042
+        },
+        {
+          "name": "se-ux-ui-designer",
+          "file": "se-ux-ui-designer.md",
+          "size": 10461
+        },
+        {
+          "name": "specification",
+          "file": "specification.md",
+          "size": 5951
+        },
+        {
+          "name": "swift-mcp-expert",
+          "file": "swift-mcp-expert.md",
+          "size": 5583
+        },
+        {
+          "name": "voidbeast-gpt41enhanced",
+          "file": "voidbeast-gpt41enhanced.md",
+          "size": 9755
+        },
+        {
+          "name": "wg-code-alchemist",
+          "file": "wg-code-alchemist.md",
+          "size": 4576
         }
       ],
       "ffmpeg-clip-team": [
@@ -534,6 +1039,13 @@
           "name": "video-editor",
           "file": "video-editor.md",
           "size": 1211
+        }
+      ],
+      "finance": [
+        {
+          "name": "bettoredge-value-finder",
+          "file": "bettoredge-value-finder.md",
+          "size": 5304
         }
       ],
       "game-development": [
@@ -779,6 +1291,11 @@
       ],
       "programming-languages": [
         {
+          "name": "CSharpExpert",
+          "file": "CSharpExpert.md",
+          "size": 8370
+        },
+        {
           "name": "c-pro",
           "file": "c-pro.md",
           "size": 1196
@@ -794,6 +1311,31 @@
           "size": 1430
         },
         {
+          "name": "csharp-dotnet-janitor",
+          "file": "csharp-dotnet-janitor.md",
+          "size": 2886
+        },
+        {
+          "name": "csharp-mcp-expert",
+          "file": "csharp-mcp-expert.md",
+          "size": 7098
+        },
+        {
+          "name": "diffblue-cover",
+          "file": "diffblue-cover.md",
+          "size": 2111
+        },
+        {
+          "name": "expert-cpp-software-engineer",
+          "file": "expert-cpp-software-engineer.md",
+          "size": 3100
+        },
+        {
+          "name": "go-mcp-expert",
+          "file": "go-mcp-expert.md",
+          "size": 4316
+        },
+        {
           "name": "golang-pro",
           "file": "golang-pro.md",
           "size": 1271
@@ -804,9 +1346,24 @@
           "size": 1239
         },
         {
+          "name": "microsoft-agent-framework-python",
+          "file": "microsoft-agent-framework-python.md",
+          "size": 4071
+        },
+        {
+          "name": "mongodb-performance-advisor",
+          "file": "mongodb-performance-advisor.md",
+          "size": 4558
+        },
+        {
           "name": "php-pro",
           "file": "php-pro.md",
           "size": 2093
+        },
+        {
+          "name": "python-mcp-expert",
+          "file": "python-mcp-expert.md",
+          "size": 6144
         },
         {
           "name": "python-pro",
@@ -814,9 +1371,29 @@
           "size": 1334
         },
         {
+          "name": "ruby-mcp-expert",
+          "file": "ruby-mcp-expert.md",
+          "size": 7057
+        },
+        {
+          "name": "rust-gpt-4.1-beast-mode",
+          "file": "rust-gpt-4.1-beast-mode.md",
+          "size": 14208
+        },
+        {
+          "name": "rust-mcp-expert",
+          "file": "rust-mcp-expert.md",
+          "size": 12591
+        },
+        {
           "name": "rust-pro",
           "file": "rust-pro.md",
           "size": 1200
+        },
+        {
+          "name": "semantic-kernel-python",
+          "file": "semantic-kernel-python.md",
+          "size": 2350
         },
         {
           "name": "shell-scripting-pro",
@@ -827,6 +1404,16 @@
           "name": "sql-pro",
           "file": "sql-pro.md",
           "size": 1220
+        },
+        {
+          "name": "technical-content-evaluator",
+          "file": "technical-content-evaluator.md",
+          "size": 26351
+        },
+        {
+          "name": "typescript-mcp-expert",
+          "file": "typescript-mcp-expert.md",
+          "size": 6205
         },
         {
           "name": "typescript-pro",
@@ -848,9 +1435,29 @@
           "size": 2875
         },
         {
+          "name": "comet-opik",
+          "file": "comet-opik.md",
+          "size": 9530
+        },
+        {
           "name": "compliance-specialist",
           "file": "compliance-specialist.md",
           "size": 1442
+        },
+        {
+          "name": "dynatrace-expert",
+          "file": "dynatrace-expert.md",
+          "size": 25707
+        },
+        {
+          "name": "elasticsearch-observability",
+          "file": "elasticsearch-observability.md",
+          "size": 3202
+        },
+        {
+          "name": "github-actions-expert",
+          "file": "github-actions-expert.md",
+          "size": 4570
         },
         {
           "name": "incident-responder",
@@ -858,14 +1465,49 @@
           "size": 1957
         },
         {
+          "name": "jfrog-sec",
+          "file": "jfrog-sec.md",
+          "size": 1703
+        },
+        {
           "name": "penetration-tester",
           "file": "penetration-tester.md",
           "size": 1422
         },
         {
+          "name": "platform-sre-kubernetes",
+          "file": "platform-sre-kubernetes.md",
+          "size": 4135
+        },
+        {
+          "name": "se-security-reviewer",
+          "file": "se-security-reviewer.md",
+          "size": 3957
+        },
+        {
           "name": "security-auditor",
           "file": "security-auditor.md",
           "size": 1230
+        },
+        {
+          "name": "stackhawk-security-onboarding",
+          "file": "stackhawk-security-onboarding.md",
+          "size": 9286
+        },
+        {
+          "name": "tdd-refactor",
+          "file": "tdd-refactor.md",
+          "size": 4741
+        },
+        {
+          "name": "terraform",
+          "file": "terraform.md",
+          "size": 13997
+        },
+        {
+          "name": "wg-code-sentinel",
+          "file": "wg-code-sentinel.md",
+          "size": 3589
         }
       ],
       "ui-analysis": [
@@ -897,6 +1539,41 @@
       ],
       "web-tools": [
         {
+          "name": "accessibility",
+          "file": "accessibility.md",
+          "size": 12631
+        },
+        {
+          "name": "aem-frontend-specialist",
+          "file": "aem-frontend-specialist.md",
+          "size": 20061
+        },
+        {
+          "name": "electron-angular-native",
+          "file": "electron-angular-native.md",
+          "size": 8593
+        },
+        {
+          "name": "expert-nextjs-developer",
+          "file": "expert-nextjs-developer.md",
+          "size": 18837
+        },
+        {
+          "name": "expert-react-frontend-engineer",
+          "file": "expert-react-frontend-engineer.md",
+          "size": 24936
+        },
+        {
+          "name": "java-mcp-expert",
+          "file": "java-mcp-expert.md",
+          "size": 8334
+        },
+        {
+          "name": "lingodotdev-i18n",
+          "file": "lingodotdev-i18n.md",
+          "size": 1171
+        },
+        {
           "name": "nextjs-architecture-expert",
           "file": "nextjs-architecture-expert.md",
           "size": 6111
@@ -905,6 +1582,16 @@
           "name": "react-performance-optimizer",
           "file": "react-performance-optimizer.md",
           "size": 11516
+        },
+        {
+          "name": "se-responsible-ai-code",
+          "file": "se-responsible-ai-code.md",
+          "size": 6546
+        },
+        {
+          "name": "search-ai-optimization-expert",
+          "file": "search-ai-optimization-expert.md",
+          "size": 14969
         },
         {
           "name": "seo-analyzer",
@@ -951,7 +1638,24 @@
           "size": 13542
         }
       ],
+      "azure": [
+        {
+          "name": "appinsights-instrumentation",
+          "file": "appinsights-instrumentation.md",
+          "size": 2452
+        },
+        {
+          "name": "azure-role-selector",
+          "file": "azure-role-selector.md",
+          "size": 948
+        }
+      ],
       "database": [
+        {
+          "name": "snowflake-semanticview",
+          "file": "snowflake-semanticview.md",
+          "size": 3764
+        },
         {
           "name": "supabase-backup-manager",
           "file": "supabase-backup-manager.md",
@@ -1048,6 +1752,13 @@
           "name": "setup-kubernetes-deployment",
           "file": "setup-kubernetes-deployment.md",
           "size": 4096
+        }
+      ],
+      "design": [
+        {
+          "name": "web-design-reviewer",
+          "file": "web-design-reviewer.md",
+          "size": 10518
         }
       ],
       "documentation": [
@@ -1448,6 +2159,11 @@
           "size": 1597
         },
         {
+          "name": "github-issues",
+          "file": "github-issues.md",
+          "size": 4787
+        },
+        {
           "name": "init-project",
           "file": "init-project.md",
           "size": 3716
@@ -1456,6 +2172,11 @@
           "name": "milestone-tracker",
           "file": "milestone-tracker.md",
           "size": 1541
+        },
+        {
+          "name": "nuget-manager",
+          "file": "nuget-manager.md",
+          "size": 3422
         },
         {
           "name": "pac-configure",
@@ -1962,6 +2683,11 @@
           "size": 2342
         },
         {
+          "name": "webapp-testing",
+          "file": "webapp-testing.md",
+          "size": 3316
+        },
+        {
           "name": "write-tests",
           "file": "write-tests.md",
           "size": 2245
@@ -2179,7 +2905,7 @@
         {
           "name": "debug-window",
           "file": "debug-window.json",
-          "size": 384
+          "size": 827
         },
         {
           "name": "file-backup",
@@ -2291,9 +3017,19 @@
       ],
       "security": [
         {
+          "name": "dangerous-command-blocker",
+          "file": "dangerous-command-blocker.json",
+          "size": 809
+        },
+        {
           "name": "file-protection",
           "file": "file-protection.json",
           "size": 698
+        },
+        {
+          "name": "secret-scanner",
+          "file": "secret-scanner.json",
+          "size": 668
         },
         {
           "name": "security-scanner",
@@ -3036,6 +3772,13 @@
           "name": "tokenization-sentencepiece",
           "file": "tokenization-sentencepiece/SKILL.md",
           "size": 5632
+        }
+      ],
+      "analytics": [
+        {
+          "name": "google-analytics",
+          "file": "google-analytics/SKILL.md",
+          "size": 4745
         }
       ],
       "business-marketing": [
@@ -4450,11 +5193,33 @@
           "size": 140
         }
       ],
+      "video": [
+        {
+          "name": "manim",
+          "file": "manim/SKILL.md",
+          "size": 4735
+        },
+        {
+          "name": "motion-canvas",
+          "file": "motion-canvas/SKILL.md",
+          "size": 11463
+        },
+        {
+          "name": "remotion",
+          "file": "remotion/SKILL.md",
+          "size": 6323
+        }
+      ],
       "web-development": [
         {
           "name": "react-best-practices",
           "file": "react-best-practices/SKILL.md",
           "size": 7357
+        },
+        {
+          "name": "roier-seo",
+          "file": "roier-seo/SKILL.md",
+          "size": 10948
         }
       ],
       "workflow-automation": [
@@ -4809,24 +5574,24 @@
   },
   "summary": {
     "agents": {
-      "categories": 26,
-      "templates": 174
+      "categories": 27,
+      "templates": 311
     },
     "commands": {
-      "categories": 20,
-      "templates": 221
+      "categories": 22,
+      "templates": 228
     },
     "hooks": {
       "categories": 11,
-      "templates": 42
+      "templates": 44
     },
     "mcps": {
       "categories": 11,
       "templates": 64
     },
     "skills": {
-      "categories": 15,
-      "templates": 357
+      "categories": 17,
+      "templates": 362
     },
     "settings": {
       "categories": 12,
