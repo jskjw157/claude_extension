@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-08T00:32:26.133435",
+  "updated_at": "2026-02-15T00:27:18.404060",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -3391,6 +3391,11 @@
           "size": 1593
         },
         {
+          "name": "telegram-pr-webhook",
+          "file": "telegram-pr-webhook.json",
+          "size": 605
+        },
+        {
           "name": "vercel-auto-deploy",
           "file": "vercel-auto-deploy.json",
           "size": 2723
@@ -4304,6 +4309,11 @@
           "size": 11466
         },
         {
+          "name": "openai-docs",
+          "file": "openai-docs/SKILL.md",
+          "size": 3461
+        },
+        {
           "name": "optimization-awq",
           "file": "optimization-awq/SKILL.md",
           "size": 8383
@@ -4775,6 +4785,11 @@
           "size": 21764
         },
         {
+          "name": "develop-web-game",
+          "file": "develop-web-game/SKILL.md",
+          "size": 9248
+        },
+        {
           "name": "draw-io",
           "file": "draw-io/SKILL.md",
           "size": 7609
@@ -4790,6 +4805,16 @@
           "size": 5673
         },
         {
+          "name": "figma",
+          "file": "figma/SKILL.md",
+          "size": 3185
+        },
+        {
+          "name": "figma-implement-design",
+          "file": "figma-implement-design/SKILL.md",
+          "size": 11528
+        },
+        {
           "name": "frontend-design",
           "file": "frontend-design/SKILL.md",
           "size": 4440
@@ -4798,6 +4823,11 @@
           "name": "game-development",
           "file": "game-development/SKILL.md",
           "size": 4682
+        },
+        {
+          "name": "imagegen",
+          "file": "imagegen/SKILL.md",
+          "size": 9931
         },
         {
           "name": "interactive-portfolio",
@@ -5049,6 +5079,11 @@
           "size": 1506
         },
         {
+          "name": "cloudflare-deploy",
+          "file": "cloudflare-deploy/SKILL.md",
+          "size": 7392
+        },
+        {
           "name": "cocoindex",
           "file": "cocoindex/SKILL.md",
           "size": 25659
@@ -5159,6 +5194,11 @@
           "size": 2171
         },
         {
+          "name": "fastmcp-server",
+          "file": "fastmcp-server/SKILL.md",
+          "size": 7627
+        },
+        {
           "name": "feature-design-assistant",
           "file": "feature-design-assistant/SKILL.md",
           "size": 12132
@@ -5204,6 +5244,11 @@
           "size": 1086
         },
         {
+          "name": "github-actions-creator",
+          "file": "github-actions-creator/SKILL.md",
+          "size": 9596
+        },
+        {
           "name": "github-workflow-automation",
           "file": "github-workflow-automation/SKILL.md",
           "size": 21665
@@ -5242,6 +5287,11 @@
           "name": "javascript-mastery",
           "file": "javascript-mastery/SKILL.md",
           "size": 12826
+        },
+        {
+          "name": "jupyter-notebook",
+          "file": "jupyter-notebook/SKILL.md",
+          "size": 4169
         },
         {
           "name": "lint-and-validate",
@@ -5294,6 +5344,11 @@
           "size": 21444
         },
         {
+          "name": "netlify-deploy",
+          "file": "netlify-deploy/SKILL.md",
+          "size": 7026
+        },
+        {
           "name": "nextjs-best-practices",
           "file": "nextjs-best-practices/SKILL.md",
           "size": 3740
@@ -5332,6 +5387,16 @@
           "name": "plaid-fintech",
           "file": "plaid-fintech/SKILL.md",
           "size": 1459
+        },
+        {
+          "name": "playwright",
+          "file": "playwright/SKILL.md",
+          "size": 3786
+        },
+        {
+          "name": "playwright-e2e-builder",
+          "file": "playwright-e2e-builder/SKILL.md",
+          "size": 21215
         },
         {
           "name": "plugin-forge",
@@ -5404,9 +5469,19 @@
           "size": 6314
         },
         {
+          "name": "render-deploy",
+          "file": "render-deploy/SKILL.md",
+          "size": 17597
+        },
+        {
           "name": "requesting-code-review",
           "file": "requesting-code-review/SKILL.md",
           "size": 2700
+        },
+        {
+          "name": "rust-cli-builder",
+          "file": "rust-cli-builder/SKILL.md",
+          "size": 15796
         },
         {
           "name": "salesforce-development",
@@ -5579,6 +5654,11 @@
           "size": 3308
         },
         {
+          "name": "vercel-deploy",
+          "file": "vercel-deploy/SKILL.md",
+          "size": 2215
+        },
+        {
           "name": "vercel-deployment",
           "file": "vercel-deployment/SKILL.md",
           "size": 2144
@@ -5625,6 +5705,11 @@
         }
       ],
       "document-processing": [
+        {
+          "name": "doc",
+          "file": "doc/SKILL.md",
+          "size": 3003
+        },
         {
           "name": "documentation-templates",
           "file": "documentation-templates/SKILL.md",
@@ -5689,6 +5774,11 @@
           "name": "pptx-official",
           "file": "pptx-official/SKILL.md",
           "size": 25551
+        },
+        {
+          "name": "spreadsheet",
+          "file": "spreadsheet/SKILL.md",
+          "size": 5096
         },
         {
           "name": "xlsx",
@@ -5873,6 +5963,21 @@
           "name": "image-enhancer",
           "file": "image-enhancer/SKILL.md",
           "size": 2540
+        },
+        {
+          "name": "screenshot",
+          "file": "screenshot/SKILL.md",
+          "size": 7769
+        },
+        {
+          "name": "speech",
+          "file": "speech/SKILL.md",
+          "size": 7256
+        },
+        {
+          "name": "transcribe",
+          "file": "transcribe/SKILL.md",
+          "size": 2849
         },
         {
           "name": "video-downloader",
@@ -6903,6 +7008,21 @@
           "size": 13547
         },
         {
+          "name": "security-best-practices",
+          "file": "security-best-practices/SKILL.md",
+          "size": 8627
+        },
+        {
+          "name": "security-ownership-map",
+          "file": "security-ownership-map/SKILL.md",
+          "size": 8751
+        },
+        {
+          "name": "security-threat-model",
+          "file": "security-threat-model/SKILL.md",
+          "size": 5576
+        },
+        {
           "name": "shodan-reconnaissance",
           "file": "shodan-reconnaissance/SKILL.md",
           "size": 13821
@@ -7067,6 +7187,11 @@
           "name": "remotion",
           "file": "remotion/SKILL.md",
           "size": 6323
+        },
+        {
+          "name": "sora",
+          "file": "sora/SKILL.md",
+          "size": 8178
         }
       ],
       "web-development": [
@@ -7079,6 +7204,11 @@
           "name": "exa-search",
           "file": "exa-search/SKILL.md",
           "size": 929
+        },
+        {
+          "name": "fastapi-endpoint",
+          "file": "fastapi-endpoint/SKILL.md",
+          "size": 15524
         },
         {
           "name": "firecrawl-scraper",
@@ -7156,6 +7286,11 @@
           "name": "workflow-automation",
           "file": "workflow-automation/SKILL.md",
           "size": 2368
+        },
+        {
+          "name": "yeet",
+          "file": "yeet/SKILL.md",
+          "size": 1710
         },
         {
           "name": "zapier-make-patterns",
@@ -7412,6 +7547,11 @@
           "size": 2659
         },
         {
+          "name": "neon-database-context",
+          "file": "neon-database-context.json",
+          "size": 2498
+        },
+        {
           "name": "neon-database-dev",
           "file": "neon-database-dev.json",
           "size": 3080
@@ -7517,7 +7657,7 @@
     },
     "hooks": {
       "categories": 11,
-      "templates": 45
+      "templates": 46
     },
     "mcps": {
       "categories": 11,
@@ -7525,11 +7665,11 @@
     },
     "skills": {
       "categories": 19,
-      "templates": 644
+      "templates": 670
     },
     "settings": {
       "categories": 12,
-      "templates": 63
+      "templates": 64
     }
   }
 }
