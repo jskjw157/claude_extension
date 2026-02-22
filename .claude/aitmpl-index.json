@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T00:27:18.404060",
+  "updated_at": "2026-02-22T00:25:34.183395",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -3693,6 +3693,11 @@
           "size": 295
         },
         {
+          "name": "devplan-mcp",
+          "file": "devplan-mcp.json",
+          "size": 118
+        },
+        {
           "name": "dynatrace",
           "file": "dynatrace.json",
           "size": 353
@@ -3851,6 +3856,11 @@
         }
       ],
       "integration": [
+        {
+          "name": "footballbin-predictions",
+          "file": "footballbin-predictions.json",
+          "size": 390
+        },
         {
           "name": "github-integration",
           "file": "github-integration.json",
@@ -4917,6 +4927,18 @@
           "size": 4326
         }
       ],
+      "design-to-code": [
+        {
+          "name": "SKILL",
+          "file": "SKILL.md",
+          "size": 4976
+        },
+        {
+          "name": "scripts/package",
+          "file": "scripts/package.json",
+          "size": 122
+        }
+      ],
       "development": [
         {
           "name": "accessibility",
@@ -5622,6 +5644,11 @@
           "name": "tdd-workflow",
           "file": "tdd-workflow/SKILL.md",
           "size": 2813
+        },
+        {
+          "name": "telegram-bot-builder",
+          "file": "telegram-bot-builder/SKILL.md",
+          "size": 8858
         },
         {
           "name": "test-driven-development",
@@ -7115,6 +7142,13 @@
           "size": 4008
         }
       ],
+      "sports": [
+        {
+          "name": "footballbin-predictions",
+          "file": "footballbin-predictions/SKILL.md",
+          "size": 2537
+        }
+      ],
       "utilities": [
         {
           "name": "browser-automation",
@@ -7392,6 +7426,11 @@
           "size": 326
         },
         {
+          "name": "company-announcements",
+          "file": "company-announcements.json",
+          "size": 522
+        },
+        {
           "name": "custom-model",
           "file": "custom-model.json",
           "size": 313
@@ -7400,6 +7439,11 @@
           "name": "git-commit-settings",
           "file": "git-commit-settings.json",
           "size": 253
+        },
+        {
+          "name": "spinner-tips-override",
+          "file": "spinner-tips-override.json",
+          "size": 463
         }
       ],
       "mcp": [
@@ -7661,15 +7705,15 @@
     },
     "mcps": {
       "categories": 11,
-      "templates": 64
+      "templates": 66
     },
     "skills": {
-      "categories": 19,
-      "templates": 670
+      "categories": 21,
+      "templates": 674
     },
     "settings": {
       "categories": 12,
-      "templates": 64
+      "templates": 66
     }
   }
 }
