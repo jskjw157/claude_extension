@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T00:25:34.183395",
+  "updated_at": "2026-03-01T00:28:00.481143",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -681,6 +681,11 @@
           "name": "code-simplifier",
           "file": "code-simplifier.md",
           "size": 3129
+        },
+        {
+          "name": "codebase-explorer",
+          "file": "codebase-explorer.md",
+          "size": 6348
         },
         {
           "name": "codebase-pattern-finder",
@@ -3331,6 +3336,11 @@
           "size": 728
         },
         {
+          "name": "change-logger",
+          "file": "change-logger.json",
+          "size": 1189
+        },
+        {
           "name": "dependency-checker",
           "file": "dependency-checker.json",
           "size": 1122
@@ -3441,6 +3451,11 @@
           "name": "smart-formatting",
           "file": "smart-formatting.json",
           "size": 1175
+        },
+        {
+          "name": "worktree-ghostty",
+          "file": "worktree-ghostty.json",
+          "size": 922
         }
       ],
       "git": [
@@ -3473,6 +3488,11 @@
         }
       ],
       "monitoring": [
+        {
+          "name": "desktop-notification-on-stop",
+          "file": "desktop-notification-on-stop.json",
+          "size": 829
+        },
         {
           "name": "langsmith-tracing",
           "file": "langsmith-tracing.json",
@@ -3539,7 +3559,7 @@
         {
           "name": "dangerous-command-blocker",
           "file": "dangerous-command-blocker.json",
-          "size": 809
+          "size": 800
         },
         {
           "name": "file-protection",
@@ -3925,6 +3945,38 @@
           "name": "ANTHROPIC_ATTRIBUTION",
           "file": "ANTHROPIC_ATTRIBUTION.md",
           "size": 3249
+        }
+      ],
+      "ai-maestro": [
+        {
+          "name": "agent-management",
+          "file": "agent-management/SKILL.md",
+          "size": 3111
+        },
+        {
+          "name": "agent-messaging",
+          "file": "agent-messaging/SKILL.md",
+          "size": 3227
+        },
+        {
+          "name": "docs-search",
+          "file": "docs-search/SKILL.md",
+          "size": 2600
+        },
+        {
+          "name": "graph-query",
+          "file": "graph-query/SKILL.md",
+          "size": 2817
+        },
+        {
+          "name": "memory-search",
+          "file": "memory-search/SKILL.md",
+          "size": 2632
+        },
+        {
+          "name": "planning",
+          "file": "planning/SKILL.md",
+          "size": 2894
         }
       ],
       "ai-research": [
@@ -4956,6 +5008,11 @@
           "size": 7473
         },
         {
+          "name": "agirails-agent-payments",
+          "file": "agirails-agent-payments/SKILL.md",
+          "size": 35322
+        },
+        {
           "name": "algolia-search",
           "file": "algolia-search/SKILL.md",
           "size": 1971
@@ -5326,6 +5383,11 @@
           "size": 12417
         },
         {
+          "name": "manifest",
+          "file": "manifest/SKILL.md",
+          "size": 3124
+        },
+        {
           "name": "mcp-builder",
           "file": "mcp-builder/SKILL.md",
           "size": 13552
@@ -5649,6 +5711,11 @@
           "name": "telegram-bot-builder",
           "file": "telegram-bot-builder/SKILL.md",
           "size": 8858
+        },
+        {
+          "name": "test-detect",
+          "file": "test-detect/SKILL.md",
+          "size": 3955
         },
         {
           "name": "test-driven-development",
@@ -5985,6 +6052,47 @@
           "size": 3768
         }
       ],
+      "git": [
+        {
+          "name": "commit-smart",
+          "file": "commit-smart/SKILL.md",
+          "size": 3284
+        },
+        {
+          "name": "git-context-controller",
+          "file": "git-context-controller/SKILL.md",
+          "size": 6615
+        }
+      ],
+      "gmod-addon-maker": [
+        {
+          "name": "SKILL",
+          "file": "SKILL.md",
+          "size": 2389
+        },
+        {
+          "name": "references/common-error",
+          "file": "references/common-error.md",
+          "size": 3754
+        },
+        {
+          "name": "references/addon-structure",
+          "file": "references/addon-structure.md",
+          "size": 4628
+        },
+        {
+          "name": "references/state-exp",
+          "file": "references/state-exp.md",
+          "size": 6679
+        }
+      ],
+      "marketing": [
+        {
+          "name": "x-twitter-scraper",
+          "file": "x-twitter-scraper/SKILL.md",
+          "size": 7206
+        }
+      ],
       "media": [
         {
           "name": "image-enhancer",
@@ -6037,6 +6145,11 @@
           "name": "crafting-effective-readmes",
           "file": "crafting-effective-readmes/SKILL.md",
           "size": 2676
+        },
+        {
+          "name": "deadline-prep",
+          "file": "deadline-prep/SKILL.md",
+          "size": 2959
         },
         {
           "name": "doc-coauthoring",
@@ -7561,6 +7674,11 @@
           "size": 1120
         },
         {
+          "name": "deadline-countdown",
+          "file": "deadline-countdown.json",
+          "size": 326
+        },
+        {
           "name": "emotion-theater-statusline",
           "file": "emotion-theater-statusline.json",
           "size": 1100
@@ -7693,7 +7811,7 @@
   "summary": {
     "agents": {
       "categories": 27,
-      "templates": 413
+      "templates": 414
     },
     "commands": {
       "categories": 22,
@@ -7701,19 +7819,19 @@
     },
     "hooks": {
       "categories": 11,
-      "templates": 46
+      "templates": 49
     },
     "mcps": {
       "categories": 11,
       "templates": 66
     },
     "skills": {
-      "categories": 21,
-      "templates": 674
+      "categories": 25,
+      "templates": 691
     },
     "settings": {
       "categories": 12,
-      "templates": 66
+      "templates": 67
     }
   }
 }
