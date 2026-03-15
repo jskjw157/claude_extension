@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-08T00:25:42.358707",
+  "updated_at": "2026-03-15T00:29:34.349062",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -4501,6 +4501,13 @@
           "file": "zread.json",
           "size": 474
         }
+      ],
+      "web-data": [
+        {
+          "name": "brightdata",
+          "file": "brightdata.json",
+          "size": 303
+        }
       ]
     },
     "skills": {
@@ -5707,6 +5714,11 @@
           "size": 3096
         },
         {
+          "name": "claude-api",
+          "file": "claude-api/SKILL.md",
+          "size": 18276
+        },
+        {
           "name": "claude-opus-4-5-migration",
           "file": "claude-opus-4-5-migration/SKILL.md",
           "size": 4746
@@ -6229,7 +6241,7 @@
         {
           "name": "skill-creator",
           "file": "skill-creator/SKILL.md",
-          "size": 11547
+          "size": 33168
         },
         {
           "name": "skill-development",
@@ -6381,7 +6393,7 @@
         {
           "name": "docx-official",
           "file": "docx-official/SKILL.md",
-          "size": 10150
+          "size": 20084
         },
         {
           "name": "json-canvas",
@@ -6406,7 +6418,7 @@
         {
           "name": "pdf-anthropic",
           "file": "pdf-anthropic/SKILL.md",
-          "size": 7068
+          "size": 8072
         },
         {
           "name": "pdf-official",
@@ -6431,7 +6443,7 @@
         {
           "name": "pptx-official",
           "file": "pptx-official/SKILL.md",
-          "size": 25551
+          "size": 9182
         },
         {
           "name": "spreadsheet",
@@ -6446,7 +6458,7 @@
         {
           "name": "xlsx-official",
           "file": "xlsx-official/SKILL.md",
-          "size": 10632
+          "size": 11463
         }
       ],
       "enterprise-communication": [
@@ -6682,6 +6694,38 @@
           "name": "video-downloader",
           "file": "video-downloader/SKILL.md",
           "size": 2687
+        }
+      ],
+      "pocketbase": [
+        {
+          "name": "pb-api-rules",
+          "file": "pb-api-rules/SKILL.md",
+          "size": 6743
+        },
+        {
+          "name": "pb-collections",
+          "file": "pb-collections/SKILL.md",
+          "size": 5152
+        },
+        {
+          "name": "pb-deploy",
+          "file": "pb-deploy/SKILL.md",
+          "size": 9419
+        },
+        {
+          "name": "pb-hooks",
+          "file": "pb-hooks/SKILL.md",
+          "size": 16546
+        },
+        {
+          "name": "pb-migrations",
+          "file": "pb-migrations/SKILL.md",
+          "size": 9121
+        },
+        {
+          "name": "pb-sdk",
+          "file": "pb-sdk/SKILL.md",
+          "size": 10679
         }
       ],
       "productivity": [
@@ -7843,6 +7887,11 @@
           "size": 1919
         },
         {
+          "name": "cf-crawl",
+          "file": "cf-crawl/SKILL.md",
+          "size": 10547
+        },
+        {
           "name": "domain-name-brainstormer",
           "file": "domain-name-brainstormer/SKILL.md",
           "size": 5696
@@ -7903,6 +7952,38 @@
           "name": "sora",
           "file": "sora/SKILL.md",
           "size": 8178
+        }
+      ],
+      "web-data": [
+        {
+          "name": "bright-data-best-practices",
+          "file": "bright-data-best-practices/SKILL.md",
+          "size": 13098
+        },
+        {
+          "name": "bright-data-mcp",
+          "file": "bright-data-mcp/SKILL.md",
+          "size": 10352
+        },
+        {
+          "name": "data-feeds",
+          "file": "data-feeds/SKILL.md",
+          "size": 6606
+        },
+        {
+          "name": "design-mirror",
+          "file": "design-mirror/SKILL.md",
+          "size": 8278
+        },
+        {
+          "name": "scrape",
+          "file": "scrape/SKILL.md",
+          "size": 1566
+        },
+        {
+          "name": "search",
+          "file": "search/SKILL.md",
+          "size": 1355
         }
       ],
       "web-development": [
@@ -8386,12 +8467,12 @@
       "templates": 52
     },
     "mcps": {
-      "categories": 11,
-      "templates": 66
+      "categories": 12,
+      "templates": 67
     },
     "skills": {
-      "categories": 25,
-      "templates": 691
+      "categories": 27,
+      "templates": 705
     },
     "settings": {
       "categories": 12,
