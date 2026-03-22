@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-15T00:29:34.349062",
+  "updated_at": "2026-03-22T00:26:58.099059",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -563,7 +563,7 @@
         {
           "name": "backend-architect",
           "file": "backend-architect.md",
-          "size": 1236
+          "size": 5135
         },
         {
           "name": "backend-developer",
@@ -3702,7 +3702,7 @@
         {
           "name": "generate-tests",
           "file": "generate-tests.md",
-          "size": 2689
+          "size": 2664
         },
         {
           "name": "setup-comprehensive-testing",
@@ -4515,7 +4515,7 @@
         {
           "name": "ANTHROPIC_ATTRIBUTION",
           "file": "ANTHROPIC_ATTRIBUTION.md",
-          "size": 3249
+          "size": 3247
         }
       ],
       "ai-maestro": [
@@ -5384,6 +5384,11 @@
           "name": "viral-generator-builder",
           "file": "viral-generator-builder/SKILL.md",
           "size": 5289
+        },
+        {
+          "name": "x-twitter-scraper",
+          "file": "x-twitter-scraper/SKILL.md",
+          "size": 9270
         }
       ],
       "creative-design": [
@@ -5500,7 +5505,7 @@
         {
           "name": "slack-gif-creator",
           "file": "slack-gif-creator/SKILL.md",
-          "size": 17142
+          "size": 7841
         },
         {
           "name": "tailwind-patterns",
@@ -5657,6 +5662,11 @@
           "name": "brainstorming",
           "file": "brainstorming/SKILL.md",
           "size": 2505
+        },
+        {
+          "name": "brightdata-local-search",
+          "file": "brightdata-local-search/SKILL.md",
+          "size": 4902
         },
         {
           "name": "bullmq-specialist",
@@ -5966,7 +5976,7 @@
         {
           "name": "mcp-builder",
           "file": "mcp-builder/SKILL.md",
-          "size": 13552
+          "size": 9092
         },
         {
           "name": "mcp-integration",
@@ -6388,7 +6398,7 @@
         {
           "name": "docx",
           "file": "docx/SKILL.md",
-          "size": 10150
+          "size": 20084
         },
         {
           "name": "docx-official",
@@ -6413,7 +6423,7 @@
         {
           "name": "pdf",
           "file": "pdf/SKILL.md",
-          "size": 7068
+          "size": 8072
         },
         {
           "name": "pdf-anthropic",
@@ -6438,7 +6448,7 @@
         {
           "name": "pptx",
           "file": "pptx/SKILL.md",
-          "size": 25551
+          "size": 9182
         },
         {
           "name": "pptx-official",
@@ -6453,7 +6463,7 @@
         {
           "name": "xlsx",
           "file": "xlsx/SKILL.md",
-          "size": 10632
+          "size": 11463
         },
         {
           "name": "xlsx-official",
@@ -6898,6 +6908,11 @@
           "name": "skill-judge",
           "file": "skill-judge/SKILL.md",
           "size": 31029
+        },
+        {
+          "name": "think-tank",
+          "file": "think-tank/SKILL.md",
+          "size": 12030
         },
         {
           "name": "writing-plans",
@@ -8472,7 +8487,7 @@
     },
     "skills": {
       "categories": 27,
-      "templates": 705
+      "templates": 708
     },
     "settings": {
       "categories": 12,
