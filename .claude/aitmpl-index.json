@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-04-12T00:32:27.176480",
+  "updated_at": "2026-04-19T00:33:47.774087",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -710,7 +710,7 @@
         {
           "name": "debugger",
           "file": "debugger.md",
-          "size": 8809
+          "size": 7447
         },
         {
           "name": "dependency-manager",
@@ -1935,6 +1935,11 @@
           "size": 4417
         },
         {
+          "name": "ai-agent-audit-specialist",
+          "file": "ai-agent-audit-specialist.md",
+          "size": 7495
+        },
+        {
           "name": "api-security-audit",
           "file": "api-security-audit.md",
           "size": 2861
@@ -1978,6 +1983,11 @@
           "name": "jfrog-sec",
           "file": "jfrog-sec.md",
           "size": 1689
+        },
+        {
+          "name": "llm-redteam-specialist",
+          "file": "llm-redteam-specialist.md",
+          "size": 7882
         },
         {
           "name": "penetration-tester",
@@ -2168,6 +2178,11 @@
           "name": "husky",
           "file": "husky.md",
           "size": 3753
+        },
+        {
+          "name": "szamlazz",
+          "file": "szamlazz.md",
+          "size": 3867
         },
         {
           "name": "workflow-orchestrator",
@@ -3947,7 +3962,7 @@
         {
           "name": "simple-notifications",
           "file": "simple-notifications.json",
-          "size": 588
+          "size": 987
         },
         {
           "name": "slack-detailed-notifications",
@@ -4186,6 +4201,11 @@
           "name": "security-scanner",
           "file": "security-scanner.json",
           "size": 957
+        },
+        {
+          "name": "shell-wrapper-guard",
+          "file": "shell-wrapper-guard.json",
+          "size": 789
         }
       ],
       "testing": [
@@ -5672,6 +5692,11 @@
           "size": 15455
         },
         {
+          "name": "premium-web-design",
+          "file": "premium-web-design/SKILL.md",
+          "size": 60821
+        },
+        {
           "name": "remotion-best-practices",
           "file": "remotion-best-practices/SKILL.md",
           "size": 3457
@@ -5975,7 +6000,7 @@
         {
           "name": "claude-api",
           "file": "claude-api/SKILL.md",
-          "size": 29061
+          "size": 32987
         },
         {
           "name": "claude-opus-4-5-migration",
@@ -6723,6 +6748,11 @@
           "size": 9809
         },
         {
+          "name": "swarmvault",
+          "file": "swarmvault/SKILL.md",
+          "size": 11190
+        },
+        {
           "name": "swift-concurrency-expert",
           "file": "swift-concurrency-expert/SKILL.md",
           "size": 4292
@@ -7217,6 +7247,11 @@
           "name": "brainstorming",
           "file": "brainstorming/SKILL.md",
           "size": 2505
+        },
+        {
+          "name": "claude-code-sessions",
+          "file": "claude-code-sessions/SKILL.md",
+          "size": 3167
         },
         {
           "name": "code-review-excellence",
@@ -9125,15 +9160,15 @@
   "summary": {
     "agents": {
       "categories": 27,
-      "templates": 417
+      "templates": 419
     },
     "commands": {
       "categories": 24,
-      "templates": 340
+      "templates": 341
     },
     "hooks": {
       "categories": 12,
-      "templates": 55
+      "templates": 56
     },
     "mcps": {
       "categories": 13,
@@ -9141,7 +9176,7 @@
     },
     "skills": {
       "categories": 27,
-      "templates": 812
+      "templates": 815
     },
     "settings": {
       "categories": 12,
