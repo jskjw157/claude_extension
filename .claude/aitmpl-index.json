@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-04-19T00:33:47.774087",
+  "updated_at": "2026-04-26T00:35:55.796798",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -272,7 +272,7 @@
         {
           "name": "data-scientist",
           "file": "data-scientist.md",
-          "size": 9314
+          "size": 9176
         },
         {
           "name": "demonstrate-understanding",
@@ -6000,7 +6000,7 @@
         {
           "name": "claude-api",
           "file": "claude-api/SKILL.md",
-          "size": 32987
+          "size": 33009
         },
         {
           "name": "claude-opus-4-5-migration",
@@ -6932,7 +6932,7 @@
         {
           "name": "pdf-official",
           "file": "pdf-official/SKILL.md",
-          "size": 7068
+          "size": 8072
         },
         {
           "name": "pdf-processing",
