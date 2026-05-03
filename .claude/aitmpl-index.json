@@ -1,25 +1,32 @@
 {
   "version": "1.0",
-  "updated_at": "2026-04-26T00:35:55.796798",
+  "updated_at": "2026-05-03T00:40:30.708825",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
     "agents": {
+      "accessibility": [
+        {
+          "name": "accessibility-tester",
+          "file": "accessibility-tester.md",
+          "size": 11185
+        }
+      ],
       "ai-specialists": [
         {
           "name": "ai-ethics-advisor",
           "file": "ai-ethics-advisor.md",
-          "size": 7012
+          "size": 13722
         },
         {
           "name": "hackathon-ai-strategist",
           "file": "hackathon-ai-strategist.md",
-          "size": 2954
+          "size": 10854
         },
         {
           "name": "llm-architect",
           "file": "llm-architect.md",
-          "size": 9096
+          "size": 15692
         },
         {
           "name": "llms-maintainer",
@@ -546,7 +553,7 @@
         {
           "name": "research-synthesizer",
           "file": "research-synthesizer.md",
-          "size": 4976
+          "size": 7193
         },
         {
           "name": "search-specialist",
@@ -1773,7 +1780,7 @@
         {
           "name": "javascript-pro",
           "file": "javascript-pro.md",
-          "size": 10120
+          "size": 12863
         },
         {
           "name": "kotlin-specialist",
@@ -4088,6 +4095,11 @@
       ],
       "monitoring": [
         {
+          "name": "context-timeline",
+          "file": "context-timeline.json",
+          "size": 2082
+        },
+        {
           "name": "desktop-notification-on-stop",
           "file": "desktop-notification-on-stop.json",
           "size": 829
@@ -4532,6 +4544,11 @@
           "name": "testsprite",
           "file": "testsprite.json",
           "size": 307
+        },
+        {
+          "name": "trace-mcp",
+          "file": "trace-mcp.json",
+          "size": 314
         },
         {
           "name": "webflow",
@@ -9159,8 +9176,8 @@
   },
   "summary": {
     "agents": {
-      "categories": 27,
-      "templates": 419
+      "categories": 28,
+      "templates": 420
     },
     "commands": {
       "categories": 24,
@@ -9168,11 +9185,11 @@
     },
     "hooks": {
       "categories": 12,
-      "templates": 56
+      "templates": 57
     },
     "mcps": {
       "categories": 13,
-      "templates": 84
+      "templates": 85
     },
     "skills": {
       "categories": 27,
