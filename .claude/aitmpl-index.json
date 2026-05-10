@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-05-03T00:40:30.708825",
+  "updated_at": "2026-05-10T00:41:49.613348",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -31,12 +31,12 @@
         {
           "name": "llms-maintainer",
           "file": "llms-maintainer.md",
-          "size": 3383
+          "size": 4250
         },
         {
           "name": "model-evaluator",
           "file": "model-evaluator.md",
-          "size": 5186
+          "size": 12881
         },
         {
           "name": "prompt-engineer",
@@ -46,12 +46,12 @@
         {
           "name": "search-specialist",
           "file": "search-specialist.md",
-          "size": 1849
+          "size": 8750
         },
         {
           "name": "task-decomposition-expert",
           "file": "task-decomposition-expert.md",
-          "size": 5122
+          "size": 9884
         }
       ],
       "api-graphql": [
@@ -63,7 +63,7 @@
         {
           "name": "api-architect",
           "file": "api-architect.md",
-          "size": 2589
+          "size": 6855
         },
         {
           "name": "api-designer",
@@ -441,7 +441,7 @@
         {
           "name": "database-architect",
           "file": "database-architect.md",
-          "size": 21324
+          "size": 29009
         },
         {
           "name": "database-optimization",
@@ -1532,7 +1532,7 @@
         {
           "name": "moc-agent",
           "file": "moc-agent.md",
-          "size": 2933
+          "size": 6716
         },
         {
           "name": "review-agent",
@@ -2010,6 +2010,11 @@
           "name": "powershell-security-hardening",
           "file": "powershell-security-hardening.md",
           "size": 4737
+        },
+        {
+          "name": "read-only-auditor",
+          "file": "read-only-auditor.md",
+          "size": 3652
         },
         {
           "name": "se-security-reviewer",
@@ -4185,6 +4190,11 @@
       ],
       "security": [
         {
+          "name": "ai-bash-guard",
+          "file": "ai-bash-guard.json",
+          "size": 1930
+        },
+        {
           "name": "dangerous-command-blocker",
           "file": "dangerous-command-blocker.json",
           "size": 800
@@ -5644,6 +5654,11 @@
           "size": 9248
         },
         {
+          "name": "diagrammer",
+          "file": "diagrammer/SKILL.md",
+          "size": 1976
+        },
+        {
           "name": "draw-io",
           "file": "draw-io/SKILL.md",
           "size": 7609
@@ -6017,7 +6032,7 @@
         {
           "name": "claude-api",
           "file": "claude-api/SKILL.md",
-          "size": 33009
+          "size": 33041
         },
         {
           "name": "claude-opus-4-5-migration",
@@ -7443,7 +7458,7 @@
         {
           "name": "skill-creator",
           "file": "skill-creator/SKILL.md",
-          "size": 17837
+          "size": 33168
         },
         {
           "name": "skill-developer",
@@ -8925,6 +8940,13 @@
           "size": 463
         }
       ],
+      "hooks": [
+        {
+          "name": "subagent-lifecycle-logger",
+          "file": "subagent-lifecycle-logger.json",
+          "size": 1151
+        }
+      ],
       "mcp": [
         {
           "name": "disable-risky-servers",
@@ -9177,7 +9199,7 @@
   "summary": {
     "agents": {
       "categories": 28,
-      "templates": 420
+      "templates": 421
     },
     "commands": {
       "categories": 24,
@@ -9185,7 +9207,7 @@
     },
     "hooks": {
       "categories": 12,
-      "templates": 57
+      "templates": 58
     },
     "mcps": {
       "categories": 13,
@@ -9193,11 +9215,11 @@
     },
     "skills": {
       "categories": 27,
-      "templates": 815
+      "templates": 816
     },
     "settings": {
-      "categories": 12,
-      "templates": 67
+      "categories": 13,
+      "templates": 68
     }
   }
 }
