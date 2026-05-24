@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-05-17T00:43:40.607982",
+  "updated_at": "2026-05-24T00:45:30.847445",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -78,7 +78,7 @@
         {
           "name": "graphql-performance-optimizer",
           "file": "graphql-performance-optimizer.md",
-          "size": 9813
+          "size": 17159
         },
         {
           "name": "graphql-security-specialist",
@@ -844,7 +844,7 @@
         {
           "name": "azure-iac-generator",
           "file": "azure-iac-generator.md",
-          "size": 10593
+          "size": 10585
         },
         {
           "name": "azure-infra-engineer",
@@ -854,37 +854,37 @@
         {
           "name": "azure-logic-apps-expert",
           "file": "azure-logic-apps-expert.md",
-          "size": 5118
+          "size": 5099
         },
         {
           "name": "azure-principal-architect",
           "file": "azure-principal-architect.md",
-          "size": 4356
+          "size": 4160
         },
         {
           "name": "azure-saas-architect",
           "file": "azure-saas-architect.md",
-          "size": 8377
+          "size": 8143
         },
         {
           "name": "azure-verified-modules-bicep",
           "file": "azure-verified-modules-bicep.md",
-          "size": 1798
+          "size": 1602
         },
         {
           "name": "azure-verified-modules-terraform",
           "file": "azure-verified-modules-terraform.md",
-          "size": 2612
+          "size": 2416
         },
         {
           "name": "bicep-implement",
           "file": "bicep-implement.md",
-          "size": 2244
+          "size": 2227
         },
         {
           "name": "bicep-plan",
           "file": "bicep-plan.md",
-          "size": 4503
+          "size": 4520
         },
         {
           "name": "cloud-architect",
@@ -904,7 +904,7 @@
         {
           "name": "devops-expert",
           "file": "devops-expert.md",
-          "size": 8269
+          "size": 8220
         },
         {
           "name": "devops-incident-responder",
@@ -929,7 +929,7 @@
         {
           "name": "kusto-assistant",
           "file": "kusto-assistant.md",
-          "size": 8884
+          "size": 8693
         },
         {
           "name": "m365-admin",
@@ -969,7 +969,7 @@
         {
           "name": "se-gitops-ci-specialist",
           "file": "se-gitops-ci-specialist.md",
-          "size": 5343
+          "size": 5317
         },
         {
           "name": "security-engineer",
@@ -984,12 +984,12 @@
         {
           "name": "terraform-azure-implement",
           "file": "terraform-azure-implement.md",
-          "size": 6779
+          "size": 6775
         },
         {
           "name": "terraform-azure-planning",
           "file": "terraform-azure-planning.md",
-          "size": 7589
+          "size": 7606
         },
         {
           "name": "terraform-engineer",
@@ -999,7 +999,7 @@
         {
           "name": "terraform-iac-reviewer",
           "file": "terraform-iac-reviewer.md",
-          "size": 4516
+          "size": 4490
         },
         {
           "name": "terraform-specialist",
@@ -5992,6 +5992,11 @@
           "size": 1971
         },
         {
+          "name": "android-cicd",
+          "file": "android-cicd/SKILL.md",
+          "size": 8775
+        },
+        {
           "name": "angular",
           "file": "angular/SKILL.md",
           "size": 20148
@@ -6090,6 +6095,11 @@
           "name": "best-practices",
           "file": "best-practices/SKILL.md",
           "size": 12138
+        },
+        {
+          "name": "bleu",
+          "file": "bleu/SKILL.md",
+          "size": 35754
         },
         {
           "name": "brainstorming",
@@ -7101,7 +7111,7 @@
         {
           "name": "docx-official",
           "file": "docx-official/SKILL.md",
-          "size": 20084
+          "size": 20093
         },
         {
           "name": "json-canvas",
@@ -7131,7 +7141,7 @@
         {
           "name": "pdf-official",
           "file": "pdf-official/SKILL.md",
-          "size": 8072
+          "size": 8081
         },
         {
           "name": "pdf-processing",
@@ -7151,7 +7161,7 @@
         {
           "name": "pptx-official",
           "file": "pptx-official/SKILL.md",
-          "size": 9182
+          "size": 9191
         },
         {
           "name": "spreadsheet",
@@ -7166,7 +7176,7 @@
         {
           "name": "xlsx-official",
           "file": "xlsx-official/SKILL.md",
-          "size": 11463
+          "size": 11472
         }
       ],
       "enterprise-communication": [
@@ -8786,6 +8796,11 @@
           "size": 8976
         },
         {
+          "name": "building-blog",
+          "file": "building-blog/SKILL.md",
+          "size": 3796
+        },
+        {
           "name": "chrome-extension-developer",
           "file": "chrome-extension-developer/SKILL.md",
           "size": 3243
@@ -9392,7 +9407,7 @@
     },
     "skills": {
       "categories": 28,
-      "templates": 850
+      "templates": 853
     },
     "settings": {
       "categories": 13,
