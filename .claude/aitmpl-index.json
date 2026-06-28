@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-06-21T00:53:48.498085",
+  "updated_at": "2026-06-28T00:48:10.218780",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -5639,7 +5639,7 @@
         {
           "name": "x-twitter-scraper",
           "file": "x-twitter-scraper/SKILL.md",
-          "size": 9270
+          "size": 9308
         }
       ],
       "career": [
@@ -6260,6 +6260,11 @@
           "name": "command-development",
           "file": "command-development/SKILL.md",
           "size": 18941
+        },
+        {
+          "name": "context-architecture",
+          "file": "context-architecture/SKILL.md",
+          "size": 13027
         },
         {
           "name": "convex",
@@ -9427,7 +9432,7 @@
     },
     "skills": {
       "categories": 28,
-      "templates": 854
+      "templates": 855
     },
     "settings": {
       "categories": 13,
