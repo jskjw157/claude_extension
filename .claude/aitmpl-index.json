@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-06-28T00:48:10.218780",
+  "updated_at": "2026-07-05T00:40:22.824140",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -41,7 +41,7 @@
         {
           "name": "prompt-engineer",
           "file": "prompt-engineer.md",
-          "size": 8915
+          "size": 14974
         },
         {
           "name": "search-specialist",
@@ -212,7 +212,7 @@
         {
           "name": "seo-specialist",
           "file": "seo-specialist.md",
-          "size": 8104
+          "size": 9244
         },
         {
           "name": "trend-analyst",
@@ -274,7 +274,7 @@
         {
           "name": "data-engineer",
           "file": "data-engineer.md",
-          "size": 9154
+          "size": 10896
         },
         {
           "name": "data-scientist",
@@ -782,7 +782,7 @@
         {
           "name": "qa-expert",
           "file": "qa-expert.md",
-          "size": 9376
+          "size": 12800
         },
         {
           "name": "refactoring-specialist",
@@ -829,7 +829,7 @@
         {
           "name": "apify-integration-expert",
           "file": "apify-integration-expert.md",
-          "size": 7101
+          "size": 16522
         },
         {
           "name": "arm-migration",
@@ -1158,7 +1158,7 @@
         {
           "name": "documentation-expert",
           "file": "documentation-expert.md",
-          "size": 3197
+          "size": 6948
         },
         {
           "name": "dotnet-upgrade",
@@ -4705,9 +4705,24 @@
           "size": 367
         },
         {
+          "name": "datalikers",
+          "file": "datalikers.json",
+          "size": 599
+        },
+        {
           "name": "explorium",
           "file": "explorium.json",
           "size": 728
+        },
+        {
+          "name": "hikerapi",
+          "file": "hikerapi.json",
+          "size": 488
+        },
+        {
+          "name": "lamatok",
+          "file": "lamatok.json",
+          "size": 484
         }
       ]
     },
@@ -5622,6 +5637,11 @@
           "size": 11687
         },
         {
+          "name": "seoagent",
+          "file": "seoagent/SKILL.md",
+          "size": 5620
+        },
+        {
           "name": "signup-flow-cro",
           "file": "signup-flow-cro/SKILL.md",
           "size": 9759
@@ -5742,6 +5762,11 @@
           "name": "tech-resume-optimizer",
           "file": "tech-resume-optimizer/SKILL.md",
           "size": 10695
+        },
+        {
+          "name": "workorai",
+          "file": "workorai/SKILL.md",
+          "size": 9736
         }
       ],
       "creative-design": [
@@ -9428,11 +9453,11 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 88
+      "templates": 91
     },
     "skills": {
       "categories": 28,
-      "templates": 855
+      "templates": 857
     },
     "settings": {
       "categories": 13,
