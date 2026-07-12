@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-07-05T00:40:22.824140",
+  "updated_at": "2026-07-12T00:34:32.385317",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -56,11 +56,6 @@
       ],
       "api-graphql": [
         {
-          "name": "Thinking-Beast-Mode",
-          "file": "Thinking-Beast-Mode.md",
-          "size": 17986
-        },
-        {
           "name": "api-architect",
           "file": "api-architect.md",
           "size": 6855
@@ -83,17 +78,12 @@
         {
           "name": "graphql-security-specialist",
           "file": "graphql-security-specialist.md",
-          "size": 13056
-        },
-        {
-          "name": "octopus-deploy-release-notes-mcp",
-          "file": "octopus-deploy-release-notes-mcp.md",
-          "size": 1057
+          "size": 21289
         },
         {
           "name": "shopify-expert",
           "file": "shopify-expert.md",
-          "size": 22585
+          "size": 27772
         }
       ],
       "blockchain-web3": [
@@ -105,7 +95,7 @@
         {
           "name": "smart-contract-auditor",
           "file": "smart-contract-auditor.md",
-          "size": 2734
+          "size": 4932
         },
         {
           "name": "smart-contract-specialist",
@@ -620,7 +610,7 @@
         {
           "name": "mobile-app-developer",
           "file": "mobile-app-developer.md",
-          "size": 10257
+          "size": 11232
         },
         {
           "name": "mobile-developer",
@@ -815,6 +805,11 @@
           "size": 26228
         },
         {
+          "name": "thinking-beast-mode",
+          "file": "thinking-beast-mode.md",
+          "size": 5010
+        },
+        {
           "name": "tooling-engineer",
           "file": "tooling-engineer.md",
           "size": 9693
@@ -960,6 +955,11 @@
           "name": "network-engineer",
           "file": "network-engineer.md",
           "size": 8894
+        },
+        {
+          "name": "octopus-deploy-release-notes-mcp",
+          "file": "octopus-deploy-release-notes-mcp.md",
+          "size": 4694
         },
         {
           "name": "platform-engineer",
@@ -1505,7 +1505,7 @@
         {
           "name": "cloud-migration-specialist",
           "file": "cloud-migration-specialist.md",
-          "size": 1351
+          "size": 2762
         },
         {
           "name": "legacy-modernizer",
@@ -4521,6 +4521,11 @@
           "size": 351
         },
         {
+          "name": "nika",
+          "file": "nika.json",
+          "size": 446
+        },
+        {
           "name": "postman",
           "file": "postman.json",
           "size": 485
@@ -4630,6 +4635,11 @@
           "name": "google-ads-mcp-server",
           "file": "google-ads-mcp-server.json",
           "size": 329
+        },
+        {
+          "name": "posthell",
+          "file": "posthell.json",
+          "size": 556
         }
       ],
       "productivity": [
@@ -4731,7 +4741,7 @@
         {
           "name": "ANTHROPIC_ATTRIBUTION",
           "file": "ANTHROPIC_ATTRIBUTION.md",
-          "size": 3247
+          "size": 3245
         }
       ],
       "ai-maestro": [
@@ -5597,6 +5607,11 @@
           "size": 22239
         },
         {
+          "name": "product-decision-agent",
+          "file": "product-decision-agent/SKILL.md",
+          "size": 5617
+        },
+        {
           "name": "product-manager-toolkit",
           "file": "product-manager-toolkit/SKILL.md",
           "size": 8924
@@ -6289,7 +6304,7 @@
         {
           "name": "context-architecture",
           "file": "context-architecture/SKILL.md",
-          "size": 13027
+          "size": 19651
         },
         {
           "name": "convex",
@@ -6565,6 +6580,11 @@
           "name": "incident-responder",
           "file": "incident-responder/SKILL.md",
           "size": 10235
+        },
+        {
+          "name": "internet-court",
+          "file": "internet-court/SKILL.md",
+          "size": 2969
         },
         {
           "name": "it-operations",
@@ -9453,11 +9473,11 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 91
+      "templates": 93
     },
     "skills": {
       "categories": 28,
-      "templates": 857
+      "templates": 859
     },
     "settings": {
       "categories": 13,
