@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-07-19T00:33:43.710898",
+  "updated_at": "2026-07-26T00:36:43.285380",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -9,7 +9,7 @@
         {
           "name": "accessibility-tester",
           "file": "accessibility-tester.md",
-          "size": 11185
+          "size": 12957
         }
       ],
       "ai-specialists": [
@@ -122,17 +122,17 @@
         {
           "name": "competitive-analyst",
           "file": "competitive-analyst.md",
-          "size": 9679
+          "size": 9759
         },
         {
           "name": "content-marketer",
           "file": "content-marketer.md",
-          "size": 9468
+          "size": 11571
         },
         {
           "name": "customer-success-manager",
           "file": "customer-success-manager.md",
-          "size": 9722
+          "size": 10412
         },
         {
           "name": "customer-support",
@@ -152,7 +152,7 @@
         {
           "name": "marketing-attribution-analyst",
           "file": "marketing-attribution-analyst.md",
-          "size": 11872
+          "size": 25728
         },
         {
           "name": "payment-integration",
@@ -1414,7 +1414,7 @@
         {
           "name": "3d-artist",
           "file": "3d-artist.md",
-          "size": 2545
+          "size": 4271
         },
         {
           "name": "game-designer",
@@ -1850,7 +1850,7 @@
         {
           "name": "react-specialist",
           "file": "react-specialist.md",
-          "size": 9713
+          "size": 15455
         },
         {
           "name": "ruby-mcp-expert",
@@ -2377,6 +2377,33 @@
           "size": 4435
         }
       ],
+      "doordash": [
+        {
+          "name": "doordash-budget",
+          "file": "doordash-budget.md",
+          "size": 2775
+        },
+        {
+          "name": "doordash-lunch",
+          "file": "doordash-lunch.md",
+          "size": 2619
+        },
+        {
+          "name": "doordash-playbook",
+          "file": "doordash-playbook.md",
+          "size": 1951
+        },
+        {
+          "name": "doordash-profile",
+          "file": "doordash-profile.md",
+          "size": 2360
+        },
+        {
+          "name": "doordash-report",
+          "file": "doordash-report.md",
+          "size": 2890
+        }
+      ],
       "game-development": [
         {
           "name": "game-analytics-integration",
@@ -2740,14 +2767,19 @@
           "size": 2811
         },
         {
-          "name": "personas/persona-team-lead",
-          "file": "personas/persona-team-lead.md",
-          "size": 2014
+          "name": "personas/persona-sales-ops",
+          "file": "personas/persona-sales-ops.md",
+          "size": 2043
         },
         {
-          "name": "personas/persona-researcher",
-          "file": "personas/persona-researcher.md",
-          "size": 1876
+          "name": "personas/persona-exec-assistant",
+          "file": "personas/persona-exec-assistant.md",
+          "size": 2166
+        },
+        {
+          "name": "personas/persona-it-admin",
+          "file": "personas/persona-it-admin.md",
+          "size": 1930
         },
         {
           "name": "personas/persona-hr-coordinator",
@@ -2760,14 +2792,9 @@
           "size": 2077
         },
         {
-          "name": "personas/persona-project-manager",
-          "file": "personas/persona-project-manager.md",
-          "size": 2196
-        },
-        {
-          "name": "personas/persona-it-admin",
-          "file": "personas/persona-it-admin.md",
-          "size": 1930
+          "name": "personas/persona-customer-support",
+          "file": "personas/persona-customer-support.md",
+          "size": 1976
         },
         {
           "name": "personas/persona-content-creator",
@@ -2775,24 +2802,19 @@
           "size": 1974
         },
         {
-          "name": "personas/persona-customer-support",
-          "file": "personas/persona-customer-support.md",
-          "size": 1976
+          "name": "personas/persona-project-manager",
+          "file": "personas/persona-project-manager.md",
+          "size": 2196
         },
         {
-          "name": "personas/persona-sales-ops",
-          "file": "personas/persona-sales-ops.md",
-          "size": 2043
+          "name": "personas/persona-team-lead",
+          "file": "personas/persona-team-lead.md",
+          "size": 2014
         },
         {
-          "name": "personas/persona-exec-assistant",
-          "file": "personas/persona-exec-assistant.md",
-          "size": 2166
-        },
-        {
-          "name": "recipes/recipe-save-email-to-doc",
-          "file": "recipes/recipe-save-email-to-doc.md",
-          "size": 2069
+          "name": "personas/persona-researcher",
+          "file": "personas/persona-researcher.md",
+          "size": 1876
         },
         {
           "name": "recipes/recipe-compare-sheet-tabs",
@@ -2800,49 +2822,9 @@
           "size": 1802
         },
         {
-          "name": "recipes/recipe-create-feedback-form",
-          "file": "recipes/recipe-create-feedback-form.md",
-          "size": 1878
-        },
-        {
-          "name": "recipes/recipe-share-folder-with-team",
-          "file": "recipes/recipe-share-folder-with-team.md",
-          "size": 2185
-        },
-        {
-          "name": "recipes/recipe-post-mortem-setup",
-          "file": "recipes/recipe-post-mortem-setup.md",
-          "size": 2039
-        },
-        {
           "name": "recipes/recipe-forward-labeled-emails",
           "file": "recipes/recipe-forward-labeled-emails.md",
           "size": 1977
-        },
-        {
-          "name": "recipes/recipe-send-personalized-emails",
-          "file": "recipes/recipe-send-personalized-emails.md",
-          "size": 1875
-        },
-        {
-          "name": "recipes/recipe-create-vacation-responder",
-          "file": "recipes/recipe-create-vacation-responder.md",
-          "size": 2146
-        },
-        {
-          "name": "recipes/recipe-transfer-file-ownership",
-          "file": "recipes/recipe-transfer-file-ownership.md",
-          "size": 1955
-        },
-        {
-          "name": "recipes/recipe-bulk-download-folder",
-          "file": "recipes/recipe-bulk-download-folder.md",
-          "size": 1886
-        },
-        {
-          "name": "recipes/recipe-create-presentation",
-          "file": "recipes/recipe-create-presentation.md",
-          "size": 1871
         },
         {
           "name": "recipes/recipe-watch-drive-changes",
@@ -2850,89 +2832,14 @@
           "size": 1992
         },
         {
-          "name": "recipes/recipe-batch-reply-to-emails",
-          "file": "recipes/recipe-batch-reply-to-emails.md",
-          "size": 2157
-        },
-        {
-          "name": "recipes/recipe-reschedule-meeting",
-          "file": "recipes/recipe-reschedule-meeting.md",
-          "size": 2037
-        },
-        {
-          "name": "recipes/recipe-sync-contacts-to-sheet",
-          "file": "recipes/recipe-sync-contacts-to-sheet.md",
-          "size": 2052
-        },
-        {
-          "name": "recipes/recipe-deploy-apps-script",
-          "file": "recipes/recipe-deploy-apps-script.md",
-          "size": 2034
-        },
-        {
-          "name": "recipes/recipe-share-doc-and-notify",
-          "file": "recipes/recipe-share-doc-and-notify.md",
-          "size": 2149
-        },
-        {
-          "name": "recipes/recipe-search-and-export-emails",
-          "file": "recipes/recipe-search-and-export-emails.md",
-          "size": 1920
-        },
-        {
-          "name": "recipes/recipe-label-and-archive-emails",
-          "file": "recipes/recipe-label-and-archive-emails.md",
-          "size": 2034
-        },
-        {
-          "name": "recipes/recipe-create-events-from-sheet",
-          "file": "recipes/recipe-create-events-from-sheet.md",
-          "size": 1919
-        },
-        {
           "name": "recipes/recipe-copy-sheet-for-new-month",
           "file": "recipes/recipe-copy-sheet-for-new-month.md",
           "size": 2076
         },
         {
-          "name": "recipes/recipe-review-overdue-tasks",
-          "file": "recipes/recipe-review-overdue-tasks.md",
-          "size": 1763
-        },
-        {
-          "name": "recipes/recipe-plan-weekly-schedule",
-          "file": "recipes/recipe-plan-weekly-schedule.md",
-          "size": 1981
-        },
-        {
-          "name": "recipes/recipe-backup-sheet-as-csv",
-          "file": "recipes/recipe-backup-sheet-as-csv.md",
-          "size": 1897
-        },
-        {
-          "name": "recipes/recipe-create-shared-drive",
-          "file": "recipes/recipe-create-shared-drive.md",
-          "size": 1984
-        },
-        {
-          "name": "recipes/recipe-collect-form-responses",
-          "file": "recipes/recipe-collect-form-responses.md",
-          "size": 1761
-        },
-        {
-          "name": "recipes/recipe-create-meet-space",
-          "file": "recipes/recipe-create-meet-space.md",
-          "size": 1805
-        },
-        {
-          "name": "recipes/recipe-batch-rename-files",
-          "file": "recipes/recipe-batch-rename-files.md",
-          "size": 1938
-        },
-        {
-          "name": "recipes/recipe-audit-external-sharing",
-          "file": "recipes/recipe-audit-external-sharing.md",
-          "size": 1978
+          "name": "recipes/recipe-create-vacation-responder",
+          "file": "recipes/recipe-create-vacation-responder.md",
+          "size": 2146
         },
         {
           "name": "recipes/recipe-review-meet-participants",
@@ -2940,89 +2847,9 @@
           "size": 1963
         },
         {
-          "name": "recipes/recipe-find-free-time",
-          "file": "recipes/recipe-find-free-time.md",
-          "size": 1998
-        },
-        {
-          "name": "recipes/recipe-organize-drive-folder",
-          "file": "recipes/recipe-organize-drive-folder.md",
-          "size": 2146
-        },
-        {
-          "name": "recipes/recipe-cancel-and-notify",
-          "file": "recipes/recipe-cancel-and-notify.md",
-          "size": 2025
-        },
-        {
-          "name": "recipes/recipe-create-doc-from-template",
-          "file": "recipes/recipe-create-doc-from-template.md",
-          "size": 2081
-        },
-        {
-          "name": "recipes/recipe-draft-email-from-doc",
-          "file": "recipes/recipe-draft-email-from-doc.md",
-          "size": 1840
-        },
-        {
-          "name": "recipes/recipe-send-team-announcement",
-          "file": "recipes/recipe-send-team-announcement.md",
-          "size": 1844
-        },
-        {
-          "name": "recipes/recipe-save-email-attachments",
-          "file": "recipes/recipe-save-email-attachments.md",
-          "size": 2100
-        },
-        {
-          "name": "recipes/recipe-find-large-files",
-          "file": "recipes/recipe-find-large-files.md",
-          "size": 1939
-        },
-        {
-          "name": "recipes/recipe-create-expense-tracker",
-          "file": "recipes/recipe-create-expense-tracker.md",
-          "size": 2230
-        },
-        {
-          "name": "recipes/recipe-create-gmail-filter",
-          "file": "recipes/recipe-create-gmail-filter.md",
-          "size": 2109
-        },
-        {
-          "name": "recipes/recipe-share-event-materials",
-          "file": "recipes/recipe-share-event-materials.md",
-          "size": 1976
-        },
-        {
-          "name": "recipes/recipe-create-task-list",
-          "file": "recipes/recipe-create-task-list.md",
-          "size": 2009
-        },
-        {
-          "name": "recipes/recipe-email-drive-link",
-          "file": "recipes/recipe-email-drive-link.md",
-          "size": 2010
-        },
-        {
-          "name": "recipes/recipe-triage-security-alerts",
-          "file": "recipes/recipe-triage-security-alerts.md",
-          "size": 1825
-        },
-        {
-          "name": "recipes/recipe-create-classroom-course",
-          "file": "recipes/recipe-create-classroom-course.md",
-          "size": 1954
-        },
-        {
-          "name": "recipes/recipe-block-focus-time",
-          "file": "recipes/recipe-block-focus-time.md",
-          "size": 2053
-        },
-        {
-          "name": "recipes/recipe-log-deal-update",
-          "file": "recipes/recipe-log-deal-update.md",
-          "size": 1991
+          "name": "recipes/recipe-sync-contacts-to-sheet",
+          "file": "recipes/recipe-sync-contacts-to-sheet.md",
+          "size": 2052
         },
         {
           "name": "recipes/recipe-batch-invite-to-event",
@@ -3030,14 +2857,214 @@
           "size": 2067
         },
         {
+          "name": "recipes/recipe-create-expense-tracker",
+          "file": "recipes/recipe-create-expense-tracker.md",
+          "size": 2230
+        },
+        {
+          "name": "recipes/recipe-collect-form-responses",
+          "file": "recipes/recipe-collect-form-responses.md",
+          "size": 1761
+        },
+        {
+          "name": "recipes/recipe-bulk-download-folder",
+          "file": "recipes/recipe-bulk-download-folder.md",
+          "size": 1886
+        },
+        {
+          "name": "recipes/recipe-create-feedback-form",
+          "file": "recipes/recipe-create-feedback-form.md",
+          "size": 1878
+        },
+        {
+          "name": "recipes/recipe-block-focus-time",
+          "file": "recipes/recipe-block-focus-time.md",
+          "size": 2053
+        },
+        {
+          "name": "recipes/recipe-triage-security-alerts",
+          "file": "recipes/recipe-triage-security-alerts.md",
+          "size": 1825
+        },
+        {
+          "name": "recipes/recipe-label-and-archive-emails",
+          "file": "recipes/recipe-label-and-archive-emails.md",
+          "size": 2034
+        },
+        {
+          "name": "recipes/recipe-log-deal-update",
+          "file": "recipes/recipe-log-deal-update.md",
+          "size": 1991
+        },
+        {
+          "name": "recipes/recipe-review-overdue-tasks",
+          "file": "recipes/recipe-review-overdue-tasks.md",
+          "size": 1763
+        },
+        {
+          "name": "recipes/recipe-create-presentation",
+          "file": "recipes/recipe-create-presentation.md",
+          "size": 1871
+        },
+        {
+          "name": "recipes/recipe-create-shared-drive",
+          "file": "recipes/recipe-create-shared-drive.md",
+          "size": 1984
+        },
+        {
+          "name": "recipes/recipe-batch-reply-to-emails",
+          "file": "recipes/recipe-batch-reply-to-emails.md",
+          "size": 2157
+        },
+        {
+          "name": "recipes/recipe-find-large-files",
+          "file": "recipes/recipe-find-large-files.md",
+          "size": 1939
+        },
+        {
+          "name": "recipes/recipe-send-personalized-emails",
+          "file": "recipes/recipe-send-personalized-emails.md",
+          "size": 1875
+        },
+        {
+          "name": "recipes/recipe-email-drive-link",
+          "file": "recipes/recipe-email-drive-link.md",
+          "size": 2010
+        },
+        {
+          "name": "recipes/recipe-create-doc-from-template",
+          "file": "recipes/recipe-create-doc-from-template.md",
+          "size": 2081
+        },
+        {
+          "name": "recipes/recipe-share-event-materials",
+          "file": "recipes/recipe-share-event-materials.md",
+          "size": 1976
+        },
+        {
+          "name": "recipes/recipe-batch-rename-files",
+          "file": "recipes/recipe-batch-rename-files.md",
+          "size": 1938
+        },
+        {
+          "name": "recipes/recipe-save-email-to-doc",
+          "file": "recipes/recipe-save-email-to-doc.md",
+          "size": 2069
+        },
+        {
+          "name": "recipes/recipe-draft-email-from-doc",
+          "file": "recipes/recipe-draft-email-from-doc.md",
+          "size": 1840
+        },
+        {
+          "name": "recipes/recipe-save-email-attachments",
+          "file": "recipes/recipe-save-email-attachments.md",
+          "size": 2100
+        },
+        {
+          "name": "recipes/recipe-reschedule-meeting",
+          "file": "recipes/recipe-reschedule-meeting.md",
+          "size": 2037
+        },
+        {
+          "name": "recipes/recipe-create-gmail-filter",
+          "file": "recipes/recipe-create-gmail-filter.md",
+          "size": 2109
+        },
+        {
           "name": "recipes/recipe-generate-report-from-sheet",
           "file": "recipes/recipe-generate-report-from-sheet.md",
           "size": 2188
         },
         {
+          "name": "recipes/recipe-find-free-time",
+          "file": "recipes/recipe-find-free-time.md",
+          "size": 1998
+        },
+        {
+          "name": "recipes/recipe-plan-weekly-schedule",
+          "file": "recipes/recipe-plan-weekly-schedule.md",
+          "size": 1981
+        },
+        {
+          "name": "recipes/recipe-create-task-list",
+          "file": "recipes/recipe-create-task-list.md",
+          "size": 2009
+        },
+        {
+          "name": "recipes/recipe-backup-sheet-as-csv",
+          "file": "recipes/recipe-backup-sheet-as-csv.md",
+          "size": 1897
+        },
+        {
+          "name": "recipes/recipe-organize-drive-folder",
+          "file": "recipes/recipe-organize-drive-folder.md",
+          "size": 2146
+        },
+        {
+          "name": "recipes/recipe-deploy-apps-script",
+          "file": "recipes/recipe-deploy-apps-script.md",
+          "size": 2034
+        },
+        {
+          "name": "recipes/recipe-create-classroom-course",
+          "file": "recipes/recipe-create-classroom-course.md",
+          "size": 1954
+        },
+        {
+          "name": "recipes/recipe-transfer-file-ownership",
+          "file": "recipes/recipe-transfer-file-ownership.md",
+          "size": 1955
+        },
+        {
+          "name": "recipes/recipe-share-doc-and-notify",
+          "file": "recipes/recipe-share-doc-and-notify.md",
+          "size": 2149
+        },
+        {
           "name": "recipes/recipe-schedule-recurring-event",
           "file": "recipes/recipe-schedule-recurring-event.md",
           "size": 1997
+        },
+        {
+          "name": "recipes/recipe-create-meet-space",
+          "file": "recipes/recipe-create-meet-space.md",
+          "size": 1805
+        },
+        {
+          "name": "recipes/recipe-post-mortem-setup",
+          "file": "recipes/recipe-post-mortem-setup.md",
+          "size": 2039
+        },
+        {
+          "name": "recipes/recipe-cancel-and-notify",
+          "file": "recipes/recipe-cancel-and-notify.md",
+          "size": 2025
+        },
+        {
+          "name": "recipes/recipe-search-and-export-emails",
+          "file": "recipes/recipe-search-and-export-emails.md",
+          "size": 1920
+        },
+        {
+          "name": "recipes/recipe-send-team-announcement",
+          "file": "recipes/recipe-send-team-announcement.md",
+          "size": 1844
+        },
+        {
+          "name": "recipes/recipe-create-events-from-sheet",
+          "file": "recipes/recipe-create-events-from-sheet.md",
+          "size": 1919
+        },
+        {
+          "name": "recipes/recipe-audit-external-sharing",
+          "file": "recipes/recipe-audit-external-sharing.md",
+          "size": 1978
+        },
+        {
+          "name": "recipes/recipe-share-folder-with-team",
+          "file": "recipes/recipe-share-folder-with-team.md",
+          "size": 2185
         }
       ],
       "marketing": [
@@ -4074,6 +4101,28 @@
           "size": 922
         }
       ],
+      "doordash": [
+        {
+          "name": "doordash-allergy-checkout-gate",
+          "file": "doordash-allergy-checkout-gate.json",
+          "size": 986
+        },
+        {
+          "name": "doordash-audit-log",
+          "file": "doordash-audit-log.json",
+          "size": 952
+        },
+        {
+          "name": "doordash-group-checkout-gate",
+          "file": "doordash-group-checkout-gate.json",
+          "size": 940
+        },
+        {
+          "name": "doordash-spend-guard",
+          "file": "doordash-spend-guard.json",
+          "size": 767
+        }
+      ],
       "git": [
         {
           "name": "conventional-commits",
@@ -4419,11 +4468,6 @@
           "name": "firefly-mcp",
           "file": "firefly-mcp.json",
           "size": 428
-        },
-        {
-          "name": "flatten-mcp",
-          "file": "flatten-mcp.json",
-          "size": 446
         },
         {
           "name": "github-official",
@@ -7249,6 +7293,33 @@
           "size": 11472
         }
       ],
+      "doordash": [
+        {
+          "name": "doordash-allergy-shield",
+          "file": "doordash-allergy-shield/SKILL.md",
+          "size": 5393
+        },
+        {
+          "name": "doordash-group-orders",
+          "file": "doordash-group-orders/SKILL.md",
+          "size": 5405
+        },
+        {
+          "name": "doordash-order-ledger",
+          "file": "doordash-order-ledger/SKILL.md",
+          "size": 3687
+        },
+        {
+          "name": "doordash-order-playbooks",
+          "file": "doordash-order-playbooks/SKILL.md",
+          "size": 6314
+        },
+        {
+          "name": "doordash-spend-guard",
+          "file": "doordash-spend-guard/SKILL.md",
+          "size": 5187
+        }
+      ],
       "enterprise-communication": [
         {
           "name": "backend-to-frontend-handoff-docs",
@@ -7440,9 +7511,9 @@
           "size": 2389
         },
         {
-          "name": "references/common-error",
-          "file": "references/common-error.md",
-          "size": 3754
+          "name": "references/addon-structure",
+          "file": "references/addon-structure.md",
+          "size": 4628
         },
         {
           "name": "references/state-exp",
@@ -7450,9 +7521,9 @@
           "size": 6679
         },
         {
-          "name": "references/addon-structure",
-          "file": "references/addon-structure.md",
-          "size": 4628
+          "name": "references/common-error",
+          "file": "references/common-error.md",
+          "size": 3754
         }
       ],
       "marketing": [
@@ -9341,6 +9412,11 @@
           "size": 1216
         },
         {
+          "name": "cloudflare-pages-deployment-monitor",
+          "file": "cloudflare-pages-deployment-monitor.json",
+          "size": 2844
+        },
+        {
           "name": "code-casino-statusline",
           "file": "code-casino-statusline.json",
           "size": 1182
@@ -9511,24 +9587,24 @@
       "templates": 421
     },
     "commands": {
-      "categories": 24,
-      "templates": 341
+      "categories": 25,
+      "templates": 346
     },
     "hooks": {
-      "categories": 12,
-      "templates": 59
+      "categories": 13,
+      "templates": 63
     },
     "mcps": {
       "categories": 13,
-      "templates": 93
+      "templates": 92
     },
     "skills": {
-      "categories": 29,
-      "templates": 868
+      "categories": 30,
+      "templates": 873
     },
     "settings": {
       "categories": 13,
-      "templates": 68
+      "templates": 69
     }
   }
 }
