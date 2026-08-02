@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-07-26T00:36:43.285380",
+  "updated_at": "2026-08-02T00:35:23.916725",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -137,17 +137,17 @@
         {
           "name": "customer-support",
           "file": "customer-support.md",
-          "size": 975
+          "size": 4925
         },
         {
           "name": "legal-advisor",
           "file": "legal-advisor.md",
-          "size": 1907
+          "size": 6372
         },
         {
           "name": "market-researcher",
           "file": "market-researcher.md",
-          "size": 8919
+          "size": 10284
         },
         {
           "name": "marketing-attribution-analyst",
@@ -162,7 +162,7 @@
         {
           "name": "product-manager",
           "file": "product-manager.md",
-          "size": 8934
+          "size": 9459
         },
         {
           "name": "product-strategist",
@@ -175,14 +175,9 @@
           "size": 9708
         },
         {
-          "name": "risk-manager",
-          "file": "risk-manager.md",
-          "size": 1383
-        },
-        {
           "name": "sales-automator",
           "file": "sales-automator.md",
-          "size": 961
+          "size": 6965
         },
         {
           "name": "sales-engineer",
@@ -203,6 +198,11 @@
           "name": "seo-specialist",
           "file": "seo-specialist.md",
           "size": 9244
+        },
+        {
+          "name": "trading-risk-manager",
+          "file": "trading-risk-manager.md",
+          "size": 6351
         },
         {
           "name": "trend-analyst",
@@ -565,7 +565,7 @@
         {
           "name": "backend-developer",
           "file": "backend-developer.md",
-          "size": 9370
+          "size": 11860
         },
         {
           "name": "cli-ui-designer",
@@ -8637,6 +8637,11 @@
           "size": 14036
         },
         {
+          "name": "cra-vulnerability-obligations",
+          "file": "cra-vulnerability-obligations/SKILL.md",
+          "size": 18079
+        },
+        {
           "name": "ethical-hacking-methodology",
           "file": "ethical-hacking-methodology/SKILL.md",
           "size": 10882
@@ -8672,6 +8677,11 @@
           "size": 12603
         },
         {
+          "name": "incident-reporting-navigator",
+          "file": "incident-reporting-navigator/SKILL.md",
+          "size": 19056
+        },
+        {
           "name": "linux-privilege-escalation",
           "file": "linux-privilege-escalation/SKILL.md",
           "size": 11730
@@ -8705,6 +8715,11 @@
           "name": "red-team-tools",
           "file": "red-team-tools/SKILL.md",
           "size": 7797
+        },
+        {
+          "name": "regulatory-threat-model",
+          "file": "regulatory-threat-model/SKILL.md",
+          "size": 25921
         },
         {
           "name": "sast-configuration",
@@ -9600,7 +9615,7 @@
     },
     "skills": {
       "categories": 30,
-      "templates": 873
+      "templates": 876
     },
     "settings": {
       "categories": 13,
