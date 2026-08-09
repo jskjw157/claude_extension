@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-08-02T00:35:23.916725",
+  "updated_at": "2026-08-09T00:17:30.540320",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -16,7 +16,7 @@
         {
           "name": "ai-ethics-advisor",
           "file": "ai-ethics-advisor.md",
-          "size": 13722
+          "size": 17412
         },
         {
           "name": "hackathon-ai-strategist",
@@ -26,7 +26,7 @@
         {
           "name": "llm-architect",
           "file": "llm-architect.md",
-          "size": 15692
+          "size": 18096
         },
         {
           "name": "llms-maintainer",
@@ -58,7 +58,7 @@
         {
           "name": "api-architect",
           "file": "api-architect.md",
-          "size": 6855
+          "size": 10608
         },
         {
           "name": "api-designer",
@@ -224,7 +224,7 @@
         {
           "name": "ai-engineer",
           "file": "ai-engineer.md",
-          "size": 9133
+          "size": 16923
         },
         {
           "name": "amplitude-experiment-implementation",
@@ -269,7 +269,7 @@
         {
           "name": "data-scientist",
           "file": "data-scientist.md",
-          "size": 9176
+          "size": 11367
         },
         {
           "name": "demonstrate-understanding",
@@ -299,7 +299,7 @@
         {
           "name": "ml-engineer",
           "file": "ml-engineer.md",
-          "size": 9484
+          "size": 11589
         },
         {
           "name": "mlops-engineer",
@@ -1168,7 +1168,7 @@
         {
           "name": "droid",
           "file": "droid.md",
-          "size": 9046
+          "size": 10654
         },
         {
           "name": "drupal-expert",
@@ -4894,7 +4894,7 @@
         {
           "name": "computer-use-agents",
           "file": "computer-use-agents/SKILL.md",
-          "size": 9435
+          "size": 9428
         },
         {
           "name": "context-window-management",
@@ -5498,7 +5498,7 @@
         {
           "name": "ai-wrapper-product",
           "file": "ai-wrapper-product/SKILL.md",
-          "size": 6623
+          "size": 6625
         },
         {
           "name": "analytics-tracking",
@@ -5938,6 +5938,11 @@
           "name": "mobile-design",
           "file": "mobile-design/SKILL.md",
           "size": 15455
+        },
+        {
+          "name": "patentfig",
+          "file": "patentfig/SKILL.md",
+          "size": 4836
         },
         {
           "name": "premium-web-design",
@@ -6543,7 +6548,7 @@
         {
           "name": "github-workflow-automation",
           "file": "github-workflow-automation/SKILL.md",
-          "size": 21665
+          "size": 21658
         },
         {
           "name": "gke-basics",
@@ -7631,6 +7636,11 @@
           "size": 1227
         },
         {
+          "name": "avoid-ai-writing",
+          "file": "avoid-ai-writing/SKILL.md",
+          "size": 90072
+        },
+        {
           "name": "brainstorming",
           "file": "brainstorming/SKILL.md",
           "size": 2505
@@ -7684,6 +7694,11 @@
           "name": "devil",
           "file": "devil/SKILL.md",
           "size": 19033
+        },
+        {
+          "name": "doc-chaser-lite",
+          "file": "doc-chaser-lite/SKILL.md",
+          "size": 5679
         },
         {
           "name": "doc-coauthoring",
@@ -9158,7 +9173,7 @@
         {
           "name": "github-workflow-automation",
           "file": "github-workflow-automation/SKILL.md",
-          "size": 21665
+          "size": 21658
         },
         {
           "name": "gitops-workflow",
@@ -9322,7 +9337,7 @@
         {
           "name": "custom-model",
           "file": "custom-model.json",
-          "size": 313
+          "size": 304
         },
         {
           "name": "git-commit-settings",
@@ -9373,7 +9388,7 @@
         {
           "name": "use-sonnet",
           "file": "use-sonnet.json",
-          "size": 117
+          "size": 108
         }
       ],
       "partnerships": [
@@ -9615,7 +9630,7 @@
     },
     "skills": {
       "categories": 30,
-      "templates": 876
+      "templates": 879
     },
     "settings": {
       "categories": 13,
