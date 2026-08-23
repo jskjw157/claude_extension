@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-08-16T01:07:03.515345",
+  "updated_at": "2026-08-23T01:08:37.449471",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -9,7 +9,7 @@
         {
           "name": "accessibility-tester",
           "file": "accessibility-tester.md",
-          "size": 12957
+          "size": 15178
         }
       ],
       "ai-specialists": [
@@ -36,12 +36,12 @@
         {
           "name": "model-evaluator",
           "file": "model-evaluator.md",
-          "size": 12881
+          "size": 15053
         },
         {
           "name": "prompt-engineer",
           "file": "prompt-engineer.md",
-          "size": 14974
+          "size": 19965
         },
         {
           "name": "search-specialist",
@@ -51,7 +51,7 @@
         {
           "name": "task-decomposition-expert",
           "file": "task-decomposition-expert.md",
-          "size": 9884
+          "size": 11166
         }
       ],
       "api-graphql": [
@@ -219,7 +219,7 @@
         {
           "name": "adr-generator",
           "file": "adr-generator.md",
-          "size": 6705
+          "size": 11550
         },
         {
           "name": "ai-engineer",
@@ -254,12 +254,12 @@
         {
           "name": "computer-vision-engineer",
           "file": "computer-vision-engineer.md",
-          "size": 19549
+          "size": 32477
         },
         {
           "name": "data-analyst",
           "file": "data-analyst.md",
-          "size": 9563
+          "size": 11375
         },
         {
           "name": "data-engineer",
@@ -2015,6 +2015,11 @@
           "name": "read-only-auditor",
           "file": "read-only-auditor.md",
           "size": 3652
+        },
+        {
+          "name": "repo-publication-auditor",
+          "file": "repo-publication-auditor.md",
+          "size": 12066
         },
         {
           "name": "se-security-reviewer",
@@ -4405,6 +4410,16 @@
       ],
       "devtools": [
         {
+          "name": "5dive-mcp",
+          "file": "5dive-mcp.json",
+          "size": 251
+        },
+        {
+          "name": "agentplat-docs",
+          "file": "agentplat-docs.json",
+          "size": 297
+        },
+        {
           "name": "android-mcp",
           "file": "android-mcp.json",
           "size": 271
@@ -4565,6 +4580,11 @@
           "size": 351
         },
         {
+          "name": "nable",
+          "file": "nable.json",
+          "size": 559
+        },
+        {
           "name": "nika",
           "file": "nika.json",
           "size": 446
@@ -4652,6 +4672,11 @@
           "name": "github-integration",
           "file": "github-integration.json",
           "size": 363
+        },
+        {
+          "name": "livetennisapi",
+          "file": "livetennisapi.json",
+          "size": 533
         },
         {
           "name": "memex-mcp",
@@ -4787,6 +4812,16 @@
           "name": "lamatok",
           "file": "lamatok.json",
           "size": 484
+        },
+        {
+          "name": "scavio",
+          "file": "scavio.json",
+          "size": 446
+        },
+        {
+          "name": "sicex",
+          "file": "sicex.json",
+          "size": 763
         }
       ]
     },
@@ -4939,7 +4974,7 @@
         {
           "name": "data-processing-ray-data",
           "file": "data-processing-ray-data/SKILL.md",
-          "size": 7326
+          "size": 7328
         },
         {
           "name": "data-scientist",
@@ -4994,7 +5029,7 @@
         {
           "name": "distributed-training-ray-train",
           "file": "distributed-training-ray-train/SKILL.md",
-          "size": 10694
+          "size": 10696
         },
         {
           "name": "emerging-techniques-knowledge-distillation",
@@ -6098,7 +6133,7 @@
         {
           "name": "agirails-agent-payments",
           "file": "agirails-agent-payments/SKILL.md",
-          "size": 34993
+          "size": 34992
         },
         {
           "name": "algolia-search",
@@ -7317,7 +7352,7 @@
         {
           "name": "doordash-group-orders",
           "file": "doordash-group-orders/SKILL.md",
-          "size": 5405
+          "size": 5411
         },
         {
           "name": "doordash-order-ledger",
@@ -7562,7 +7597,7 @@
         {
           "name": "speech",
           "file": "speech/SKILL.md",
-          "size": 7256
+          "size": 8016
         },
         {
           "name": "transcribe",
@@ -7573,6 +7608,13 @@
           "name": "video-downloader",
           "file": "video-downloader/SKILL.md",
           "size": 2687
+        }
+      ],
+      "open-banking-io": [
+        {
+          "name": "open-banking-io",
+          "file": "open-banking-io/SKILL.md",
+          "size": 1898
         }
       ],
       "operations": [
@@ -8472,7 +8514,7 @@
         {
           "name": "scholar-evaluation",
           "file": "scholar-evaluation/SKILL.md",
-          "size": 11892
+          "size": 12286
         },
         {
           "name": "scientific-brainstorming",
@@ -8967,7 +9009,7 @@
         {
           "name": "motion-canvas",
           "file": "motion-canvas/SKILL.md",
-          "size": 11463
+          "size": 11471
         },
         {
           "name": "remotion",
@@ -9345,6 +9387,11 @@
           "size": 522
         },
         {
+          "name": "concise-mode",
+          "file": "concise-mode.json",
+          "size": 399
+        },
+        {
           "name": "custom-model",
           "file": "custom-model.json",
           "size": 304
@@ -9629,7 +9676,7 @@
   "summary": {
     "agents": {
       "categories": 28,
-      "templates": 421
+      "templates": 422
     },
     "commands": {
       "categories": 25,
@@ -9641,15 +9688,15 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 94
+      "templates": 100
     },
     "skills": {
-      "categories": 30,
-      "templates": 879
+      "categories": 31,
+      "templates": 880
     },
     "settings": {
       "categories": 13,
-      "templates": 70
+      "templates": 71
     }
   }
 }
