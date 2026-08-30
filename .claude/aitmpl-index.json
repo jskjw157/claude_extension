@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-08-23T01:08:37.449471",
+  "updated_at": "2026-08-30T03:33:21.927670",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -63,12 +63,12 @@
         {
           "name": "api-designer",
           "file": "api-designer.md",
-          "size": 12726
+          "size": 19636
         },
         {
           "name": "graphql-architect",
           "file": "graphql-architect.md",
-          "size": 10102
+          "size": 15651
         },
         {
           "name": "graphql-performance-optimizer",
@@ -78,7 +78,7 @@
         {
           "name": "graphql-security-specialist",
           "file": "graphql-security-specialist.md",
-          "size": 21289
+          "size": 27772
         },
         {
           "name": "shopify-expert",
@@ -112,7 +112,7 @@
         {
           "name": "business-analyst",
           "file": "business-analyst.md",
-          "size": 7719
+          "size": 11675
         },
         {
           "name": "communication-excellence-coach",
@@ -172,7 +172,7 @@
         {
           "name": "project-manager",
           "file": "project-manager.md",
-          "size": 9708
+          "size": 11540
         },
         {
           "name": "sales-automator",
@@ -478,7 +478,7 @@
         {
           "name": "academic-researcher",
           "file": "academic-researcher.md",
-          "size": 1443
+          "size": 5826
         },
         {
           "name": "agent-overview",
@@ -1618,7 +1618,7 @@
         {
           "name": "academic-research-synthesizer",
           "file": "academic-research-synthesizer.md",
-          "size": 3305
+          "size": 5588
         },
         {
           "name": "comprehensive-researcher",
@@ -4637,7 +4637,7 @@
         {
           "name": "trace-mcp",
           "file": "trace-mcp.json",
-          "size": 314
+          "size": 387
         },
         {
           "name": "webflow",
@@ -4797,6 +4797,11 @@
           "name": "datalikers",
           "file": "datalikers.json",
           "size": 599
+        },
+        {
+          "name": "dimhour",
+          "file": "dimhour.json",
+          "size": 250
         },
         {
           "name": "explorium",
@@ -9263,6 +9268,11 @@
           "size": 3876
         },
         {
+          "name": "rote",
+          "file": "rote/SKILL.md",
+          "size": 7751
+        },
+        {
           "name": "slack-automation",
           "file": "slack-automation/SKILL.md",
           "size": 9611
@@ -9688,11 +9698,11 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 100
+      "templates": 101
     },
     "skills": {
       "categories": 31,
-      "templates": 880
+      "templates": 881
     },
     "settings": {
       "categories": 13,
