@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-06T02:52:10.527979",
+  "updated_at": "2026-09-13T03:04:42.451659",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -21,7 +21,7 @@
         {
           "name": "hackathon-ai-strategist",
           "file": "hackathon-ai-strategist.md",
-          "size": 15964
+          "size": 17068
         },
         {
           "name": "llm-architect",
@@ -100,7 +100,7 @@
         {
           "name": "smart-contract-specialist",
           "file": "smart-contract-specialist.md",
-          "size": 7904
+          "size": 9347
         },
         {
           "name": "web3-integration-specialist",
@@ -112,7 +112,7 @@
         {
           "name": "business-analyst",
           "file": "business-analyst.md",
-          "size": 11675
+          "size": 13072
         },
         {
           "name": "communication-excellence-coach",
@@ -264,7 +264,7 @@
         {
           "name": "data-engineer",
           "file": "data-engineer.md",
-          "size": 10896
+          "size": 14982
         },
         {
           "name": "data-scientist",
@@ -304,7 +304,7 @@
         {
           "name": "mlops-engineer",
           "file": "mlops-engineer.md",
-          "size": 9820
+          "size": 12799
         },
         {
           "name": "monday-bug-fixer",
@@ -1500,12 +1500,12 @@
         {
           "name": "architecture-modernizer",
           "file": "architecture-modernizer.md",
-          "size": 1361
+          "size": 3317
         },
         {
           "name": "cloud-migration-specialist",
           "file": "cloud-migration-specialist.md",
-          "size": 2762
+          "size": 4174
         },
         {
           "name": "legacy-modernizer",
@@ -6526,6 +6526,11 @@
           "size": 8109
         },
         {
+          "name": "eval-genius",
+          "file": "eval-genius/SKILL.md",
+          "size": 8728
+        },
+        {
           "name": "event-sourcing-architect",
           "file": "event-sourcing-architect/SKILL.md",
           "size": 2636
@@ -9717,7 +9722,7 @@
     },
     "skills": {
       "categories": 31,
-      "templates": 881
+      "templates": 882
     },
     "settings": {
       "categories": 13,
