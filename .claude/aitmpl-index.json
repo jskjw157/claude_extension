@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-09-13T03:04:42.451659",
+  "updated_at": "2026-09-20T03:20:24.659761",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -95,7 +95,7 @@
         {
           "name": "smart-contract-auditor",
           "file": "smart-contract-auditor.md",
-          "size": 4932
+          "size": 7824
         },
         {
           "name": "smart-contract-specialist",
@@ -105,7 +105,7 @@
         {
           "name": "web3-integration-specialist",
           "file": "web3-integration-specialist.md",
-          "size": 7072
+          "size": 8645
         }
       ],
       "business-marketing": [
@@ -122,17 +122,17 @@
         {
           "name": "competitive-analyst",
           "file": "competitive-analyst.md",
-          "size": 9759
+          "size": 11986
         },
         {
           "name": "content-marketer",
           "file": "content-marketer.md",
-          "size": 11571
+          "size": 12795
         },
         {
           "name": "customer-success-manager",
           "file": "customer-success-manager.md",
-          "size": 10412
+          "size": 15414
         },
         {
           "name": "customer-support",
@@ -192,7 +192,7 @@
         {
           "name": "scrum-master",
           "file": "scrum-master.md",
-          "size": 9686
+          "size": 13742
         },
         {
           "name": "seo-specialist",
@@ -3786,6 +3786,11 @@
           "size": 2304
         },
         {
+          "name": "flaky-test-triage",
+          "file": "flaky-test-triage.md",
+          "size": 6949
+        },
+        {
           "name": "generate-test-cases",
           "file": "generate-test-cases.md",
           "size": 2347
@@ -3794,6 +3799,11 @@
           "name": "generate-tests",
           "file": "generate-tests.md",
           "size": 2664
+        },
+        {
+          "name": "regression-triage",
+          "file": "regression-triage.md",
+          "size": 3087
         },
         {
           "name": "setup-comprehensive-testing",
@@ -4706,6 +4716,11 @@
       ],
       "marketing": [
         {
+          "name": "curviate",
+          "file": "curviate.json",
+          "size": 454
+        },
+        {
           "name": "facebook-ads-mcp-server",
           "file": "facebook-ads-mcp-server.json",
           "size": 388
@@ -4845,7 +4860,7 @@
         {
           "name": "ANTHROPIC_ATTRIBUTION",
           "file": "ANTHROPIC_ATTRIBUTION.md",
-          "size": 3245
+          "size": 3611
         }
       ],
       "ai-maestro": [
@@ -5957,7 +5972,7 @@
         {
           "name": "frontend-design",
           "file": "frontend-design/SKILL.md",
-          "size": 4440
+          "size": 9390
         },
         {
           "name": "game-development",
@@ -6055,6 +6070,53 @@
           "size": 1183
         }
       ],
+      "curviate": [
+        {
+          "name": "curviate",
+          "file": "curviate/SKILL.md",
+          "size": 5686
+        },
+        {
+          "name": "curviate-engage",
+          "file": "curviate-engage/SKILL.md",
+          "size": 15226
+        },
+        {
+          "name": "curviate-inbox",
+          "file": "curviate-inbox/SKILL.md",
+          "size": 18117
+        },
+        {
+          "name": "curviate-jobs",
+          "file": "curviate-jobs/SKILL.md",
+          "size": 10934
+        },
+        {
+          "name": "curviate-network",
+          "file": "curviate-network/SKILL.md",
+          "size": 10542
+        },
+        {
+          "name": "curviate-premium",
+          "file": "curviate-premium/SKILL.md",
+          "size": 18622
+        },
+        {
+          "name": "curviate-profile",
+          "file": "curviate-profile/SKILL.md",
+          "size": 30491
+        },
+        {
+          "name": "curviate-quickstart",
+          "file": "curviate-quickstart/SKILL.md",
+          "size": 11432
+        },
+        {
+          "name": "curviate-search",
+          "file": "curviate-search/SKILL.md",
+          "size": 13436
+        }
+      ],
       "database": [
         {
           "name": "alloydb-basics",
@@ -6090,6 +6152,11 @@
           "name": "neon-instagres",
           "file": "neon-instagres/SKILL.md",
           "size": 6419
+        },
+        {
+          "name": "postgres-schema-design",
+          "file": "postgres-schema-design/SKILL.md",
+          "size": 16083
         },
         {
           "name": "postgresql",
@@ -6413,7 +6480,7 @@
         {
           "name": "context-architecture",
           "file": "context-architecture/SKILL.md",
-          "size": 19651
+          "size": 20097
         },
         {
           "name": "convex",
@@ -7703,6 +7770,11 @@
       ],
       "productivity": [
         {
+          "name": "academy-guide",
+          "file": "academy-guide/SKILL.md",
+          "size": 7755
+        },
+        {
           "name": "address-github-comments",
           "file": "address-github-comments/SKILL.md",
           "size": 1227
@@ -7766,6 +7838,11 @@
           "name": "devil",
           "file": "devil/SKILL.md",
           "size": 19033
+        },
+        {
+          "name": "discernment-nudge",
+          "file": "discernment-nudge/SKILL.md",
+          "size": 10693
         },
         {
           "name": "doc-chaser-lite",
@@ -9710,7 +9787,7 @@
     },
     "commands": {
       "categories": 25,
-      "templates": 346
+      "templates": 348
     },
     "hooks": {
       "categories": 13,
@@ -9718,11 +9795,11 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 103
+      "templates": 104
     },
     "skills": {
-      "categories": 31,
-      "templates": 882
+      "categories": 32,
+      "templates": 894
     },
     "settings": {
       "categories": 13,
