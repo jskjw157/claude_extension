@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-04T04:14:44.520907",
+  "updated_at": "2026-10-11T03:55:03.083504",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -58,7 +58,7 @@
         {
           "name": "api-architect",
           "file": "api-architect.md",
-          "size": 10608
+          "size": 12933
         },
         {
           "name": "api-designer",
@@ -142,7 +142,7 @@
         {
           "name": "legal-advisor",
           "file": "legal-advisor.md",
-          "size": 6372
+          "size": 6379
         },
         {
           "name": "market-researcher",
@@ -155,9 +155,9 @@
           "size": 25728
         },
         {
-          "name": "payment-integration",
-          "file": "payment-integration.md",
-          "size": 1247
+          "name": "payment-gateway-integrator",
+          "file": "payment-gateway-integrator.md",
+          "size": 10191
         },
         {
           "name": "product-manager",
@@ -167,7 +167,7 @@
         {
           "name": "product-strategist",
           "file": "product-strategist.md",
-          "size": 7949
+          "size": 14647
         },
         {
           "name": "project-manager",
@@ -575,7 +575,7 @@
         {
           "name": "code-architect",
           "file": "code-architect.md",
-          "size": 2245
+          "size": 6411
         },
         {
           "name": "code-explorer",
@@ -630,7 +630,7 @@
         {
           "name": "test-runner",
           "file": "test-runner.md",
-          "size": 2453
+          "size": 6811
         },
         {
           "name": "ui-designer",
@@ -652,7 +652,7 @@
         {
           "name": "architect-reviewer",
           "file": "architect-reviewer.md",
-          "size": 10140
+          "size": 11618
         },
         {
           "name": "ascii-ui-mockup-generator",
@@ -722,7 +722,7 @@
         {
           "name": "error-detective",
           "file": "error-detective.md",
-          "size": 9846
+          "size": 9773
         },
         {
           "name": "flutter-go-reviewer",
@@ -4297,6 +4297,11 @@
           "name": "shell-wrapper-guard",
           "file": "shell-wrapper-guard.json",
           "size": 789
+        },
+        {
+          "name": "subagent-read-only-guard",
+          "file": "subagent-read-only-guard.json",
+          "size": 1647
         }
       ],
       "testing": [
@@ -4729,6 +4734,11 @@
           "name": "google-ads-mcp-server",
           "file": "google-ads-mcp-server.json",
           "size": 329
+        },
+        {
+          "name": "heyreagent",
+          "file": "heyreagent.json",
+          "size": 408
         },
         {
           "name": "posthell",
@@ -9539,6 +9549,11 @@
           "name": "subagent-lifecycle-logger",
           "file": "subagent-lifecycle-logger.json",
           "size": 1151
+        },
+        {
+          "name": "subagents-explore-only",
+          "file": "subagents-explore-only.json",
+          "size": 1508
         }
       ],
       "mcp": [
@@ -9564,6 +9579,11 @@
         }
       ],
       "model": [
+        {
+          "name": "sonnet-opus-advisor-haiku-subagents",
+          "file": "sonnet-opus-advisor-haiku-subagents.json",
+          "size": 633
+        },
         {
           "name": "use-haiku",
           "file": "use-haiku.json",
@@ -9816,11 +9836,11 @@
     },
     "hooks": {
       "categories": 13,
-      "templates": 63
+      "templates": 64
     },
     "mcps": {
       "categories": 13,
-      "templates": 105
+      "templates": 106
     },
     "skills": {
       "categories": 32,
@@ -9828,7 +9848,7 @@
     },
     "settings": {
       "categories": 13,
-      "templates": 72
+      "templates": 74
     }
   }
 }
