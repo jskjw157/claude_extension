@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-11T03:55:03.083504",
+  "updated_at": "2026-10-18T02:58:20.018161",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -4854,6 +4854,11 @@
           "size": 484
         },
         {
+          "name": "looot",
+          "file": "looot.json",
+          "size": 340
+        },
+        {
           "name": "pricewin",
           "file": "pricewin.json",
           "size": 412
@@ -5584,6 +5589,11 @@
           "name": "agile-product-owner",
           "file": "agile-product-owner/SKILL.md",
           "size": 1024
+        },
+        {
+          "name": "ai-directory-submitter",
+          "file": "ai-directory-submitter/SKILL.md",
+          "size": 2700
         },
         {
           "name": "ai-product",
@@ -9495,6 +9505,16 @@
           "size": 345
         },
         {
+          "name": "idle-compaction-early",
+          "file": "idle-compaction-early.json",
+          "size": 625
+        },
+        {
+          "name": "idle-compaction-off",
+          "file": "idle-compaction-off.json",
+          "size": 513
+        },
+        {
           "name": "performance-optimization",
           "file": "performance-optimization.json",
           "size": 385
@@ -9840,15 +9860,15 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 106
+      "templates": 107
     },
     "skills": {
       "categories": 32,
-      "templates": 898
+      "templates": 899
     },
     "settings": {
       "categories": 13,
-      "templates": 74
+      "templates": 76
     }
   }
 }
