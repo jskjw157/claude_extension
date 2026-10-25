@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T02:58:20.018161",
+  "updated_at": "2026-10-25T03:08:22.577290",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -95,17 +95,17 @@
         {
           "name": "smart-contract-auditor",
           "file": "smart-contract-auditor.md",
-          "size": 7824
+          "size": 7826
         },
         {
           "name": "smart-contract-specialist",
           "file": "smart-contract-specialist.md",
-          "size": 9347
+          "size": 9349
         },
         {
           "name": "web3-integration-specialist",
           "file": "web3-integration-specialist.md",
-          "size": 8645
+          "size": 8647
         }
       ],
       "business-marketing": [
@@ -309,7 +309,7 @@
         {
           "name": "monday-bug-fixer",
           "file": "monday-bug-fixer.md",
-          "size": 13438
+          "size": 13431
         },
         {
           "name": "ms-sql-dba",
@@ -364,7 +364,7 @@
         {
           "name": "prompt-engineer",
           "file": "prompt-engineer.md",
-          "size": 8277
+          "size": 8282
         },
         {
           "name": "quant-analyst",
@@ -493,7 +493,7 @@
         {
           "name": "data-analyst",
           "file": "data-analyst.md",
-          "size": 6538
+          "size": 6578
         },
         {
           "name": "data-researcher",
@@ -518,12 +518,12 @@
         {
           "name": "query-clarifier",
           "file": "query-clarifier.md",
-          "size": 4995
+          "size": 5005
         },
         {
           "name": "report-generator",
           "file": "report-generator.md",
-          "size": 5338
+          "size": 5340
         },
         {
           "name": "research-analyst",
@@ -533,27 +533,27 @@
         {
           "name": "research-brief-generator",
           "file": "research-brief-generator.md",
-          "size": 6027
+          "size": 6043
         },
         {
           "name": "research-coordinator",
           "file": "research-coordinator.md",
-          "size": 6003
+          "size": 6013
         },
         {
           "name": "research-orchestrator",
           "file": "research-orchestrator.md",
-          "size": 5441
+          "size": 5451
         },
         {
           "name": "research-synthesizer",
           "file": "research-synthesizer.md",
-          "size": 7193
+          "size": 7203
         },
         {
           "name": "technical-researcher",
           "file": "technical-researcher.md",
-          "size": 4270
+          "size": 4280
         }
       ],
       "development-team": [
@@ -620,7 +620,7 @@
         {
           "name": "sdd-spec-writer",
           "file": "sdd-spec-writer.md",
-          "size": 3098
+          "size": 3397
         },
         {
           "name": "test-generator",
@@ -630,7 +630,7 @@
         {
           "name": "test-runner",
           "file": "test-runner.md",
-          "size": 6811
+          "size": 6808
         },
         {
           "name": "ui-designer",
@@ -742,7 +742,7 @@
         {
           "name": "launchdarkly-flag-cleanup",
           "file": "launchdarkly-flag-cleanup.md",
-          "size": 8366
+          "size": 8358
         },
         {
           "name": "mcp-expert",
@@ -767,7 +767,7 @@
         {
           "name": "playwright-tester",
           "file": "playwright-tester.md",
-          "size": 1286
+          "size": 1277
         },
         {
           "name": "qa-expert",
@@ -834,12 +834,12 @@
         {
           "name": "azure-iac-exporter",
           "file": "azure-iac-exporter.md",
-          "size": 23369
+          "size": 23358
         },
         {
           "name": "azure-iac-generator",
           "file": "azure-iac-generator.md",
-          "size": 10585
+          "size": 10574
         },
         {
           "name": "azure-infra-engineer",
@@ -1118,7 +1118,7 @@
         {
           "name": "architect-review",
           "file": "architect-review.md",
-          "size": 3402
+          "size": 3392
         },
         {
           "name": "atlassian-requirements-to-jira",
@@ -1153,12 +1153,12 @@
         {
           "name": "dependency-manager",
           "file": "dependency-manager.md",
-          "size": 3124
+          "size": 3126
         },
         {
           "name": "documentation-expert",
           "file": "documentation-expert.md",
-          "size": 8238
+          "size": 8240
         },
         {
           "name": "dotnet-upgrade",
@@ -1168,7 +1168,7 @@
         {
           "name": "droid",
           "file": "droid.md",
-          "size": 10654
+          "size": 10656
         },
         {
           "name": "drupal-expert",
@@ -1193,7 +1193,7 @@
         {
           "name": "gpt-5-beast-mode",
           "file": "gpt-5-beast-mode.md",
-          "size": 6787
+          "size": 6789
         },
         {
           "name": "implementation-plan",
@@ -1328,7 +1328,7 @@
         {
           "name": "voidbeast-gpt41enhanced",
           "file": "voidbeast-gpt41enhanced.md",
-          "size": 9741
+          "size": 9743
         },
         {
           "name": "wg-code-alchemist",
@@ -1387,7 +1387,7 @@
         {
           "name": "bettoredge-value-finder",
           "file": "bettoredge-value-finder.md",
-          "size": 8438
+          "size": 8434
         },
         {
           "name": "fintech-engineer",
@@ -1441,7 +1441,7 @@
         {
           "name": "commit-guardian",
           "file": "commit-guardian.md",
-          "size": 4511
+          "size": 4771
         },
         {
           "name": "git-flow-manager",
@@ -1905,7 +1905,7 @@
         {
           "name": "technical-content-evaluator",
           "file": "technical-content-evaluator.md",
-          "size": 26351
+          "size": 26330
         },
         {
           "name": "typescript-mcp-expert",
@@ -2044,7 +2044,7 @@
         {
           "name": "supply-chain-security",
           "file": "supply-chain-security.md",
-          "size": 5551
+          "size": 5837
         },
         {
           "name": "tdd-refactor",
@@ -2066,7 +2066,7 @@
         {
           "name": "screenshot-business-analyzer",
           "file": "screenshot-business-analyzer.md",
-          "size": 2110
+          "size": 2107
         },
         {
           "name": "screenshot-interaction-analyzer",
@@ -2177,7 +2177,7 @@
         {
           "name": "supply-chain-audit",
           "file": "supply-chain-audit.md",
-          "size": 2555
+          "size": 2749
         }
       ],
       "automation": [
@@ -2189,12 +2189,12 @@
         {
           "name": "ci-pipeline",
           "file": "ci-pipeline.md",
-          "size": 8796
+          "size": 8798
         },
         {
           "name": "husky",
           "file": "husky.md",
-          "size": 3753
+          "size": 3755
         },
         {
           "name": "szamlazz",
@@ -2204,7 +2204,7 @@
         {
           "name": "workflow-orchestrator",
           "file": "workflow-orchestrator.md",
-          "size": 13542
+          "size": 13544
         }
       ],
       "azure": [
@@ -2228,99 +2228,99 @@
         {
           "name": "supabase-backup-manager",
           "file": "supabase-backup-manager.md",
-          "size": 2325
+          "size": 2327
         },
         {
           "name": "supabase-data-explorer",
           "file": "supabase-data-explorer.md",
-          "size": 2198
+          "size": 2200
         },
         {
           "name": "supabase-migration-assistant",
           "file": "supabase-migration-assistant.md",
-          "size": 2216
+          "size": 2218
         },
         {
           "name": "supabase-performance-optimizer",
           "file": "supabase-performance-optimizer.md",
-          "size": 2351
+          "size": 2353
         },
         {
           "name": "supabase-realtime-monitor",
           "file": "supabase-realtime-monitor.md",
-          "size": 2457
+          "size": 2459
         },
         {
           "name": "supabase-schema-sync",
           "file": "supabase-schema-sync.md",
-          "size": 2200
+          "size": 2202
         },
         {
           "name": "supabase-security-audit",
           "file": "supabase-security-audit.md",
-          "size": 2354
+          "size": 2356
         },
         {
           "name": "supabase-type-generator",
           "file": "supabase-type-generator.md",
-          "size": 2349
+          "size": 2351
         }
       ],
       "deployment": [
         {
           "name": "add-changelog",
           "file": "add-changelog.md",
-          "size": 2242
+          "size": 2244
         },
         {
           "name": "blue-green-deployment",
           "file": "blue-green-deployment.md",
-          "size": 22252
+          "size": 22254
         },
         {
           "name": "changelog-demo-command",
           "file": "changelog-demo-command.md",
-          "size": 1407
+          "size": 1409
         },
         {
           "name": "ci-setup",
           "file": "ci-setup.md",
-          "size": 9227
+          "size": 9229
         },
         {
           "name": "containerize-application",
           "file": "containerize-application.md",
-          "size": 4024
+          "size": 4026
         },
         {
           "name": "deployment-monitoring",
           "file": "deployment-monitoring.md",
-          "size": 35166
+          "size": 35168
         },
         {
           "name": "hotfix-deploy",
           "file": "hotfix-deploy.md",
-          "size": 9218
+          "size": 9220
         },
         {
           "name": "prepare-release",
           "file": "prepare-release.md",
-          "size": 9740
+          "size": 9742
         },
         {
           "name": "rollback-deploy",
           "file": "rollback-deploy.md",
-          "size": 11482
+          "size": 11484
         },
         {
           "name": "setup-automated-releases",
           "file": "setup-automated-releases.md",
-          "size": 4748
+          "size": 4750
         },
         {
           "name": "setup-kubernetes-deployment",
           "file": "setup-kubernetes-deployment.md",
-          "size": 4096
+          "size": 4098
         }
       ],
       "design": [
@@ -2339,47 +2339,47 @@
         {
           "name": "create-onboarding-guide",
           "file": "create-onboarding-guide.md",
-          "size": 4140
+          "size": 4142
         },
         {
           "name": "doc-api",
           "file": "doc-api.md",
-          "size": 7640
+          "size": 7642
         },
         {
           "name": "docs-maintenance",
           "file": "docs-maintenance.md",
-          "size": 4921
+          "size": 4923
         },
         {
           "name": "generate-api-documentation",
           "file": "generate-api-documentation.md",
-          "size": 4391
+          "size": 4393
         },
         {
           "name": "interactive-documentation",
           "file": "interactive-documentation.md",
-          "size": 5436
+          "size": 5438
         },
         {
           "name": "load-llms-txt",
           "file": "load-llms-txt.md",
-          "size": 1308
+          "size": 1310
         },
         {
           "name": "migration-guide",
           "file": "migration-guide.md",
-          "size": 8136
+          "size": 8138
         },
         {
           "name": "troubleshooting-guide",
           "file": "troubleshooting-guide.md",
-          "size": 9594
+          "size": 9596
         },
         {
           "name": "update-docs",
           "file": "update-docs.md",
-          "size": 4435
+          "size": 4437
         }
       ],
       "doordash": [
@@ -2413,27 +2413,27 @@
         {
           "name": "game-analytics-integration",
           "file": "game-analytics-integration.md",
-          "size": 4845
+          "size": 4847
         },
         {
           "name": "game-asset-pipeline",
           "file": "game-asset-pipeline.md",
-          "size": 4185
+          "size": 4187
         },
         {
           "name": "game-performance-profiler",
           "file": "game-performance-profiler.md",
-          "size": 3042
+          "size": 3044
         },
         {
           "name": "game-testing-framework",
           "file": "game-testing-framework.md",
-          "size": 4151
+          "size": 4153
         },
         {
           "name": "unity-project-setup",
           "file": "unity-project-setup.md",
-          "size": 5406
+          "size": 5408
         }
       ],
       "git": [
@@ -2445,7 +2445,7 @@
         {
           "name": "finish",
           "file": "finish.md",
-          "size": 11700
+          "size": 11702
         },
         {
           "name": "flow-status",
@@ -2467,52 +2467,52 @@
         {
           "name": "branch-cleanup",
           "file": "branch-cleanup.md",
-          "size": 6028
+          "size": 6030
         },
         {
           "name": "commit",
           "file": "commit.md",
-          "size": 7902
+          "size": 7904
         },
         {
           "name": "create-pr",
           "file": "create-pr.md",
-          "size": 795
+          "size": 883
         },
         {
           "name": "create-pull-request",
           "file": "create-pull-request.md",
-          "size": 4238
+          "size": 4334
         },
         {
           "name": "create-worktrees",
           "file": "create-worktrees.md",
-          "size": 5190
+          "size": 5364
         },
         {
           "name": "fix-github-issue",
           "file": "fix-github-issue.md",
-          "size": 463
+          "size": 553
         },
         {
           "name": "gemini-review",
           "file": "gemini-review.md",
-          "size": 10765
+          "size": 10767
         },
         {
           "name": "git-bisect-helper",
           "file": "git-bisect-helper.md",
-          "size": 7720
+          "size": 7722
         },
         {
           "name": "pr-review",
           "file": "pr-review.md",
-          "size": 3820
+          "size": 3940
         },
         {
           "name": "update-branch-name",
           "file": "update-branch-name.md",
-          "size": 441
+          "size": 547
         },
         {
           "name": "worktree-check",
@@ -2539,272 +2539,237 @@
         {
           "name": "gws-admin-reports",
           "file": "gws-admin-reports.md",
-          "size": 3779
+          "size": 3783
         },
         {
           "name": "gws-admin",
           "file": "gws-admin.md",
-          "size": 10985
+          "size": 10989
         },
         {
           "name": "gws-alertcenter",
           "file": "gws-alertcenter.md",
-          "size": 3539
+          "size": 3543
         },
         {
           "name": "gws-apps-script-push",
           "file": "gws-apps-script-push.md",
-          "size": 2761
+          "size": 2765
         },
         {
           "name": "gws-apps-script",
           "file": "gws-apps-script.md",
-          "size": 3503
+          "size": 3507
         },
         {
           "name": "gws-calendar-agenda",
           "file": "gws-calendar-agenda.md",
-          "size": 2775
+          "size": 2779
         },
         {
           "name": "gws-calendar-insert",
           "file": "gws-calendar-insert.md",
-          "size": 3095
+          "size": 3099
         },
         {
           "name": "gws-calendar",
           "file": "gws-calendar.md",
-          "size": 5878
+          "size": 5882
         },
         {
           "name": "gws-chat-send",
           "file": "gws-chat-send.md",
-          "size": 2547
+          "size": 2551
         },
         {
           "name": "gws-chat",
           "file": "gws-chat.md",
-          "size": 7060
+          "size": 7064
         },
         {
           "name": "gws-classroom",
           "file": "gws-classroom.md",
-          "size": 8293
+          "size": 8297
         },
         {
           "name": "gws-cloudidentity",
           "file": "gws-cloudidentity.md",
-          "size": 6655
+          "size": 6659
         },
         {
           "name": "gws-docs-write",
           "file": "gws-docs-write.md",
-          "size": 2539
+          "size": 2543
         },
         {
           "name": "gws-docs",
           "file": "gws-docs.md",
-          "size": 2924
+          "size": 2926
         },
         {
           "name": "gws-drive-upload",
           "file": "gws-drive-upload.md",
-          "size": 2721
+          "size": 2725
         },
         {
           "name": "gws-drive",
           "file": "gws-drive.md",
-          "size": 15664
+          "size": 15668
         },
         {
           "name": "gws-events-renew",
           "file": "gws-events-renew.md",
-          "size": 2677
+          "size": 2681
         },
         {
           "name": "gws-events-subscribe",
           "file": "gws-events-subscribe.md",
-          "size": 3521
+          "size": 3525
         },
         {
           "name": "gws-events",
           "file": "gws-events.md",
-          "size": 4893
+          "size": 4895
         },
         {
           "name": "gws-forms",
           "file": "gws-forms.md",
-          "size": 2941
+          "size": 2943
         },
         {
           "name": "gws-gmail-send",
           "file": "gws-gmail-send.md",
-          "size": 2661
+          "size": 2665
         },
         {
           "name": "gws-gmail-triage",
           "file": "gws-gmail-triage.md",
-          "size": 2635
+          "size": 2639
         },
         {
           "name": "gws-gmail-watch",
           "file": "gws-gmail-watch.md",
-          "size": 3353
+          "size": 3357
         },
         {
           "name": "gws-gmail",
           "file": "gws-gmail.md",
-          "size": 2998
+          "size": 3002
         },
         {
           "name": "gws-groupssettings",
           "file": "gws-groupssettings.md",
-          "size": 2405
+          "size": 2407
         },
         {
           "name": "gws-keep",
           "file": "gws-keep.md",
-          "size": 3131
+          "size": 3133
         },
         {
           "name": "gws-licensing",
           "file": "gws-licensing.md",
-          "size": 2744
+          "size": 2748
         },
         {
           "name": "gws-meet",
           "file": "gws-meet.md",
-          "size": 3104
+          "size": 3106
         },
         {
           "name": "gws-modelarmor-create-template",
           "file": "gws-modelarmor-create-template.md",
-          "size": 3211
+          "size": 3215
         },
         {
           "name": "gws-modelarmor-sanitize-prompt",
           "file": "gws-modelarmor-sanitize-prompt.md",
-          "size": 2949
+          "size": 2953
         },
         {
           "name": "gws-modelarmor-sanitize-response",
           "file": "gws-modelarmor-sanitize-response.md",
-          "size": 2968
+          "size": 2972
         },
         {
           "name": "gws-modelarmor",
           "file": "gws-modelarmor.md",
-          "size": 2618
+          "size": 2622
         },
         {
           "name": "gws-people",
           "file": "gws-people.md",
-          "size": 8237
+          "size": 8241
         },
         {
           "name": "gws-reseller",
           "file": "gws-reseller.md",
-          "size": 6968
+          "size": 6972
         },
         {
           "name": "gws-shared",
           "file": "gws-shared.md",
-          "size": 3490
+          "size": 3494
         },
         {
           "name": "gws-sheets-append",
           "file": "gws-sheets-append.md",
-          "size": 2740
+          "size": 2744
         },
         {
           "name": "gws-sheets-read",
           "file": "gws-sheets-read.md",
-          "size": 2537
+          "size": 2541
         },
         {
           "name": "gws-sheets",
           "file": "gws-sheets.md",
-          "size": 3976
+          "size": 3980
         },
         {
           "name": "gws-slides",
           "file": "gws-slides.md",
-          "size": 3009
+          "size": 3013
         },
         {
           "name": "gws-tasks",
           "file": "gws-tasks.md",
-          "size": 4382
+          "size": 4386
         },
         {
           "name": "gws-vault",
           "file": "gws-vault.md",
-          "size": 4364
+          "size": 4368
         },
         {
           "name": "gws-workflow-email-to-task",
           "file": "gws-workflow-email-to-task.md",
-          "size": 2750
+          "size": 2754
         },
         {
           "name": "gws-workflow-file-announce",
           "file": "gws-workflow-file-announce.md",
-          "size": 2974
+          "size": 2978
         },
         {
           "name": "gws-workflow-meeting-prep",
           "file": "gws-workflow-meeting-prep.md",
-          "size": 2691
+          "size": 2695
         },
         {
           "name": "gws-workflow-standup-report",
           "file": "gws-workflow-standup-report.md",
-          "size": 2608
+          "size": 2612
         },
         {
           "name": "gws-workflow-weekly-digest",
           "file": "gws-workflow-weekly-digest.md",
-          "size": 2618
+          "size": 2622
         },
         {
           "name": "gws-workflow",
           "file": "gws-workflow.md",
-          "size": 2811
-        },
-        {
-          "name": "personas/persona-customer-support",
-          "file": "personas/persona-customer-support.md",
-          "size": 1976
-        },
-        {
-          "name": "personas/persona-event-coordinator",
-          "file": "personas/persona-event-coordinator.md",
-          "size": 2077
-        },
-        {
-          "name": "personas/persona-researcher",
-          "file": "personas/persona-researcher.md",
-          "size": 1876
-        },
-        {
-          "name": "personas/persona-hr-coordinator",
-          "file": "personas/persona-hr-coordinator.md",
-          "size": 2096
-        },
-        {
-          "name": "personas/persona-it-admin",
-          "file": "personas/persona-it-admin.md",
-          "size": 1930
-        },
-        {
-          "name": "personas/persona-project-manager",
-          "file": "personas/persona-project-manager.md",
-          "size": 2196
-        },
-        {
-          "name": "personas/persona-sales-ops",
-          "file": "personas/persona-sales-ops.md",
-          "size": 2043
+          "size": 2815
         },
         {
           "name": "personas/persona-team-lead",
@@ -2812,9 +2777,29 @@
           "size": 2014
         },
         {
-          "name": "personas/persona-content-creator",
-          "file": "personas/persona-content-creator.md",
-          "size": 1974
+          "name": "personas/persona-sales-ops",
+          "file": "personas/persona-sales-ops.md",
+          "size": 2043
+        },
+        {
+          "name": "personas/persona-researcher",
+          "file": "personas/persona-researcher.md",
+          "size": 1876
+        },
+        {
+          "name": "personas/persona-project-manager",
+          "file": "personas/persona-project-manager.md",
+          "size": 2196
+        },
+        {
+          "name": "personas/persona-it-admin",
+          "file": "personas/persona-it-admin.md",
+          "size": 1930
+        },
+        {
+          "name": "personas/persona-hr-coordinator",
+          "file": "personas/persona-hr-coordinator.md",
+          "size": 2096
         },
         {
           "name": "personas/persona-exec-assistant",
@@ -2822,64 +2807,19 @@
           "size": 2166
         },
         {
-          "name": "recipes/recipe-organize-drive-folder",
-          "file": "recipes/recipe-organize-drive-folder.md",
-          "size": 2146
+          "name": "personas/persona-event-coordinator",
+          "file": "personas/persona-event-coordinator.md",
+          "size": 2077
         },
         {
-          "name": "recipes/recipe-bulk-download-folder",
-          "file": "recipes/recipe-bulk-download-folder.md",
-          "size": 1886
+          "name": "personas/persona-customer-support",
+          "file": "personas/persona-customer-support.md",
+          "size": 1976
         },
         {
-          "name": "recipes/recipe-search-and-export-emails",
-          "file": "recipes/recipe-search-and-export-emails.md",
-          "size": 1920
-        },
-        {
-          "name": "recipes/recipe-create-feedback-form",
-          "file": "recipes/recipe-create-feedback-form.md",
-          "size": 1878
-        },
-        {
-          "name": "recipes/recipe-batch-reply-to-emails",
-          "file": "recipes/recipe-batch-reply-to-emails.md",
-          "size": 2157
-        },
-        {
-          "name": "recipes/recipe-save-email-to-doc",
-          "file": "recipes/recipe-save-email-to-doc.md",
-          "size": 2069
-        },
-        {
-          "name": "recipes/recipe-transfer-file-ownership",
-          "file": "recipes/recipe-transfer-file-ownership.md",
-          "size": 1955
-        },
-        {
-          "name": "recipes/recipe-send-personalized-emails",
-          "file": "recipes/recipe-send-personalized-emails.md",
-          "size": 1875
-        },
-        {
-          "name": "recipes/recipe-create-meet-space",
-          "file": "recipes/recipe-create-meet-space.md",
-          "size": 1805
-        },
-        {
-          "name": "recipes/recipe-create-expense-tracker",
-          "file": "recipes/recipe-create-expense-tracker.md",
-          "size": 2230
-        },
-        {
-          "name": "recipes/recipe-schedule-recurring-event",
-          "file": "recipes/recipe-schedule-recurring-event.md",
-          "size": 1997
-        },
-        {
-          "name": "recipes/recipe-forward-labeled-emails",
-          "file": "recipes/recipe-forward-labeled-emails.md",
-          "size": 1977
+          "name": "personas/persona-content-creator",
+          "file": "personas/persona-content-creator.md",
+          "size": 1974
         },
         {
           "name": "recipes/recipe-watch-drive-changes",
@@ -2887,109 +2827,14 @@
           "size": 1992
         },
         {
-          "name": "recipes/recipe-create-doc-from-template",
-          "file": "recipes/recipe-create-doc-from-template.md",
-          "size": 2081
+          "name": "recipes/recipe-triage-security-alerts",
+          "file": "recipes/recipe-triage-security-alerts.md",
+          "size": 1825
         },
         {
-          "name": "recipes/recipe-post-mortem-setup",
-          "file": "recipes/recipe-post-mortem-setup.md",
-          "size": 2039
-        },
-        {
-          "name": "recipes/recipe-generate-report-from-sheet",
-          "file": "recipes/recipe-generate-report-from-sheet.md",
-          "size": 2188
-        },
-        {
-          "name": "recipes/recipe-backup-sheet-as-csv",
-          "file": "recipes/recipe-backup-sheet-as-csv.md",
-          "size": 1897
-        },
-        {
-          "name": "recipes/recipe-audit-external-sharing",
-          "file": "recipes/recipe-audit-external-sharing.md",
-          "size": 1978
-        },
-        {
-          "name": "recipes/recipe-batch-rename-files",
-          "file": "recipes/recipe-batch-rename-files.md",
-          "size": 1938
-        },
-        {
-          "name": "recipes/recipe-review-meet-participants",
-          "file": "recipes/recipe-review-meet-participants.md",
-          "size": 1963
-        },
-        {
-          "name": "recipes/recipe-create-gmail-filter",
-          "file": "recipes/recipe-create-gmail-filter.md",
-          "size": 2109
-        },
-        {
-          "name": "recipes/recipe-create-events-from-sheet",
-          "file": "recipes/recipe-create-events-from-sheet.md",
-          "size": 1919
-        },
-        {
-          "name": "recipes/recipe-log-deal-update",
-          "file": "recipes/recipe-log-deal-update.md",
-          "size": 1991
-        },
-        {
-          "name": "recipes/recipe-copy-sheet-for-new-month",
-          "file": "recipes/recipe-copy-sheet-for-new-month.md",
-          "size": 2076
-        },
-        {
-          "name": "recipes/recipe-label-and-archive-emails",
-          "file": "recipes/recipe-label-and-archive-emails.md",
-          "size": 2034
-        },
-        {
-          "name": "recipes/recipe-batch-invite-to-event",
-          "file": "recipes/recipe-batch-invite-to-event.md",
-          "size": 2067
-        },
-        {
-          "name": "recipes/recipe-create-presentation",
-          "file": "recipes/recipe-create-presentation.md",
-          "size": 1871
-        },
-        {
-          "name": "recipes/recipe-create-classroom-course",
-          "file": "recipes/recipe-create-classroom-course.md",
-          "size": 1954
-        },
-        {
-          "name": "recipes/recipe-create-vacation-responder",
-          "file": "recipes/recipe-create-vacation-responder.md",
-          "size": 2146
-        },
-        {
-          "name": "recipes/recipe-email-drive-link",
-          "file": "recipes/recipe-email-drive-link.md",
-          "size": 2010
-        },
-        {
-          "name": "recipes/recipe-compare-sheet-tabs",
-          "file": "recipes/recipe-compare-sheet-tabs.md",
-          "size": 1802
-        },
-        {
-          "name": "recipes/recipe-cancel-and-notify",
-          "file": "recipes/recipe-cancel-and-notify.md",
-          "size": 2025
-        },
-        {
-          "name": "recipes/recipe-review-overdue-tasks",
-          "file": "recipes/recipe-review-overdue-tasks.md",
-          "size": 1763
-        },
-        {
-          "name": "recipes/recipe-share-doc-and-notify",
-          "file": "recipes/recipe-share-doc-and-notify.md",
-          "size": 2149
+          "name": "recipes/recipe-transfer-file-ownership",
+          "file": "recipes/recipe-transfer-file-ownership.md",
+          "size": 1955
         },
         {
           "name": "recipes/recipe-sync-contacts-to-sheet",
@@ -2997,19 +2842,69 @@
           "size": 2052
         },
         {
-          "name": "recipes/recipe-block-focus-time",
-          "file": "recipes/recipe-block-focus-time.md",
-          "size": 2053
-        },
-        {
-          "name": "recipes/recipe-deploy-apps-script",
-          "file": "recipes/recipe-deploy-apps-script.md",
-          "size": 2034
-        },
-        {
           "name": "recipes/recipe-share-folder-with-team",
           "file": "recipes/recipe-share-folder-with-team.md",
           "size": 2185
+        },
+        {
+          "name": "recipes/recipe-share-event-materials",
+          "file": "recipes/recipe-share-event-materials.md",
+          "size": 1976
+        },
+        {
+          "name": "recipes/recipe-share-doc-and-notify",
+          "file": "recipes/recipe-share-doc-and-notify.md",
+          "size": 2149
+        },
+        {
+          "name": "recipes/recipe-send-team-announcement",
+          "file": "recipes/recipe-send-team-announcement.md",
+          "size": 1844
+        },
+        {
+          "name": "recipes/recipe-send-personalized-emails",
+          "file": "recipes/recipe-send-personalized-emails.md",
+          "size": 1875
+        },
+        {
+          "name": "recipes/recipe-search-and-export-emails",
+          "file": "recipes/recipe-search-and-export-emails.md",
+          "size": 1920
+        },
+        {
+          "name": "recipes/recipe-schedule-recurring-event",
+          "file": "recipes/recipe-schedule-recurring-event.md",
+          "size": 1997
+        },
+        {
+          "name": "recipes/recipe-save-email-to-doc",
+          "file": "recipes/recipe-save-email-to-doc.md",
+          "size": 2069
+        },
+        {
+          "name": "recipes/recipe-save-email-attachments",
+          "file": "recipes/recipe-save-email-attachments.md",
+          "size": 2100
+        },
+        {
+          "name": "recipes/recipe-review-overdue-tasks",
+          "file": "recipes/recipe-review-overdue-tasks.md",
+          "size": 1763
+        },
+        {
+          "name": "recipes/recipe-review-meet-participants",
+          "file": "recipes/recipe-review-meet-participants.md",
+          "size": 1963
+        },
+        {
+          "name": "recipes/recipe-reschedule-meeting",
+          "file": "recipes/recipe-reschedule-meeting.md",
+          "size": 2037
+        },
+        {
+          "name": "recipes/recipe-post-mortem-setup",
+          "file": "recipes/recipe-post-mortem-setup.md",
+          "size": 2039
         },
         {
           "name": "recipes/recipe-plan-weekly-schedule",
@@ -3017,14 +2912,29 @@
           "size": 1981
         },
         {
-          "name": "recipes/recipe-create-shared-drive",
-          "file": "recipes/recipe-create-shared-drive.md",
-          "size": 1984
+          "name": "recipes/recipe-organize-drive-folder",
+          "file": "recipes/recipe-organize-drive-folder.md",
+          "size": 2146
         },
         {
-          "name": "recipes/recipe-reschedule-meeting",
-          "file": "recipes/recipe-reschedule-meeting.md",
-          "size": 2037
+          "name": "recipes/recipe-log-deal-update",
+          "file": "recipes/recipe-log-deal-update.md",
+          "size": 1991
+        },
+        {
+          "name": "recipes/recipe-label-and-archive-emails",
+          "file": "recipes/recipe-label-and-archive-emails.md",
+          "size": 2034
+        },
+        {
+          "name": "recipes/recipe-generate-report-from-sheet",
+          "file": "recipes/recipe-generate-report-from-sheet.md",
+          "size": 2188
+        },
+        {
+          "name": "recipes/recipe-forward-labeled-emails",
+          "file": "recipes/recipe-forward-labeled-emails.md",
+          "size": 1977
         },
         {
           "name": "recipes/recipe-find-large-files",
@@ -3037,14 +2947,9 @@
           "size": 1998
         },
         {
-          "name": "recipes/recipe-triage-security-alerts",
-          "file": "recipes/recipe-triage-security-alerts.md",
-          "size": 1825
-        },
-        {
-          "name": "recipes/recipe-create-task-list",
-          "file": "recipes/recipe-create-task-list.md",
-          "size": 2009
+          "name": "recipes/recipe-email-drive-link",
+          "file": "recipes/recipe-email-drive-link.md",
+          "size": 2010
         },
         {
           "name": "recipes/recipe-draft-email-from-doc",
@@ -3052,24 +2957,119 @@
           "size": 1840
         },
         {
-          "name": "recipes/recipe-share-event-materials",
-          "file": "recipes/recipe-share-event-materials.md",
-          "size": 1976
+          "name": "recipes/recipe-deploy-apps-script",
+          "file": "recipes/recipe-deploy-apps-script.md",
+          "size": 2034
         },
         {
-          "name": "recipes/recipe-save-email-attachments",
-          "file": "recipes/recipe-save-email-attachments.md",
-          "size": 2100
+          "name": "recipes/recipe-create-vacation-responder",
+          "file": "recipes/recipe-create-vacation-responder.md",
+          "size": 2146
         },
         {
-          "name": "recipes/recipe-send-team-announcement",
-          "file": "recipes/recipe-send-team-announcement.md",
-          "size": 1844
+          "name": "recipes/recipe-create-task-list",
+          "file": "recipes/recipe-create-task-list.md",
+          "size": 2009
+        },
+        {
+          "name": "recipes/recipe-create-shared-drive",
+          "file": "recipes/recipe-create-shared-drive.md",
+          "size": 1984
+        },
+        {
+          "name": "recipes/recipe-create-presentation",
+          "file": "recipes/recipe-create-presentation.md",
+          "size": 1871
+        },
+        {
+          "name": "recipes/recipe-create-meet-space",
+          "file": "recipes/recipe-create-meet-space.md",
+          "size": 1805
+        },
+        {
+          "name": "recipes/recipe-create-gmail-filter",
+          "file": "recipes/recipe-create-gmail-filter.md",
+          "size": 2109
+        },
+        {
+          "name": "recipes/recipe-create-feedback-form",
+          "file": "recipes/recipe-create-feedback-form.md",
+          "size": 1878
+        },
+        {
+          "name": "recipes/recipe-create-expense-tracker",
+          "file": "recipes/recipe-create-expense-tracker.md",
+          "size": 2230
+        },
+        {
+          "name": "recipes/recipe-create-events-from-sheet",
+          "file": "recipes/recipe-create-events-from-sheet.md",
+          "size": 1919
+        },
+        {
+          "name": "recipes/recipe-create-doc-from-template",
+          "file": "recipes/recipe-create-doc-from-template.md",
+          "size": 2081
+        },
+        {
+          "name": "recipes/recipe-create-classroom-course",
+          "file": "recipes/recipe-create-classroom-course.md",
+          "size": 1954
+        },
+        {
+          "name": "recipes/recipe-copy-sheet-for-new-month",
+          "file": "recipes/recipe-copy-sheet-for-new-month.md",
+          "size": 2076
+        },
+        {
+          "name": "recipes/recipe-compare-sheet-tabs",
+          "file": "recipes/recipe-compare-sheet-tabs.md",
+          "size": 1802
         },
         {
           "name": "recipes/recipe-collect-form-responses",
           "file": "recipes/recipe-collect-form-responses.md",
           "size": 1761
+        },
+        {
+          "name": "recipes/recipe-cancel-and-notify",
+          "file": "recipes/recipe-cancel-and-notify.md",
+          "size": 2025
+        },
+        {
+          "name": "recipes/recipe-bulk-download-folder",
+          "file": "recipes/recipe-bulk-download-folder.md",
+          "size": 1886
+        },
+        {
+          "name": "recipes/recipe-block-focus-time",
+          "file": "recipes/recipe-block-focus-time.md",
+          "size": 2053
+        },
+        {
+          "name": "recipes/recipe-batch-reply-to-emails",
+          "file": "recipes/recipe-batch-reply-to-emails.md",
+          "size": 2157
+        },
+        {
+          "name": "recipes/recipe-batch-rename-files",
+          "file": "recipes/recipe-batch-rename-files.md",
+          "size": 1938
+        },
+        {
+          "name": "recipes/recipe-batch-invite-to-event",
+          "file": "recipes/recipe-batch-invite-to-event.md",
+          "size": 2067
+        },
+        {
+          "name": "recipes/recipe-backup-sheet-as-csv",
+          "file": "recipes/recipe-backup-sheet-as-csv.md",
+          "size": 1897
+        },
+        {
+          "name": "recipes/recipe-audit-external-sharing",
+          "file": "recipes/recipe-audit-external-sharing.md",
+          "size": 1978
         }
       ],
       "marketing": [
@@ -3103,64 +3103,64 @@
         {
           "name": "nextjs-api-tester",
           "file": "nextjs-api-tester.md",
-          "size": 12410
+          "size": 12412
         },
         {
           "name": "nextjs-bundle-analyzer",
           "file": "nextjs-bundle-analyzer.md",
-          "size": 10627
+          "size": 10629
         },
         {
           "name": "nextjs-component-generator",
           "file": "nextjs-component-generator.md",
-          "size": 11159
+          "size": 11161
         },
         {
           "name": "nextjs-middleware-creator",
           "file": "nextjs-middleware-creator.md",
-          "size": 19116
+          "size": 19118
         },
         {
           "name": "nextjs-migration-helper",
           "file": "nextjs-migration-helper.md",
-          "size": 19922
+          "size": 19924
         },
         {
           "name": "nextjs-performance-audit",
           "file": "nextjs-performance-audit.md",
-          "size": 16654
+          "size": 16656
         },
         {
           "name": "nextjs-scaffold",
           "file": "nextjs-scaffold.md",
-          "size": 6201
+          "size": 6203
         },
         {
           "name": "vercel-deploy-optimize",
           "file": "vercel-deploy-optimize.md",
-          "size": 8962
+          "size": 8964
         },
         {
           "name": "vercel-edge-function",
           "file": "vercel-edge-function.md",
-          "size": 20881
+          "size": 20883
         },
         {
           "name": "vercel-env-sync",
           "file": "vercel-env-sync.md",
-          "size": 19002
+          "size": 19004
         }
       ],
       "orchestration": [
         {
           "name": "archive",
           "file": "archive.md",
-          "size": 11049
+          "size": 11198
         },
         {
           "name": "commit",
           "file": "commit.md",
-          "size": 6227
+          "size": 6367
         },
         {
           "name": "feature-analyzer",
@@ -3180,136 +3180,136 @@
         {
           "name": "find",
           "file": "find.md",
-          "size": 5134
+          "size": 5232
         },
         {
           "name": "log",
           "file": "log.md",
-          "size": 7074
+          "size": 7215
         },
         {
           "name": "move",
           "file": "move.md",
-          "size": 4762
+          "size": 4860
         },
         {
           "name": "optimize",
           "file": "optimize.md",
-          "size": 9433
+          "size": 9573
         },
         {
           "name": "remove",
           "file": "remove.md",
-          "size": 6532
+          "size": 6650
         },
         {
           "name": "report",
           "file": "report.md",
-          "size": 6420
+          "size": 6517
         },
         {
           "name": "resume",
           "file": "resume.md",
-          "size": 6905
+          "size": 7011
         },
         {
           "name": "start",
           "file": "start.md",
-          "size": 4426
+          "size": 4625
         },
         {
           "name": "status",
           "file": "status.md",
-          "size": 4754
+          "size": 4886
         },
         {
           "name": "sync",
           "file": "sync.md",
-          "size": 6315
+          "size": 6445
         }
       ],
       "performance": [
         {
           "name": "add-performance-monitoring",
           "file": "add-performance-monitoring.md",
-          "size": 3898
+          "size": 3900
         },
         {
           "name": "implement-caching-strategy",
           "file": "implement-caching-strategy.md",
-          "size": 4033
+          "size": 4035
         },
         {
           "name": "optimize-api-performance",
           "file": "optimize-api-performance.md",
-          "size": 5468
+          "size": 5470
         },
         {
           "name": "optimize-build",
           "file": "optimize-build.md",
-          "size": 5041
+          "size": 5100
         },
         {
           "name": "optimize-bundle-size",
           "file": "optimize-bundle-size.md",
-          "size": 3658
+          "size": 3660
         },
         {
           "name": "optimize-database-performance",
           "file": "optimize-database-performance.md",
-          "size": 3629
+          "size": 3631
         },
         {
           "name": "optimize-memory-usage",
           "file": "optimize-memory-usage.md",
-          "size": 4097
+          "size": 4099
         },
         {
           "name": "performance-audit",
           "file": "performance-audit.md",
-          "size": 3539
+          "size": 3541
         },
         {
           "name": "setup-cdn-optimization",
           "file": "setup-cdn-optimization.md",
-          "size": 3717
+          "size": 3719
         },
         {
           "name": "system-behavior-simulator",
           "file": "system-behavior-simulator.md",
-          "size": 17470
+          "size": 17622
         }
       ],
       "project-management": [
         {
           "name": "add-package",
           "file": "add-package.md",
-          "size": 3911
+          "size": 3913
         },
         {
           "name": "add-to-changelog",
           "file": "add-to-changelog.md",
-          "size": 1255
+          "size": 1257
         },
         {
           "name": "create-feature",
           "file": "create-feature.md",
-          "size": 4717
+          "size": 4719
         },
         {
           "name": "create-jtbd",
           "file": "create-jtbd.md",
-          "size": 1544
+          "size": 1546
         },
         {
           "name": "create-prd",
           "file": "create-prd.md",
-          "size": 1507
+          "size": 1509
         },
         {
           "name": "create-prp",
           "file": "create-prp.md",
-          "size": 1597
+          "size": 1599
         },
         {
           "name": "github-issues",
@@ -3319,12 +3319,12 @@
         {
           "name": "init-project",
           "file": "init-project.md",
-          "size": 3716
+          "size": 3718
         },
         {
           "name": "milestone-tracker",
           "file": "milestone-tracker.md",
-          "size": 1541
+          "size": 1543
         },
         {
           "name": "nuget-manager",
@@ -3334,156 +3334,156 @@
         {
           "name": "pac-configure",
           "file": "pac-configure.md",
-          "size": 1396
+          "size": 1398
         },
         {
           "name": "pac-create-epic",
           "file": "pac-create-epic.md",
-          "size": 1510
+          "size": 1512
         },
         {
           "name": "pac-create-ticket",
           "file": "pac-create-ticket.md",
-          "size": 1577
+          "size": 1579
         },
         {
           "name": "pac-update-status",
           "file": "pac-update-status.md",
-          "size": 1535
+          "size": 1537
         },
         {
           "name": "pac-validate",
           "file": "pac-validate.md",
-          "size": 1501
+          "size": 1503
         },
         {
           "name": "project-health-check",
           "file": "project-health-check.md",
-          "size": 1881
+          "size": 1883
         },
         {
           "name": "project-timeline-simulator",
           "file": "project-timeline-simulator.md",
-          "size": 1606
+          "size": 1608
         },
         {
           "name": "project-to-linear",
           "file": "project-to-linear.md",
-          "size": 1499
+          "size": 1501
         },
         {
           "name": "release",
           "file": "release.md",
-          "size": 1538
+          "size": 1540
         },
         {
           "name": "todo",
           "file": "todo.md",
-          "size": 3068
+          "size": 3070
         }
       ],
       "security": [
         {
           "name": "add-authentication-system",
           "file": "add-authentication-system.md",
-          "size": 1566
+          "size": 1568
         },
         {
           "name": "dependency-audit",
           "file": "dependency-audit.md",
-          "size": 1496
+          "size": 1498
         },
         {
           "name": "penetration-test",
           "file": "penetration-test.md",
-          "size": 1878
+          "size": 1880
         },
         {
           "name": "secrets-scanner",
           "file": "secrets-scanner.md",
-          "size": 1637
+          "size": 1639
         },
         {
           "name": "security-audit",
           "file": "security-audit.md",
-          "size": 3026
+          "size": 3028
         },
         {
           "name": "security-hardening",
           "file": "security-hardening.md",
-          "size": 1541
+          "size": 1543
         }
       ],
       "setup": [
         {
           "name": "create-database-migrations",
           "file": "create-database-migrations.md",
-          "size": 1636
+          "size": 1638
         },
         {
           "name": "design-database-schema",
           "file": "design-database-schema.md",
-          "size": 1719
+          "size": 1721
         },
         {
           "name": "design-rest-api",
           "file": "design-rest-api.md",
-          "size": 1793
+          "size": 1795
         },
         {
           "name": "implement-graphql-api",
           "file": "implement-graphql-api.md",
-          "size": 1821
+          "size": 1823
         },
         {
           "name": "migrate-to-typescript",
           "file": "migrate-to-typescript.md",
-          "size": 1869
+          "size": 1871
         },
         {
           "name": "setup-ci-cd-pipeline",
           "file": "setup-ci-cd-pipeline.md",
-          "size": 1870
+          "size": 1872
         },
         {
           "name": "setup-development-environment",
           "file": "setup-development-environment.md",
-          "size": 1855
+          "size": 1857
         },
         {
           "name": "setup-docker-containers",
           "file": "setup-docker-containers.md",
-          "size": 1853
+          "size": 1855
         },
         {
           "name": "setup-formatting",
           "file": "setup-formatting.md",
-          "size": 1841
+          "size": 1843
         },
         {
           "name": "setup-linting",
           "file": "setup-linting.md",
-          "size": 1919
+          "size": 1921
         },
         {
           "name": "setup-monitoring-observability",
           "file": "setup-monitoring-observability.md",
-          "size": 1980
+          "size": 1982
         },
         {
           "name": "setup-monorepo",
           "file": "setup-monorepo.md",
-          "size": 1942
+          "size": 1944
         },
         {
           "name": "setup-rate-limiting",
           "file": "setup-rate-limiting.md",
-          "size": 2034
+          "size": 2036
         },
         {
           "name": "update-dependencies",
           "file": "update-dependencies.md",
-          "size": 1907
+          "size": 1909
         },
         {
           "name": "vercel-analytics",
@@ -3495,295 +3495,295 @@
         {
           "name": "business-scenario-explorer",
           "file": "business-scenario-explorer.md",
-          "size": 1904
+          "size": 1906
         },
         {
           "name": "constraint-modeler",
           "file": "constraint-modeler.md",
-          "size": 1854
+          "size": 1856
         },
         {
           "name": "decision-tree-explorer",
           "file": "decision-tree-explorer.md",
-          "size": 1983
+          "size": 1985
         },
         {
           "name": "digital-twin-creator",
           "file": "digital-twin-creator.md",
-          "size": 2000
+          "size": 2002
         },
         {
           "name": "future-scenario-generator",
           "file": "future-scenario-generator.md",
-          "size": 2066
+          "size": 2068
         },
         {
           "name": "market-response-modeler",
           "file": "market-response-modeler.md",
-          "size": 2175
+          "size": 2177
         },
         {
           "name": "monte-carlo-simulator",
           "file": "monte-carlo-simulator.md",
-          "size": 2167
+          "size": 2169
         },
         {
           "name": "simulation-calibrator",
           "file": "simulation-calibrator.md",
-          "size": 2076
+          "size": 2078
         },
         {
           "name": "system-dynamics-modeler",
           "file": "system-dynamics-modeler.md",
-          "size": 2167
+          "size": 2169
         },
         {
           "name": "timeline-compressor",
           "file": "timeline-compressor.md",
-          "size": 2259
+          "size": 2261
         }
       ],
       "svelte": [
         {
           "name": "svelte-a11y",
           "file": "svelte-a11y.md",
-          "size": 2552
+          "size": 2699
         },
         {
           "name": "svelte-component",
           "file": "svelte-component.md",
-          "size": 2215
+          "size": 2217
         },
         {
           "name": "svelte-debug",
           "file": "svelte-debug.md",
-          "size": 1681
+          "size": 1808
         },
         {
           "name": "svelte-migrate",
           "file": "svelte-migrate.md",
-          "size": 1985
+          "size": 2121
         },
         {
           "name": "svelte-optimize",
           "file": "svelte-optimize.md",
-          "size": 2563
+          "size": 2725
         },
         {
           "name": "svelte-scaffold",
           "file": "svelte-scaffold.md",
-          "size": 2337
+          "size": 2466
         },
         {
           "name": "svelte-storybook-migrate",
           "file": "svelte-storybook-migrate.md",
-          "size": 4372
+          "size": 4520
         },
         {
           "name": "svelte-storybook-mock",
           "file": "svelte-storybook-mock.md",
-          "size": 5391
+          "size": 5513
         },
         {
           "name": "svelte-storybook-setup",
           "file": "svelte-storybook-setup.md",
-          "size": 2852
+          "size": 2971
         },
         {
           "name": "svelte-storybook-story",
           "file": "svelte-storybook-story.md",
-          "size": 3552
+          "size": 3679
         },
         {
           "name": "svelte-storybook-troubleshoot",
           "file": "svelte-storybook-troubleshoot.md",
-          "size": 4425
+          "size": 4580
         },
         {
           "name": "svelte-storybook",
           "file": "svelte-storybook.md",
-          "size": 1529
+          "size": 1674
         },
         {
           "name": "svelte-test-coverage",
           "file": "svelte-test-coverage.md",
-          "size": 1966
+          "size": 2122
         },
         {
           "name": "svelte-test-fix",
           "file": "svelte-test-fix.md",
-          "size": 2302
+          "size": 2462
         },
         {
           "name": "svelte-test-setup",
           "file": "svelte-test-setup.md",
-          "size": 2274
+          "size": 2444
         },
         {
           "name": "svelte-test",
           "file": "svelte-test.md",
-          "size": 1782
+          "size": 1931
         }
       ],
       "sync": [
         {
           "name": "bidirectional-sync",
           "file": "bidirectional-sync.md",
-          "size": 1940
+          "size": 1942
         },
         {
           "name": "bulk-import-issues",
           "file": "bulk-import-issues.md",
-          "size": 2093
+          "size": 2095
         },
         {
           "name": "cross-reference-manager",
           "file": "cross-reference-manager.md",
-          "size": 2085
+          "size": 2087
         },
         {
           "name": "issue-to-linear-task",
           "file": "issue-to-linear-task.md",
-          "size": 2079
+          "size": 2081
         },
         {
           "name": "linear-task-to-issue",
           "file": "linear-task-to-issue.md",
-          "size": 2106
+          "size": 2108
         },
         {
           "name": "sync-automation-setup",
           "file": "sync-automation-setup.md",
-          "size": 2159
+          "size": 2161
         },
         {
           "name": "sync-conflict-resolver",
           "file": "sync-conflict-resolver.md",
-          "size": 2172
+          "size": 2174
         },
         {
           "name": "sync-health-monitor",
           "file": "sync-health-monitor.md",
-          "size": 2150
+          "size": 2152
         },
         {
           "name": "sync-issues-to-linear",
           "file": "sync-issues-to-linear.md",
-          "size": 2075
+          "size": 2077
         },
         {
           "name": "sync-linear-to-issues",
           "file": "sync-linear-to-issues.md",
-          "size": 1972
+          "size": 1974
         },
         {
           "name": "sync-migration-assistant",
           "file": "sync-migration-assistant.md",
-          "size": 2178
+          "size": 2180
         },
         {
           "name": "sync-pr-to-task",
           "file": "sync-pr-to-task.md",
-          "size": 2013
+          "size": 2015
         },
         {
           "name": "sync-status",
           "file": "sync-status.md",
-          "size": 10882
+          "size": 10884
         },
         {
           "name": "task-from-pr",
           "file": "task-from-pr.md",
-          "size": 2091
+          "size": 2093
         }
       ],
       "team": [
         {
           "name": "architecture-review",
           "file": "architecture-review.md",
-          "size": 2449
+          "size": 2451
         },
         {
           "name": "decision-quality-analyzer",
           "file": "decision-quality-analyzer.md",
-          "size": 2237
+          "size": 2239
         },
         {
           "name": "dependency-mapper",
           "file": "dependency-mapper.md",
-          "size": 2320
+          "size": 2322
         },
         {
           "name": "estimate-assistant",
           "file": "estimate-assistant.md",
-          "size": 2395
+          "size": 2397
         },
         {
           "name": "issue-triage",
           "file": "issue-triage.md",
-          "size": 2135
+          "size": 2137
         },
         {
           "name": "memory-spring-cleaning",
           "file": "memory-spring-cleaning.md",
-          "size": 2275
+          "size": 2277
         },
         {
           "name": "migration-assistant",
           "file": "migration-assistant.md",
-          "size": 2201
+          "size": 2203
         },
         {
           "name": "retrospective-analyzer",
           "file": "retrospective-analyzer.md",
-          "size": 2265
+          "size": 2267
         },
         {
           "name": "session-learning-capture",
           "file": "session-learning-capture.md",
-          "size": 2338
+          "size": 2340
         },
         {
           "name": "sprint-planning",
           "file": "sprint-planning.md",
-          "size": 4813
+          "size": 4815
         },
         {
           "name": "standup-report",
           "file": "standup-report.md",
-          "size": 2170
+          "size": 2172
         },
         {
           "name": "team-knowledge-mapper",
           "file": "team-knowledge-mapper.md",
-          "size": 2402
+          "size": 2404
         },
         {
           "name": "team-velocity-tracker",
           "file": "team-velocity-tracker.md",
-          "size": 2415
+          "size": 2417
         },
         {
           "name": "team-workload-balancer",
           "file": "team-workload-balancer.md",
-          "size": 2376
+          "size": 2378
         }
       ],
       "testing": [
         {
           "name": "add-mutation-testing",
           "file": "add-mutation-testing.md",
-          "size": 2570
+          "size": 2572
         },
         {
           "name": "add-property-based-testing",
           "file": "add-property-based-testing.md",
-          "size": 2429
+          "size": 2431
         },
         {
           "name": "e2e-setup",
           "file": "e2e-setup.md",
-          "size": 2304
+          "size": 2306
         },
         {
           "name": "flaky-test-triage",
@@ -3793,12 +3793,12 @@
         {
           "name": "generate-test-cases",
           "file": "generate-test-cases.md",
-          "size": 2347
+          "size": 2349
         },
         {
           "name": "generate-tests",
           "file": "generate-tests.md",
-          "size": 2664
+          "size": 2666
         },
         {
           "name": "regression-triage",
@@ -3808,42 +3808,42 @@
         {
           "name": "setup-comprehensive-testing",
           "file": "setup-comprehensive-testing.md",
-          "size": 2380
+          "size": 2382
         },
         {
           "name": "setup-load-testing",
           "file": "setup-load-testing.md",
-          "size": 2435
+          "size": 2437
         },
         {
           "name": "setup-visual-testing",
           "file": "setup-visual-testing.md",
-          "size": 2455
+          "size": 2457
         },
         {
           "name": "test-automation-orchestrator",
           "file": "test-automation-orchestrator.md",
-          "size": 2444
+          "size": 2446
         },
         {
           "name": "test-changelog-automation",
           "file": "test-changelog-automation.md",
-          "size": 2320
+          "size": 2322
         },
         {
           "name": "test-coverage",
           "file": "test-coverage.md",
-          "size": 2446
+          "size": 2448
         },
         {
           "name": "test-quality-analyzer",
           "file": "test-quality-analyzer.md",
-          "size": 2354
+          "size": 2356
         },
         {
           "name": "testing_plan_integration",
           "file": "testing_plan_integration.md",
-          "size": 2342
+          "size": 2344
         },
         {
           "name": "webapp-testing",
@@ -3853,104 +3853,104 @@
         {
           "name": "write-tests",
           "file": "write-tests.md",
-          "size": 2245
+          "size": 2247
         }
       ],
       "utilities": [
         {
           "name": "all-tools",
           "file": "all-tools.md",
-          "size": 1064
+          "size": 1128
         },
         {
           "name": "architecture-scenario-explorer",
           "file": "architecture-scenario-explorer.md",
-          "size": 15652
+          "size": 15803
         },
         {
           "name": "check-file",
           "file": "check-file.md",
-          "size": 1727
+          "size": 1887
         },
         {
           "name": "clean-branches",
           "file": "clean-branches.md",
-          "size": 7366
+          "size": 7429
         },
         {
           "name": "clean",
           "file": "clean.md",
-          "size": 68
+          "size": 160
         },
         {
           "name": "cleanup-cache",
           "file": "cleanup-cache.md",
-          "size": 5075
+          "size": 5077
         },
         {
           "name": "code-permutation-tester",
           "file": "code-permutation-tester.md",
-          "size": 13397
+          "size": 13539
         },
         {
           "name": "code-review",
           "file": "code-review.md",
-          "size": 2551
+          "size": 2553
         },
         {
           "name": "code-to-task",
           "file": "code-to-task.md",
-          "size": 16329
+          "size": 16391
         },
         {
           "name": "context-prime",
           "file": "context-prime.md",
-          "size": 138
+          "size": 234
         },
         {
           "name": "debug-error",
           "file": "debug-error.md",
-          "size": 4692
+          "size": 4752
         },
         {
           "name": "directory-deep-dive",
           "file": "directory-deep-dive.md",
-          "size": 1210
+          "size": 1274
         },
         {
           "name": "explain-code",
           "file": "explain-code.md",
-          "size": 6671
+          "size": 6734
         },
         {
           "name": "fix-issue",
           "file": "fix-issue.md",
-          "size": 3237
+          "size": 3294
         },
         {
           "name": "generate-linear-worklog",
           "file": "generate-linear-worklog.md",
-          "size": 4238
+          "size": 4343
         },
         {
           "name": "git-status",
           "file": "git-status.md",
-          "size": 1343
+          "size": 1403
         },
         {
           "name": "initref",
           "file": "initref.md",
-          "size": 454
+          "size": 562
         },
         {
           "name": "prime",
           "file": "prime.md",
-          "size": 1593
+          "size": 1652
         },
         {
           "name": "refactor-code",
           "file": "refactor-code.md",
-          "size": 4411
+          "size": 4483
         },
         {
           "name": "screenshot-analyzer",
@@ -3960,7 +3960,7 @@
         {
           "name": "ultra-think",
           "file": "ultra-think.md",
-          "size": 3793
+          "size": 3797
         }
       ]
     },
@@ -4181,7 +4181,7 @@
         {
           "name": "langsmith-tracing",
           "file": "langsmith-tracing.json",
-          "size": 1138
+          "size": 1142
         }
       ],
       "performance": [
@@ -4376,7 +4376,7 @@
         {
           "name": "postgresql-documentation",
           "file": "postgresql-documentation.json",
-          "size": 226
+          "size": 254
         },
         {
           "name": "postgresql-integration",
@@ -4487,7 +4487,7 @@
         {
           "name": "figma-dev-mode",
           "file": "figma-dev-mode.json",
-          "size": 320
+          "size": 348
         },
         {
           "name": "firecrawl",
@@ -4512,7 +4512,7 @@
         {
           "name": "huggingface",
           "file": "huggingface.json",
-          "size": 292
+          "size": 316
         },
         {
           "name": "imagesorcery",
@@ -4527,7 +4527,7 @@
         {
           "name": "jfrog",
           "file": "jfrog.json",
-          "size": 225
+          "size": 340
         },
         {
           "name": "jina-ai",
@@ -4632,7 +4632,7 @@
         {
           "name": "sentry",
           "file": "sentry.json",
-          "size": 305
+          "size": 327
         },
         {
           "name": "serena",
@@ -4642,7 +4642,7 @@
         {
           "name": "stripe",
           "file": "stripe.json",
-          "size": 302
+          "size": 633
         },
         {
           "name": "terraform",
@@ -4691,7 +4691,7 @@
         {
           "name": "footballbin-predictions",
           "file": "footballbin-predictions.json",
-          "size": 390
+          "size": 412
         },
         {
           "name": "github-integration",
@@ -4821,7 +4821,7 @@
         {
           "name": "brightdata",
           "file": "brightdata.json",
-          "size": 303
+          "size": 325
         },
         {
           "name": "browseract",
@@ -4831,7 +4831,7 @@
         {
           "name": "datalikers",
           "file": "datalikers.json",
-          "size": 599
+          "size": 621
         },
         {
           "name": "dimhour",
@@ -4841,7 +4841,7 @@
         {
           "name": "explorium",
           "file": "explorium.json",
-          "size": 728
+          "size": 750
         },
         {
           "name": "hikerapi",
@@ -4919,7 +4919,7 @@
         {
           "name": "agent-evaluation",
           "file": "agent-evaluation/SKILL.md",
-          "size": 2089
+          "size": 2101
         },
         {
           "name": "agent-manager-skill",
@@ -4929,17 +4929,17 @@
         {
           "name": "agent-memory-mcp",
           "file": "agent-memory-mcp/SKILL.md",
-          "size": 2101
+          "size": 2113
         },
         {
           "name": "agent-memory-systems",
           "file": "agent-memory-systems/SKILL.md",
-          "size": 2317
+          "size": 2329
         },
         {
           "name": "agent-tool-builder",
           "file": "agent-tool-builder/SKILL.md",
-          "size": 1673
+          "size": 1685
         },
         {
           "name": "agents-autogpt",
@@ -4949,22 +4949,22 @@
         {
           "name": "agents-crewai",
           "file": "agents-crewai/SKILL.md",
-          "size": 13469
+          "size": 13487
         },
         {
           "name": "agents-langchain",
           "file": "agents-langchain/SKILL.md",
-          "size": 12839
+          "size": 12857
         },
         {
           "name": "agents-llamaindex",
           "file": "agents-llamaindex/SKILL.md",
-          "size": 14726
+          "size": 14744
         },
         {
           "name": "ai-agents-architect",
           "file": "ai-agents-architect/SKILL.md",
-          "size": 2571
+          "size": 2583
         },
         {
           "name": "ai-release-hunter",
@@ -4979,7 +4979,7 @@
         {
           "name": "autonomous-agents",
           "file": "autonomous-agents/SKILL.md",
-          "size": 2221
+          "size": 2233
         },
         {
           "name": "behavioral-modes",
@@ -4994,12 +4994,12 @@
         {
           "name": "computer-use-agents",
           "file": "computer-use-agents/SKILL.md",
-          "size": 9428
+          "size": 9440
         },
         {
           "name": "context-window-management",
           "file": "context-window-management/SKILL.md",
-          "size": 1439
+          "size": 1451
         },
         {
           "name": "context7-auto-research",
@@ -5009,32 +5009,32 @@
         {
           "name": "conversation-memory",
           "file": "conversation-memory/SKILL.md",
-          "size": 1773
+          "size": 1785
         },
         {
           "name": "crewai",
           "file": "crewai/SKILL.md",
-          "size": 6017
+          "size": 6029
         },
         {
           "name": "data-engineer",
           "file": "data-engineer/SKILL.md",
-          "size": 11356
+          "size": 11372
         },
         {
           "name": "data-processing-nemo-curator",
           "file": "data-processing-nemo-curator/SKILL.md",
-          "size": 9338
+          "size": 9356
         },
         {
           "name": "data-processing-ray-data",
           "file": "data-processing-ray-data/SKILL.md",
-          "size": 7328
+          "size": 7346
         },
         {
           "name": "data-scientist",
           "file": "data-scientist/SKILL.md",
-          "size": 10302
+          "size": 10318
         },
         {
           "name": "datadog-cli",
@@ -5044,7 +5044,7 @@
         {
           "name": "deep-research",
           "file": "deep-research/SKILL.md",
-          "size": 2868
+          "size": 2884
         },
         {
           "name": "deep-research-notebooklm",
@@ -5059,7 +5059,7 @@
         {
           "name": "distributed-training-accelerate",
           "file": "distributed-training-accelerate/SKILL.md",
-          "size": 8340
+          "size": 8358
         },
         {
           "name": "distributed-training-deepspeed",
@@ -5069,52 +5069,52 @@
         {
           "name": "distributed-training-megatron-core",
           "file": "distributed-training-megatron-core/SKILL.md",
-          "size": 9706
+          "size": 9724
         },
         {
           "name": "distributed-training-pytorch-fsdp",
           "file": "distributed-training-pytorch-fsdp/SKILL.md",
-          "size": 160145
+          "size": 160163
         },
         {
           "name": "distributed-training-pytorch-lightning",
           "file": "distributed-training-pytorch-lightning/SKILL.md",
-          "size": 9121
+          "size": 9139
         },
         {
           "name": "distributed-training-ray-train",
           "file": "distributed-training-ray-train/SKILL.md",
-          "size": 10696
+          "size": 10714
         },
         {
           "name": "emerging-techniques-knowledge-distillation",
           "file": "emerging-techniques-knowledge-distillation/SKILL.md",
-          "size": 13600
+          "size": 13618
         },
         {
           "name": "emerging-techniques-long-context",
           "file": "emerging-techniques-long-context/SKILL.md",
-          "size": 15577
+          "size": 15595
         },
         {
           "name": "emerging-techniques-model-merging",
           "file": "emerging-techniques-model-merging/SKILL.md",
-          "size": 12439
+          "size": 12457
         },
         {
           "name": "emerging-techniques-model-pruning",
           "file": "emerging-techniques-model-pruning/SKILL.md",
-          "size": 13744
+          "size": 13762
         },
         {
           "name": "emerging-techniques-moe-training",
           "file": "emerging-techniques-moe-training/SKILL.md",
-          "size": 14968
+          "size": 14986
         },
         {
           "name": "emerging-techniques-speculative-decoding",
           "file": "emerging-techniques-speculative-decoding/SKILL.md",
-          "size": 14072
+          "size": 14090
         },
         {
           "name": "evaluation-bigcode-evaluation-harness",
@@ -5124,7 +5124,7 @@
         {
           "name": "evaluation-lm-evaluation-harness",
           "file": "evaluation-lm-evaluation-harness/SKILL.md",
-          "size": 11895
+          "size": 11913
         },
         {
           "name": "evaluation-nemo-evaluator",
@@ -5139,12 +5139,12 @@
         {
           "name": "fine-tuning-llama-factory",
           "file": "fine-tuning-llama-factory/SKILL.md",
-          "size": 2472
+          "size": 2490
         },
         {
           "name": "fine-tuning-peft",
           "file": "fine-tuning-peft/SKILL.md",
-          "size": 12210
+          "size": 12228
         },
         {
           "name": "fine-tuning-unsloth",
@@ -5159,7 +5159,7 @@
         {
           "name": "gemini-api-agent-platform",
           "file": "gemini-api-agent-platform/SKILL.md",
-          "size": 9815
+          "size": 9827
         },
         {
           "name": "gepetto",
@@ -5169,7 +5169,7 @@
         {
           "name": "inference-serving-llama-cpp",
           "file": "inference-serving-llama-cpp/SKILL.md",
-          "size": 5912
+          "size": 5930
         },
         {
           "name": "inference-serving-sglang",
@@ -5179,12 +5179,12 @@
         {
           "name": "inference-serving-tensorrt-llm",
           "file": "inference-serving-tensorrt-llm/SKILL.md",
-          "size": 5039
+          "size": 5057
         },
         {
           "name": "inference-serving-vllm",
           "file": "inference-serving-vllm/SKILL.md",
-          "size": 9026
+          "size": 9044
         },
         {
           "name": "infrastructure-lambda-labs",
@@ -5194,12 +5194,12 @@
         {
           "name": "infrastructure-modal",
           "file": "infrastructure-modal/SKILL.md",
-          "size": 8555
+          "size": 8573
         },
         {
           "name": "infrastructure-skypilot",
           "file": "infrastructure-skypilot/SKILL.md",
-          "size": 9641
+          "size": 9659
         },
         {
           "name": "jira",
@@ -5209,12 +5209,12 @@
         {
           "name": "langfuse",
           "file": "langfuse/SKILL.md",
-          "size": 5802
+          "size": 5814
         },
         {
           "name": "langgraph",
           "file": "langgraph/SKILL.md",
-          "size": 7407
+          "size": 7419
         },
         {
           "name": "llm-app-patterns",
@@ -5224,12 +5224,12 @@
         {
           "name": "llm-evaluation",
           "file": "llm-evaluation/SKILL.md",
-          "size": 14082
+          "size": 14098
         },
         {
           "name": "llm-ops",
           "file": "llm-ops/SKILL.md",
-          "size": 7987
+          "size": 8029
         },
         {
           "name": "loki-mode",
@@ -5239,27 +5239,27 @@
         {
           "name": "mechanistic-interpretability-nnsight",
           "file": "mechanistic-interpretability-nnsight/SKILL.md",
-          "size": 13066
+          "size": 13084
         },
         {
           "name": "mechanistic-interpretability-pyvene",
           "file": "mechanistic-interpretability-pyvene/SKILL.md",
-          "size": 14144
+          "size": 14162
         },
         {
           "name": "mechanistic-interpretability-saelens",
           "file": "mechanistic-interpretability-saelens/SKILL.md",
-          "size": 12754
+          "size": 12772
         },
         {
           "name": "mechanistic-interpretability-transformer-lens",
           "file": "mechanistic-interpretability-transformer-lens/SKILL.md",
-          "size": 12036
+          "size": 12054
         },
         {
           "name": "ml-engineer",
           "file": "ml-engineer/SKILL.md",
-          "size": 9283
+          "size": 9299
         },
         {
           "name": "ml-paper-writing",
@@ -5269,67 +5269,67 @@
         {
           "name": "mlops-mlflow",
           "file": "mlops-mlflow/SKILL.md",
-          "size": 15599
+          "size": 15617
         },
         {
           "name": "mlops-tensorboard",
           "file": "mlops-tensorboard/SKILL.md",
-          "size": 15276
+          "size": 15294
         },
         {
           "name": "mlops-weights-and-biases",
           "file": "mlops-weights-and-biases/SKILL.md",
-          "size": 12454
+          "size": 12472
         },
         {
           "name": "model-architecture-litgpt",
           "file": "model-architecture-litgpt/SKILL.md",
-          "size": 11010
+          "size": 11028
         },
         {
           "name": "model-architecture-mamba",
           "file": "model-architecture-mamba/SKILL.md",
-          "size": 7368
+          "size": 7386
         },
         {
           "name": "model-architecture-nanogpt",
           "file": "model-architecture-nanogpt/SKILL.md",
-          "size": 6752
+          "size": 6770
         },
         {
           "name": "model-architecture-rwkv",
           "file": "model-architecture-rwkv/SKILL.md",
-          "size": 7099
+          "size": 7117
         },
         {
           "name": "model-architecture-torchtitan",
           "file": "model-architecture-torchtitan/SKILL.md",
-          "size": 8927
+          "size": 8945
         },
         {
           "name": "multimodal-audiocraft",
           "file": "multimodal-audiocraft/SKILL.md",
-          "size": 16308
+          "size": 16326
         },
         {
           "name": "multimodal-blip-2",
           "file": "multimodal-blip-2/SKILL.md",
-          "size": 18616
+          "size": 18634
         },
         {
           "name": "multimodal-clip",
           "file": "multimodal-clip/SKILL.md",
-          "size": 6884
+          "size": 6902
         },
         {
           "name": "multimodal-llava",
           "file": "multimodal-llava/SKILL.md",
-          "size": 7833
+          "size": 7851
         },
         {
           "name": "multimodal-segment-anything",
           "file": "multimodal-segment-anything/SKILL.md",
-          "size": 13403
+          "size": 13421
         },
         {
           "name": "multimodal-stable-diffusion",
@@ -5339,12 +5339,12 @@
         {
           "name": "multimodal-whisper",
           "file": "multimodal-whisper/SKILL.md",
-          "size": 7466
+          "size": 7484
         },
         {
           "name": "observability-langsmith",
           "file": "observability-langsmith/SKILL.md",
-          "size": 9693
+          "size": 9711
         },
         {
           "name": "observability-phoenix",
@@ -5354,37 +5354,37 @@
         {
           "name": "openai-docs",
           "file": "openai-docs/SKILL.md",
-          "size": 3461
+          "size": 3473
         },
         {
           "name": "optimization-awq",
           "file": "optimization-awq/SKILL.md",
-          "size": 8383
+          "size": 8401
         },
         {
           "name": "optimization-bitsandbytes",
           "file": "optimization-bitsandbytes/SKILL.md",
-          "size": 10126
+          "size": 10144
         },
         {
           "name": "optimization-flash-attention",
           "file": "optimization-flash-attention/SKILL.md",
-          "size": 10201
+          "size": 10219
         },
         {
           "name": "optimization-gguf",
           "file": "optimization-gguf/SKILL.md",
-          "size": 10320
+          "size": 10338
         },
         {
           "name": "optimization-gptq",
           "file": "optimization-gptq/SKILL.md",
-          "size": 11593
+          "size": 11611
         },
         {
           "name": "optimization-hqq",
           "file": "optimization-hqq/SKILL.md",
-          "size": 11466
+          "size": 11484
         },
         {
           "name": "parallel-agents",
@@ -5399,12 +5399,12 @@
         {
           "name": "post-training-grpo-rl-training",
           "file": "post-training-grpo-rl-training/SKILL.md",
-          "size": 17200
+          "size": 17218
         },
         {
           "name": "post-training-miles",
           "file": "post-training-miles/SKILL.md",
-          "size": 8900
+          "size": 8918
         },
         {
           "name": "post-training-openrlhf",
@@ -5414,37 +5414,37 @@
         {
           "name": "post-training-simpo",
           "file": "post-training-simpo/SKILL.md",
-          "size": 5916
+          "size": 5934
         },
         {
           "name": "post-training-slime",
           "file": "post-training-slime/SKILL.md",
-          "size": 11600
+          "size": 11618
         },
         {
           "name": "post-training-torchforge",
           "file": "post-training-torchforge/SKILL.md",
-          "size": 10734
+          "size": 10752
         },
         {
           "name": "post-training-trl-fine-tuning",
           "file": "post-training-trl-fine-tuning/SKILL.md",
-          "size": 11451
+          "size": 11469
         },
         {
           "name": "post-training-verl",
           "file": "post-training-verl/SKILL.md",
-          "size": 10323
+          "size": 10341
         },
         {
           "name": "prompt-caching",
           "file": "prompt-caching/SKILL.md",
-          "size": 1820
+          "size": 1832
         },
         {
           "name": "prompt-engineer",
           "file": "prompt-engineer/SKILL.md",
-          "size": 2710
+          "size": 2722
         },
         {
           "name": "prompt-engineering",
@@ -5454,17 +5454,17 @@
         {
           "name": "prompt-engineering-dspy",
           "file": "prompt-engineering-dspy/SKILL.md",
-          "size": 15291
+          "size": 15309
         },
         {
           "name": "prompt-engineering-guidance",
           "file": "prompt-engineering-guidance/SKILL.md",
-          "size": 14515
+          "size": 14533
         },
         {
           "name": "prompt-engineering-instructor",
           "file": "prompt-engineering-instructor/SKILL.md",
-          "size": 16827
+          "size": 16845
         },
         {
           "name": "prompt-engineering-outlines",
@@ -5474,7 +5474,7 @@
         {
           "name": "prompt-engineering-patterns",
           "file": "prompt-engineering-patterns/SKILL.md",
-          "size": 7323
+          "size": 7339
         },
         {
           "name": "prompt-library",
@@ -5484,7 +5484,7 @@
         {
           "name": "pydantic-ai",
           "file": "pydantic-ai/SKILL.md",
-          "size": 11814
+          "size": 11838
         },
         {
           "name": "qa-test-planner",
@@ -5494,27 +5494,27 @@
         {
           "name": "rag-chroma",
           "file": "rag-chroma/SKILL.md",
-          "size": 9165
+          "size": 9183
         },
         {
           "name": "rag-engineer",
           "file": "rag-engineer/SKILL.md",
-          "size": 2924
+          "size": 2936
         },
         {
           "name": "rag-faiss",
           "file": "rag-faiss/SKILL.md",
-          "size": 5048
+          "size": 5066
         },
         {
           "name": "rag-implementation",
           "file": "rag-implementation/SKILL.md",
-          "size": 1881
+          "size": 1893
         },
         {
           "name": "rag-pinecone",
           "file": "rag-pinecone/SKILL.md",
-          "size": 7827
+          "size": 7845
         },
         {
           "name": "rag-qdrant",
@@ -5524,7 +5524,7 @@
         {
           "name": "rag-sentence-transformers",
           "file": "rag-sentence-transformers/SKILL.md",
-          "size": 6327
+          "size": 6345
         },
         {
           "name": "research-engineer",
@@ -5534,7 +5534,7 @@
         {
           "name": "safety-alignment-constitutional-ai",
           "file": "safety-alignment-constitutional-ai/SKILL.md",
-          "size": 8177
+          "size": 8195
         },
         {
           "name": "safety-alignment-llamaguard",
@@ -5554,22 +5554,22 @@
         {
           "name": "tokenization-huggingface-tokenizers",
           "file": "tokenization-huggingface-tokenizers/SKILL.md",
-          "size": 13674
+          "size": 13692
         },
         {
           "name": "tokenization-sentencepiece",
           "file": "tokenization-sentencepiece/SKILL.md",
-          "size": 5632
+          "size": 5650
         },
         {
           "name": "voice-agents",
           "file": "voice-agents/SKILL.md",
-          "size": 2281
+          "size": 2293
         },
         {
           "name": "voice-ai-development",
           "file": "voice-ai-development/SKILL.md",
-          "size": 8284
+          "size": 8296
         }
       ],
       "analytics": [
@@ -5598,12 +5598,12 @@
         {
           "name": "ai-product",
           "file": "ai-product/SKILL.md",
-          "size": 2170
+          "size": 2182
         },
         {
           "name": "ai-wrapper-product",
           "file": "ai-wrapper-product/SKILL.md",
-          "size": 6625
+          "size": 6637
         },
         {
           "name": "analytics-tracking",
@@ -5678,7 +5678,7 @@
         {
           "name": "email-systems",
           "file": "email-systems/SKILL.md",
-          "size": 2199
+          "size": 2211
         },
         {
           "name": "form-cro",
@@ -5723,7 +5723,7 @@
         {
           "name": "micro-saas-launcher",
           "file": "micro-saas-launcher/SKILL.md",
-          "size": 5279
+          "size": 5291
         },
         {
           "name": "onboarding-cro",
@@ -5818,7 +5818,7 @@
         {
           "name": "viral-generator-builder",
           "file": "viral-generator-builder/SKILL.md",
-          "size": 5289
+          "size": 5301
         },
         {
           "name": "x-twitter-scraper",
@@ -5937,7 +5937,7 @@
         {
           "name": "3d-web-experience",
           "file": "3d-web-experience/SKILL.md",
-          "size": 5445
+          "size": 5457
         },
         {
           "name": "accessibility-auditor",
@@ -5967,7 +5967,7 @@
         {
           "name": "develop-web-game",
           "file": "develop-web-game/SKILL.md",
-          "size": 9248
+          "size": 9260
         },
         {
           "name": "diagrammer",
@@ -5992,12 +5992,12 @@
         {
           "name": "figma",
           "file": "figma/SKILL.md",
-          "size": 3185
+          "size": 3197
         },
         {
           "name": "figma-implement-design",
           "file": "figma-implement-design/SKILL.md",
-          "size": 11528
+          "size": 11540
         },
         {
           "name": "frontend-design",
@@ -6017,7 +6017,7 @@
         {
           "name": "interactive-portfolio",
           "file": "interactive-portfolio/SKILL.md",
-          "size": 5463
+          "size": 5475
         },
         {
           "name": "luma-imagegen",
@@ -6047,7 +6047,7 @@
         {
           "name": "patentfig",
           "file": "patentfig/SKILL.md",
-          "size": 4836
+          "size": 4842
         },
         {
           "name": "premium-web-design",
@@ -6062,7 +6062,7 @@
         {
           "name": "scroll-experience",
           "file": "scroll-experience/SKILL.md",
-          "size": 6051
+          "size": 6063
         },
         {
           "name": "slack-gif-creator",
@@ -6104,79 +6104,79 @@
         {
           "name": "curviate",
           "file": "curviate/SKILL.md",
-          "size": 5686
+          "size": 5704
         },
         {
           "name": "curviate-engage",
           "file": "curviate-engage/SKILL.md",
-          "size": 15226
+          "size": 15244
         },
         {
           "name": "curviate-inbox",
           "file": "curviate-inbox/SKILL.md",
-          "size": 18117
+          "size": 18135
         },
         {
           "name": "curviate-jobs",
           "file": "curviate-jobs/SKILL.md",
-          "size": 10934
+          "size": 10952
         },
         {
           "name": "curviate-network",
           "file": "curviate-network/SKILL.md",
-          "size": 10542
+          "size": 10560
         },
         {
           "name": "curviate-premium",
           "file": "curviate-premium/SKILL.md",
-          "size": 18622
+          "size": 18640
         },
         {
           "name": "curviate-profile",
           "file": "curviate-profile/SKILL.md",
-          "size": 30491
+          "size": 30509
         },
         {
           "name": "curviate-quickstart",
           "file": "curviate-quickstart/SKILL.md",
-          "size": 11432
+          "size": 11450
         },
         {
           "name": "curviate-search",
           "file": "curviate-search/SKILL.md",
-          "size": 13436
+          "size": 13454
         }
       ],
       "database": [
         {
           "name": "alloydb-basics",
           "file": "alloydb-basics/SKILL.md",
-          "size": 2442
+          "size": 2454
         },
         {
           "name": "bigquery-basics",
           "file": "bigquery-basics/SKILL.md",
-          "size": 4599
+          "size": 4611
         },
         {
           "name": "cloud-sql-basics",
           "file": "cloud-sql-basics/SKILL.md",
-          "size": 3239
+          "size": 3251
         },
         {
           "name": "database-architect",
           "file": "database-architect/SKILL.md",
-          "size": 17013
+          "size": 17029
         },
         {
           "name": "database-migration",
           "file": "database-migration/SKILL.md",
-          "size": 11069
+          "size": 11085
         },
         {
           "name": "database-optimizer",
           "file": "database-optimizer/SKILL.md",
-          "size": 10046
+          "size": 10062
         },
         {
           "name": "neon-instagres",
@@ -6191,17 +6191,17 @@
         {
           "name": "postgresql",
           "file": "postgresql/SKILL.md",
-          "size": 16973
+          "size": 16989
         },
         {
           "name": "postgresql-optimization",
           "file": "postgresql-optimization/SKILL.md",
-          "size": 3803
+          "size": 3821
         },
         {
           "name": "sql-pro",
           "file": "sql-pro/SKILL.md",
-          "size": 7764
+          "size": 7780
         },
         {
           "name": "supabase-postgres-best-practices",
@@ -6235,7 +6235,7 @@
         {
           "name": "agent-development",
           "file": "agent-development/SKILL.md",
-          "size": 10430
+          "size": 10442
         },
         {
           "name": "agent-md-refactor",
@@ -6250,22 +6250,22 @@
         {
           "name": "algolia-search",
           "file": "algolia-search/SKILL.md",
-          "size": 1971
+          "size": 1983
         },
         {
           "name": "android-cicd",
           "file": "android-cicd/SKILL.md",
-          "size": 8775
+          "size": 8781
         },
         {
           "name": "angular",
           "file": "angular/SKILL.md",
-          "size": 20148
+          "size": 20164
         },
         {
           "name": "api-design-principles",
           "file": "api-design-principles/SKILL.md",
-          "size": 1474
+          "size": 1490
         },
         {
           "name": "api-documentation-generator",
@@ -6290,12 +6290,12 @@
         {
           "name": "architecture-decision-records",
           "file": "architecture-decision-records/SKILL.md",
-          "size": 12992
+          "size": 13008
         },
         {
           "name": "architecture-patterns",
           "file": "architecture-patterns/SKILL.md",
-          "size": 1931
+          "size": 1947
         },
         {
           "name": "artifacts-builder",
@@ -6305,7 +6305,7 @@
         {
           "name": "async-python-patterns",
           "file": "async-python-patterns/SKILL.md",
-          "size": 1719
+          "size": 1735
         },
         {
           "name": "avalonia-layout-zafiro",
@@ -6325,17 +6325,17 @@
         {
           "name": "aws-serverless",
           "file": "aws-serverless/SKILL.md",
-          "size": 7870
+          "size": 7882
         },
         {
           "name": "azure-functions",
           "file": "azure-functions/SKILL.md",
-          "size": 1386
+          "size": 1398
         },
         {
           "name": "backend-architect",
           "file": "backend-architect/SKILL.md",
-          "size": 18583
+          "size": 18599
         },
         {
           "name": "backend-dev-guidelines",
@@ -6350,7 +6350,7 @@
         {
           "name": "bash-pro",
           "file": "bash-pro/SKILL.md",
-          "size": 18370
+          "size": 18386
         },
         {
           "name": "best-practices",
@@ -6375,7 +6375,7 @@
         {
           "name": "bullmq-specialist",
           "file": "bullmq-specialist/SKILL.md",
-          "size": 1537
+          "size": 1549
         },
         {
           "name": "bun-development",
@@ -6385,47 +6385,47 @@
         {
           "name": "c-pro",
           "file": "c-pro/SKILL.md",
-          "size": 1529
+          "size": 1545
         },
         {
           "name": "cc-skill-backend-patterns",
           "file": "cc-skill-backend-patterns/SKILL.md",
-          "size": 13206
+          "size": 13220
         },
         {
           "name": "cc-skill-clickhouse-io",
           "file": "cc-skill-clickhouse-io/SKILL.md",
-          "size": 10003
+          "size": 10017
         },
         {
           "name": "cc-skill-coding-standards",
           "file": "cc-skill-coding-standards/SKILL.md",
-          "size": 11429
+          "size": 11443
         },
         {
           "name": "cc-skill-continuous-learning",
           "file": "cc-skill-continuous-learning/SKILL.md",
-          "size": 192
+          "size": 206
         },
         {
           "name": "cc-skill-frontend-patterns",
           "file": "cc-skill-frontend-patterns/SKILL.md",
-          "size": 14342
+          "size": 14356
         },
         {
           "name": "cc-skill-project-guidelines-example",
           "file": "cc-skill-project-guidelines-example/SKILL.md",
-          "size": 9797
+          "size": 9811
         },
         {
           "name": "cc-skill-security-review",
           "file": "cc-skill-security-review/SKILL.md",
-          "size": 12233
+          "size": 12247
         },
         {
           "name": "cc-skill-strategic-compact",
           "file": "cc-skill-strategic-compact/SKILL.md",
-          "size": 188
+          "size": 202
         },
         {
           "name": "changelog-generator",
@@ -6445,27 +6445,27 @@
         {
           "name": "clean-code",
           "file": "clean-code/SKILL.md",
-          "size": 6676
+          "size": 6690
         },
         {
           "name": "clerk-auth",
           "file": "clerk-auth/SKILL.md",
-          "size": 1506
+          "size": 1518
         },
         {
           "name": "cloud-architect",
           "file": "cloud-architect/SKILL.md",
-          "size": 7766
+          "size": 7782
         },
         {
           "name": "cloud-devops",
           "file": "cloud-devops/SKILL.md",
-          "size": 5454
+          "size": 5472
         },
         {
           "name": "cloud-run-basics",
           "file": "cloud-run-basics/SKILL.md",
-          "size": 15584
+          "size": 15596
         },
         {
           "name": "cloudflare-deploy",
@@ -6515,7 +6515,7 @@
         {
           "name": "convex",
           "file": "convex/SKILL.md",
-          "size": 25710
+          "size": 25726
         },
         {
           "name": "core-components",
@@ -6530,7 +6530,7 @@
         {
           "name": "cpp-pro",
           "file": "cpp-pro/SKILL.md",
-          "size": 1868
+          "size": 1884
         },
         {
           "name": "create-plan",
@@ -6540,7 +6540,7 @@
         {
           "name": "csharp-pro",
           "file": "csharp-pro/SKILL.md",
-          "size": 2152
+          "size": 2168
         },
         {
           "name": "database-design",
@@ -6585,32 +6585,32 @@
         {
           "name": "django-pro",
           "file": "django-pro/SKILL.md",
-          "size": 6980
+          "size": 6996
         },
         {
           "name": "docker-expert",
           "file": "docker-expert/SKILL.md",
-          "size": 14062
+          "size": 14078
         },
         {
           "name": "domain-driven-design",
           "file": "domain-driven-design/SKILL.md",
-          "size": 2491
+          "size": 2509
         },
         {
           "name": "dotnet-backend",
           "file": "dotnet-backend/SKILL.md",
-          "size": 7732
+          "size": 7748
         },
         {
           "name": "e2e-testing-patterns",
           "file": "e2e-testing-patterns/SKILL.md",
-          "size": 1370
+          "size": 1386
         },
         {
           "name": "elixir-pro",
           "file": "elixir-pro/SKILL.md",
-          "size": 1943
+          "size": 1959
         },
         {
           "name": "environment-setup-guide",
@@ -6630,7 +6630,7 @@
         {
           "name": "event-sourcing-architect",
           "file": "event-sourcing-architect/SKILL.md",
-          "size": 2636
+          "size": 2652
         },
         {
           "name": "executing-plans",
@@ -6640,7 +6640,7 @@
         {
           "name": "fastapi-pro",
           "file": "fastapi-pro/SKILL.md",
-          "size": 6436
+          "size": 6452
         },
         {
           "name": "fastmcp-server",
@@ -6660,17 +6660,17 @@
         {
           "name": "firebase",
           "file": "firebase/SKILL.md",
-          "size": 1783
+          "size": 1795
         },
         {
           "name": "firebase-basics",
           "file": "firebase-basics/SKILL.md",
-          "size": 3398
+          "size": 3410
         },
         {
           "name": "flutter-expert",
           "file": "flutter-expert/SKILL.md",
-          "size": 9340
+          "size": 9356
         },
         {
           "name": "frontend-dev-guidelines",
@@ -6680,7 +6680,7 @@
         {
           "name": "gcp-cloud-run",
           "file": "gcp-cloud-run/SKILL.md",
-          "size": 6941
+          "size": 6953
         },
         {
           "name": "gh-address-comments",
@@ -6720,52 +6720,52 @@
         {
           "name": "golang-pro",
           "file": "golang-pro/SKILL.md",
-          "size": 7421
+          "size": 7437
         },
         {
           "name": "google-cloud-networking-observability",
           "file": "google-cloud-networking-observability/SKILL.md",
-          "size": 7191
+          "size": 7203
         },
         {
           "name": "google-cloud-onboarding",
           "file": "google-cloud-onboarding/SKILL.md",
-          "size": 6092
+          "size": 6104
         },
         {
           "name": "google-cloud-waf-cost-optimization",
           "file": "google-cloud-waf-cost-optimization/SKILL.md",
-          "size": 6630
+          "size": 6642
         },
         {
           "name": "google-cloud-waf-reliability",
           "file": "google-cloud-waf-reliability/SKILL.md",
-          "size": 7023
+          "size": 7035
         },
         {
           "name": "grafana-dashboards",
           "file": "grafana-dashboards/SKILL.md",
-          "size": 8657
+          "size": 8673
         },
         {
           "name": "graphql",
           "file": "graphql/SKILL.md",
-          "size": 2508
+          "size": 2520
         },
         {
           "name": "graphql-architect",
           "file": "graphql-architect/SKILL.md",
-          "size": 7306
+          "size": 7322
         },
         {
           "name": "haskell-pro",
           "file": "haskell-pro/SKILL.md",
-          "size": 2202
+          "size": 2218
         },
         {
           "name": "helm-chart-scaffolding",
           "file": "helm-chart-scaffolding/SKILL.md",
-          "size": 1203
+          "size": 1219
         },
         {
           "name": "heygen-best-practices",
@@ -6780,7 +6780,7 @@
         {
           "name": "hubspot-integration",
           "file": "hubspot-integration/SKILL.md",
-          "size": 1067
+          "size": 1079
         },
         {
           "name": "i18n-localization",
@@ -6790,12 +6790,12 @@
         {
           "name": "incident-responder",
           "file": "incident-responder/SKILL.md",
-          "size": 10235
+          "size": 10251
         },
         {
           "name": "internet-court",
           "file": "internet-court/SKILL.md",
-          "size": 2969
+          "size": 2985
         },
         {
           "name": "it-operations",
@@ -6805,7 +6805,7 @@
         {
           "name": "java-pro",
           "file": "java-pro/SKILL.md",
-          "size": 8210
+          "size": 8226
         },
         {
           "name": "javascript-mastery",
@@ -6815,17 +6815,17 @@
         {
           "name": "javascript-pro",
           "file": "javascript-pro/SKILL.md",
-          "size": 1696
+          "size": 1712
         },
         {
           "name": "javascript-testing-patterns",
           "file": "javascript-testing-patterns/SKILL.md",
-          "size": 1344
+          "size": 1360
         },
         {
           "name": "jupyter-notebook",
           "file": "jupyter-notebook/SKILL.md",
-          "size": 4169
+          "size": 4181
         },
         {
           "name": "k6-load-testing",
@@ -6835,17 +6835,17 @@
         {
           "name": "kotlin-coroutines-expert",
           "file": "kotlin-coroutines-expert/SKILL.md",
-          "size": 3060
+          "size": 3076
         },
         {
           "name": "kubernetes-architect",
           "file": "kubernetes-architect/SKILL.md",
-          "size": 9902
+          "size": 9918
         },
         {
           "name": "laravel-expert",
           "file": "laravel-expert/SKILL.md",
-          "size": 3871
+          "size": 3887
         },
         {
           "name": "lint-and-validate",
@@ -6875,17 +6875,17 @@
         {
           "name": "mermaid-diagram-specialist",
           "file": "mermaid-diagram-specialist/SKILL.md",
-          "size": 15273
+          "size": 15297
         },
         {
           "name": "microservices-patterns",
           "file": "microservices-patterns/SKILL.md",
-          "size": 1374
+          "size": 1390
         },
         {
           "name": "monorepo-architect",
           "file": "monorepo-architect/SKILL.md",
-          "size": 2166
+          "size": 2182
         },
         {
           "name": "moodle-external-api-development",
@@ -6905,17 +6905,17 @@
         {
           "name": "neon-postgres",
           "file": "neon-postgres/SKILL.md",
-          "size": 1588
+          "size": 1600
         },
         {
           "name": "nestjs-expert",
           "file": "nestjs-expert/SKILL.md",
-          "size": 21444
+          "size": 21460
         },
         {
           "name": "netlify-deploy",
           "file": "netlify-deploy/SKILL.md",
-          "size": 7026
+          "size": 7038
         },
         {
           "name": "nextjs-best-practices",
@@ -6925,12 +6925,12 @@
         {
           "name": "nextjs-supabase-auth",
           "file": "nextjs-supabase-auth/SKILL.md",
-          "size": 1389
+          "size": 1401
         },
         {
           "name": "nodejs-backend-patterns",
           "file": "nodejs-backend-patterns/SKILL.md",
-          "size": 1344
+          "size": 1360
         },
         {
           "name": "nodejs-best-practices",
@@ -6945,7 +6945,7 @@
         {
           "name": "observability-engineer",
           "file": "observability-engineer/SKILL.md",
-          "size": 12982
+          "size": 12998
         },
         {
           "name": "openapi-to-typescript",
@@ -6965,27 +6965,27 @@
         {
           "name": "php-pro",
           "file": "php-pro/SKILL.md",
-          "size": 2620
+          "size": 2636
         },
         {
           "name": "plaid-fintech",
           "file": "plaid-fintech/SKILL.md",
-          "size": 1459
+          "size": 1471
         },
         {
           "name": "playwright",
           "file": "playwright/SKILL.md",
-          "size": 3786
+          "size": 3798
         },
         {
           "name": "playwright-e2e-builder",
           "file": "playwright-e2e-builder/SKILL.md",
-          "size": 21215
+          "size": 21227
         },
         {
           "name": "playwright-java",
           "file": "playwright-java/SKILL.md",
-          "size": 13655
+          "size": 13679
         },
         {
           "name": "plugin-forge",
@@ -7025,12 +7025,12 @@
         {
           "name": "prometheus-configuration",
           "file": "prometheus-configuration/SKILL.md",
-          "size": 10628
+          "size": 10644
         },
         {
           "name": "pudu-task-telemetry",
           "file": "pudu-task-telemetry/SKILL.md",
-          "size": 4997
+          "size": 5009
         },
         {
           "name": "python-patterns",
@@ -7040,12 +7040,12 @@
         {
           "name": "python-pro",
           "file": "python-pro/SKILL.md",
-          "size": 7285
+          "size": 7301
         },
         {
           "name": "python-testing-patterns",
           "file": "python-testing-patterns/SKILL.md",
-          "size": 1413
+          "size": 1429
         },
         {
           "name": "react-best-practices",
@@ -7090,32 +7090,32 @@
         {
           "name": "ruby-pro",
           "file": "ruby-pro/SKILL.md",
-          "size": 1777
+          "size": 1793
         },
         {
           "name": "rust-cli-builder",
           "file": "rust-cli-builder/SKILL.md",
-          "size": 15796
+          "size": 15808
         },
         {
           "name": "rust-pro",
           "file": "rust-pro/SKILL.md",
-          "size": 7435
+          "size": 7451
         },
         {
           "name": "saas-multi-tenant",
           "file": "saas-multi-tenant/SKILL.md",
-          "size": 12608
+          "size": 12628
         },
         {
           "name": "salesforce-development",
           "file": "salesforce-development/SKILL.md",
-          "size": 1512
+          "size": 1524
         },
         {
           "name": "scala-pro",
           "file": "scala-pro/SKILL.md",
-          "size": 5540
+          "size": 5556
         },
         {
           "name": "screenshot-feature-extractor",
@@ -7230,7 +7230,7 @@
         {
           "name": "stripe-integration",
           "file": "stripe-integration/SKILL.md",
-          "size": 2545
+          "size": 9962
         },
         {
           "name": "subagent-driven-development",
@@ -7245,7 +7245,7 @@
         {
           "name": "swift-concurrency-expert",
           "file": "swift-concurrency-expert/SKILL.md",
-          "size": 4292
+          "size": 4308
         },
         {
           "name": "systematic-debugging",
@@ -7260,7 +7260,7 @@
         {
           "name": "tdd-orchestrator",
           "file": "tdd-orchestrator/SKILL.md",
-          "size": 10272
+          "size": 10288
         },
         {
           "name": "tdd-workflow",
@@ -7275,7 +7275,7 @@
         {
           "name": "terraform-specialist",
           "file": "terraform-specialist/SKILL.md",
-          "size": 9062
+          "size": 9078
         },
         {
           "name": "test-detect",
@@ -7305,7 +7305,7 @@
         {
           "name": "typescript-pro",
           "file": "typescript-pro/SKILL.md",
-          "size": 2092
+          "size": 2108
         },
         {
           "name": "using-git-worktrees",
@@ -7320,12 +7320,12 @@
         {
           "name": "vercel-deploy",
           "file": "vercel-deploy/SKILL.md",
-          "size": 2215
+          "size": 2227
         },
         {
           "name": "vercel-deployment",
           "file": "vercel-deployment/SKILL.md",
-          "size": 2144
+          "size": 2156
         },
         {
           "name": "verification-before-completion",
@@ -7382,7 +7382,7 @@
         {
           "name": "doc",
           "file": "doc/SKILL.md",
-          "size": 3003
+          "size": 3015
         },
         {
           "name": "documentation-templates",
@@ -7457,7 +7457,7 @@
         {
           "name": "spreadsheet",
           "file": "spreadsheet/SKILL.md",
-          "size": 5096
+          "size": 5108
         },
         {
           "name": "xlsx",
@@ -7474,22 +7474,22 @@
         {
           "name": "doordash-allergy-shield",
           "file": "doordash-allergy-shield/SKILL.md",
-          "size": 5393
+          "size": 5405
         },
         {
           "name": "doordash-group-orders",
           "file": "doordash-group-orders/SKILL.md",
-          "size": 5411
+          "size": 5423
         },
         {
           "name": "doordash-order-ledger",
           "file": "doordash-order-ledger/SKILL.md",
-          "size": 3687
+          "size": 3699
         },
         {
           "name": "doordash-order-playbooks",
           "file": "doordash-order-playbooks/SKILL.md",
-          "size": 6314
+          "size": 6326
         },
         {
           "name": "doordash-spend-guard",
@@ -7531,7 +7531,7 @@
         {
           "name": "discord-bot-architect",
           "file": "discord-bot-architect/SKILL.md",
-          "size": 8171
+          "size": 8183
         },
         {
           "name": "email-composer",
@@ -7636,7 +7636,7 @@
         {
           "name": "slack-bot-builder",
           "file": "slack-bot-builder/SKILL.md",
-          "size": 8779
+          "size": 8791
         },
         {
           "name": "slack-gif-creator",
@@ -7646,17 +7646,17 @@
         {
           "name": "telegram-bot-builder",
           "file": "telegram-bot-builder/SKILL.md",
-          "size": 6033
+          "size": 6045
         },
         {
           "name": "telegram-mini-app",
           "file": "telegram-mini-app/SKILL.md",
-          "size": 6168
+          "size": 6180
         },
         {
           "name": "twilio-communications",
           "file": "twilio-communications/SKILL.md",
-          "size": 9006
+          "size": 9018
         },
         {
           "name": "writing-clearly-and-concisely",
@@ -7679,6 +7679,11 @@
           "name": "star-history-chart",
           "file": "star-history-chart/SKILL.md",
           "size": 4391
+        },
+        {
+          "name": "worktree-cleaner",
+          "file": "worktree-cleaner/SKILL.md",
+          "size": 12885
         }
       ],
       "gmod-addon-maker": [
@@ -7686,6 +7691,11 @@
           "name": "SKILL",
           "file": "SKILL.md",
           "size": 2389
+        },
+        {
+          "name": "references/state-exp",
+          "file": "references/state-exp.md",
+          "size": 6679
         },
         {
           "name": "references/common-error",
@@ -7696,11 +7706,6 @@
           "name": "references/addon-structure",
           "file": "references/addon-structure.md",
           "size": 4628
-        },
-        {
-          "name": "references/state-exp",
-          "file": "references/state-exp.md",
-          "size": 6679
         }
       ],
       "marketing": [
@@ -7719,7 +7724,7 @@
         {
           "name": "screenshot",
           "file": "screenshot/SKILL.md",
-          "size": 7769
+          "size": 7781
         },
         {
           "name": "speech",
@@ -7729,7 +7734,7 @@
         {
           "name": "transcribe",
           "file": "transcribe/SKILL.md",
-          "size": 2849
+          "size": 2861
         },
         {
           "name": "video-downloader",
@@ -7780,32 +7785,32 @@
         {
           "name": "pb-api-rules",
           "file": "pb-api-rules/SKILL.md",
-          "size": 6743
+          "size": 6733
         },
         {
           "name": "pb-collections",
           "file": "pb-collections/SKILL.md",
-          "size": 5152
+          "size": 5142
         },
         {
           "name": "pb-deploy",
           "file": "pb-deploy/SKILL.md",
-          "size": 9419
+          "size": 9409
         },
         {
           "name": "pb-hooks",
           "file": "pb-hooks/SKILL.md",
-          "size": 16546
+          "size": 16536
         },
         {
           "name": "pb-migrations",
           "file": "pb-migrations/SKILL.md",
-          "size": 9121
+          "size": 9111
         },
         {
           "name": "pb-sdk",
           "file": "pb-sdk/SKILL.md",
-          "size": 10679
+          "size": 10669
         }
       ],
       "productivity": [
@@ -7822,7 +7827,7 @@
         {
           "name": "avoid-ai-writing",
           "file": "avoid-ai-writing/SKILL.md",
-          "size": 90072
+          "size": 90080
         },
         {
           "name": "brainstorming",
@@ -7837,12 +7842,12 @@
         {
           "name": "code-review-excellence",
           "file": "code-review-excellence/SKILL.md",
-          "size": 1399
+          "size": 1415
         },
         {
           "name": "code-simplifier",
           "file": "code-simplifier/SKILL.md",
-          "size": 3995
+          "size": 4009
         },
         {
           "name": "commit-work",
@@ -7867,12 +7872,12 @@
         {
           "name": "debugger",
           "file": "debugger/SKILL.md",
-          "size": 1335
+          "size": 1351
         },
         {
           "name": "debugging-strategies",
           "file": "debugging-strategies/SKILL.md",
-          "size": 1231
+          "size": 1247
         },
         {
           "name": "devil",
@@ -7912,7 +7917,7 @@
         {
           "name": "humanizer",
           "file": "humanizer/SKILL.md",
-          "size": 17858
+          "size": 17870
         },
         {
           "name": "invoice-organizer",
@@ -7972,7 +7977,7 @@
         {
           "name": "notion-template-business",
           "file": "notion-template-business/SKILL.md",
-          "size": 5443
+          "size": 5455
         },
         {
           "name": "nowait",
@@ -7987,12 +7992,12 @@
         {
           "name": "performance-optimizer",
           "file": "performance-optimizer/SKILL.md",
-          "size": 8522
+          "size": 8540
         },
         {
           "name": "personal-tool-builder",
           "file": "personal-tool-builder/SKILL.md",
-          "size": 7114
+          "size": 7126
         },
         {
           "name": "plan-writing",
@@ -8002,7 +8007,7 @@
         {
           "name": "planning-with-files",
           "file": "planning-with-files/SKILL.md",
-          "size": 6629
+          "size": 6641
         },
         {
           "name": "raffle-winner-picker",
@@ -8064,62 +8069,62 @@
         {
           "name": "database",
           "file": "database/SKILL.md",
-          "size": 7894
+          "size": 7912
         },
         {
           "name": "deploy",
           "file": "deploy/SKILL.md",
-          "size": 3504
+          "size": 3522
         },
         {
           "name": "deployment",
           "file": "deployment/SKILL.md",
-          "size": 6162
+          "size": 6180
         },
         {
           "name": "domain",
           "file": "domain/SKILL.md",
-          "size": 2976
+          "size": 2994
         },
         {
           "name": "environment",
           "file": "environment/SKILL.md",
-          "size": 10941
+          "size": 10959
         },
         {
           "name": "metrics",
           "file": "metrics/SKILL.md",
-          "size": 6021
+          "size": 6039
         },
         {
           "name": "new",
           "file": "new/SKILL.md",
-          "size": 13231
+          "size": 13249
         },
         {
           "name": "projects",
           "file": "projects/SKILL.md",
-          "size": 3579
+          "size": 3597
         },
         {
           "name": "railway-docs",
           "file": "railway-docs/SKILL.md",
-          "size": 1993
+          "size": 2011
         },
         {
           "name": "service",
           "file": "service/SKILL.md",
-          "size": 6774
+          "size": 6792
         },
         {
           "name": "status",
           "file": "status/SKILL.md",
-          "size": 2525
+          "size": 2543
         },
         {
           "name": "templates",
           "file": "templates/SKILL.md",
-          "size": 4052
+          "size": 4070
         }
       ],
       "scientific": [
@@ -8808,7 +8813,7 @@
         {
           "name": "api-fuzzing-bug-bounty",
           "file": "api-fuzzing-bug-bounty/SKILL.md",
-          "size": 10290
+          "size": 10286
         },
         {
           "name": "api-security-best-practices",
@@ -8818,7 +8823,7 @@
         {
           "name": "api-security-testing",
           "file": "api-security-testing/SKILL.md",
-          "size": 3606
+          "size": 3624
         },
         {
           "name": "aws-penetration-testing",
@@ -8828,12 +8833,12 @@
         {
           "name": "broken-authentication",
           "file": "broken-authentication/SKILL.md",
-          "size": 12614
+          "size": 12606
         },
         {
           "name": "burp-suite-testing",
           "file": "burp-suite-testing/SKILL.md",
-          "size": 10918
+          "size": 10902
         },
         {
           "name": "cloud-penetration-testing",
@@ -8858,17 +8863,17 @@
         {
           "name": "file-uploads",
           "file": "file-uploads/SKILL.md",
-          "size": 953
+          "size": 965
         },
         {
           "name": "google-cloud-auth",
           "file": "google-cloud-auth/SKILL.md",
-          "size": 12089
+          "size": 12101
         },
         {
           "name": "google-cloud-waf-security",
           "file": "google-cloud-waf-security/SKILL.md",
-          "size": 14512
+          "size": 14524
         },
         {
           "name": "html-injection-testing",
@@ -8878,7 +8883,7 @@
         {
           "name": "idor-testing",
           "file": "idor-testing/SKILL.md",
-          "size": 12603
+          "size": 12589
         },
         {
           "name": "incident-reporting-navigator",
@@ -8918,7 +8923,7 @@
         {
           "name": "red-team-tools",
           "file": "red-team-tools/SKILL.md",
-          "size": 7797
+          "size": 7781
         },
         {
           "name": "regulatory-threat-model",
@@ -8928,7 +8933,7 @@
         {
           "name": "sast-configuration",
           "file": "sast-configuration/SKILL.md",
-          "size": 6227
+          "size": 6243
         },
         {
           "name": "scanning-tools",
@@ -8938,12 +8943,12 @@
         {
           "name": "secrets-management",
           "file": "secrets-management/SKILL.md",
-          "size": 8055
+          "size": 8071
         },
         {
           "name": "security-audit",
           "file": "security-audit/SKILL.md",
-          "size": 5195
+          "size": 5213
         },
         {
           "name": "security-best-practices",
@@ -8958,12 +8963,12 @@
         {
           "name": "security-threat-model",
           "file": "security-threat-model/SKILL.md",
-          "size": 5576
+          "size": 5588
         },
         {
           "name": "shodan-reconnaissance",
           "file": "shodan-reconnaissance/SKILL.md",
-          "size": 13821
+          "size": 13806
         },
         {
           "name": "smtp-penetration-testing",
@@ -8978,7 +8983,7 @@
         {
           "name": "sqlmap-database-pentesting",
           "file": "sqlmap-database-pentesting/SKILL.md",
-          "size": 12026
+          "size": 12017
         },
         {
           "name": "ssh-penetration-testing",
@@ -8993,12 +8998,12 @@
         {
           "name": "threat-modeling-expert",
           "file": "threat-modeling-expert/SKILL.md",
-          "size": 2113
+          "size": 2129
         },
         {
           "name": "top-web-vulnerabilities",
           "file": "top-web-vulnerabilities/SKILL.md",
-          "size": 24268
+          "size": 24254
         },
         {
           "name": "vulnerability-scanner",
@@ -9008,7 +9013,7 @@
         {
           "name": "web-security-testing",
           "file": "web-security-testing/SKILL.md",
-          "size": 3999
+          "size": 4017
         },
         {
           "name": "webapp-testing",
@@ -9023,7 +9028,7 @@
         {
           "name": "wireshark-analysis",
           "file": "wireshark-analysis/SKILL.md",
-          "size": 12180
+          "size": 12164
         },
         {
           "name": "wordpress-penetration-testing",
@@ -9079,12 +9084,12 @@
         {
           "name": "browser-automation",
           "file": "browser-automation/SKILL.md",
-          "size": 2286
+          "size": 2298
         },
         {
           "name": "browser-extension-builder",
           "file": "browser-extension-builder/SKILL.md",
-          "size": 5977
+          "size": 5989
         },
         {
           "name": "busybox-on-windows",
@@ -9141,12 +9146,12 @@
         {
           "name": "manim",
           "file": "manim/SKILL.md",
-          "size": 4735
+          "size": 4755
         },
         {
           "name": "motion-canvas",
           "file": "motion-canvas/SKILL.md",
-          "size": 11471
+          "size": 11491
         },
         {
           "name": "remotion",
@@ -9200,7 +9205,7 @@
         {
           "name": "astro",
           "file": "astro/SKILL.md",
-          "size": 10222
+          "size": 10246
         },
         {
           "name": "blockrun",
@@ -9210,22 +9215,22 @@
         {
           "name": "building-blog",
           "file": "building-blog/SKILL.md",
-          "size": 3796
+          "size": 3812
         },
         {
           "name": "chrome-extension-developer",
           "file": "chrome-extension-developer/SKILL.md",
-          "size": 3243
+          "size": 3259
         },
         {
           "name": "drizzle-orm-expert",
           "file": "drizzle-orm-expert/SKILL.md",
-          "size": 10419
+          "size": 10435
         },
         {
           "name": "electron-development",
           "file": "electron-development/SKILL.md",
-          "size": 28396
+          "size": 28412
         },
         {
           "name": "exa-search",
@@ -9235,12 +9240,12 @@
         {
           "name": "expo-deployment",
           "file": "expo-deployment/SKILL.md",
-          "size": 2071
+          "size": 2087
         },
         {
           "name": "fastapi-endpoint",
           "file": "fastapi-endpoint/SKILL.md",
-          "size": 15524
+          "size": 15536
         },
         {
           "name": "firecrawl-scraper",
@@ -9250,37 +9255,37 @@
         {
           "name": "hono",
           "file": "hono/SKILL.md",
-          "size": 10433
+          "size": 10457
         },
         {
           "name": "nextjs-app-router-patterns",
           "file": "nextjs-app-router-patterns/SKILL.md",
-          "size": 1181
+          "size": 1197
         },
         {
           "name": "progressive-web-app",
           "file": "progressive-web-app/SKILL.md",
-          "size": 12618
+          "size": 12638
         },
         {
           "name": "react-best-practices",
           "file": "react-best-practices/SKILL.md",
-          "size": 7357
+          "size": 7375
         },
         {
           "name": "react-component-performance",
           "file": "react-component-performance/SKILL.md",
-          "size": 4763
+          "size": 4779
         },
         {
           "name": "react-native-architecture",
           "file": "react-native-architecture/SKILL.md",
-          "size": 1215
+          "size": 1231
         },
         {
           "name": "react-state-management",
           "file": "react-state-management/SKILL.md",
-          "size": 11913
+          "size": 11929
         },
         {
           "name": "roier-seo",
@@ -9290,7 +9295,7 @@
         {
           "name": "segment-cdp",
           "file": "segment-cdp/SKILL.md",
-          "size": 1423
+          "size": 1435
         },
         {
           "name": "shadcn",
@@ -9300,7 +9305,7 @@
         {
           "name": "shopify-apps",
           "file": "shopify-apps/SKILL.md",
-          "size": 1250
+          "size": 1262
         },
         {
           "name": "shopify-development",
@@ -9310,17 +9315,17 @@
         {
           "name": "sveltekit",
           "file": "sveltekit/SKILL.md",
-          "size": 8868
+          "size": 8892
         },
         {
           "name": "tailwind-design-system",
           "file": "tailwind-design-system/SKILL.md",
-          "size": 1186
+          "size": 1202
         },
         {
           "name": "tanstack-query-expert",
           "file": "tanstack-query-expert/SKILL.md",
-          "size": 9054
+          "size": 9070
         },
         {
           "name": "tavily-web",
@@ -9330,7 +9335,7 @@
         {
           "name": "upstash-qstash",
           "file": "upstash-qstash/SKILL.md",
-          "size": 2397
+          "size": 2409
         },
         {
           "name": "web-performance-optimization",
@@ -9340,12 +9345,12 @@
         {
           "name": "zod-validation-expert",
           "file": "zod-validation-expert/SKILL.md",
-          "size": 9608
+          "size": 9624
         },
         {
           "name": "zustand-store-ts",
           "file": "zustand-store-ts/SKILL.md",
-          "size": 1708
+          "size": 1724
         }
       ],
       "workflow-automation": [
@@ -9357,12 +9362,12 @@
         {
           "name": "github-actions-templates",
           "file": "github-actions-templates/SKILL.md",
-          "size": 7600
+          "size": 7616
         },
         {
           "name": "github-automation",
           "file": "github-automation/SKILL.md",
-          "size": 11368
+          "size": 11384
         },
         {
           "name": "github-workflow-automation",
@@ -9377,17 +9382,17 @@
         {
           "name": "inngest",
           "file": "inngest/SKILL.md",
-          "size": 1527
+          "size": 1539
         },
         {
           "name": "jira-automation",
           "file": "jira-automation/SKILL.md",
-          "size": 6794
+          "size": 6810
         },
         {
           "name": "linear-automation",
           "file": "linear-automation/SKILL.md",
-          "size": 6054
+          "size": 6070
         },
         {
           "name": "n8n/LICENSE",
@@ -9397,7 +9402,7 @@
         {
           "name": "n8n-workflow-patterns",
           "file": "n8n-workflow-patterns/SKILL.md",
-          "size": 11048
+          "size": 11062
         },
         {
           "name": "planning-with-files",
@@ -9412,27 +9417,27 @@
         {
           "name": "slack-automation",
           "file": "slack-automation/SKILL.md",
-          "size": 9611
+          "size": 9627
         },
         {
           "name": "trigger-dev",
           "file": "trigger-dev/SKILL.md",
-          "size": 2346
+          "size": 2358
         },
         {
           "name": "workflow-automation",
           "file": "workflow-automation/SKILL.md",
-          "size": 2368
+          "size": 2380
         },
         {
           "name": "yeet",
           "file": "yeet/SKILL.md",
-          "size": 1710
+          "size": 1722
         },
         {
           "name": "zapier-make-patterns",
           "file": "zapier-make-patterns/SKILL.md",
-          "size": 2173
+          "size": 2185
         }
       ]
     },
@@ -9656,7 +9661,12 @@
         {
           "name": "read-only-mode",
           "file": "read-only-mode.json",
-          "size": 432
+          "size": 420
+        },
+        {
+          "name": "stripe-mcp-confirm-writes",
+          "file": "stripe-mcp-confirm-writes.json",
+          "size": 700
         }
       ],
       "statusline": [
@@ -9864,11 +9874,11 @@
     },
     "skills": {
       "categories": 32,
-      "templates": 899
+      "templates": 900
     },
     "settings": {
       "categories": 13,
-      "templates": 76
+      "templates": 77
     }
   }
 }
