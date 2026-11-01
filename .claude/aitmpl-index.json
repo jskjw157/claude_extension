@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T03:08:22.577290",
+  "updated_at": "2026-11-01T04:18:33.656705",
   "source": "https://github.com/davila7/claude-code-templates",
   "method": "git-clone",
   "categories": {
@@ -2772,6 +2772,16 @@
           "size": 2815
         },
         {
+          "name": "personas/persona-it-admin",
+          "file": "personas/persona-it-admin.md",
+          "size": 1930
+        },
+        {
+          "name": "personas/persona-content-creator",
+          "file": "personas/persona-content-creator.md",
+          "size": 1974
+        },
+        {
           "name": "personas/persona-team-lead",
           "file": "personas/persona-team-lead.md",
           "size": 2014
@@ -2780,6 +2790,21 @@
           "name": "personas/persona-sales-ops",
           "file": "personas/persona-sales-ops.md",
           "size": 2043
+        },
+        {
+          "name": "personas/persona-customer-support",
+          "file": "personas/persona-customer-support.md",
+          "size": 1976
+        },
+        {
+          "name": "personas/persona-event-coordinator",
+          "file": "personas/persona-event-coordinator.md",
+          "size": 2077
+        },
+        {
+          "name": "personas/persona-exec-assistant",
+          "file": "personas/persona-exec-assistant.md",
+          "size": 2166
         },
         {
           "name": "personas/persona-researcher",
@@ -2792,264 +2817,9 @@
           "size": 2196
         },
         {
-          "name": "personas/persona-it-admin",
-          "file": "personas/persona-it-admin.md",
-          "size": 1930
-        },
-        {
           "name": "personas/persona-hr-coordinator",
           "file": "personas/persona-hr-coordinator.md",
           "size": 2096
-        },
-        {
-          "name": "personas/persona-exec-assistant",
-          "file": "personas/persona-exec-assistant.md",
-          "size": 2166
-        },
-        {
-          "name": "personas/persona-event-coordinator",
-          "file": "personas/persona-event-coordinator.md",
-          "size": 2077
-        },
-        {
-          "name": "personas/persona-customer-support",
-          "file": "personas/persona-customer-support.md",
-          "size": 1976
-        },
-        {
-          "name": "personas/persona-content-creator",
-          "file": "personas/persona-content-creator.md",
-          "size": 1974
-        },
-        {
-          "name": "recipes/recipe-watch-drive-changes",
-          "file": "recipes/recipe-watch-drive-changes.md",
-          "size": 1992
-        },
-        {
-          "name": "recipes/recipe-triage-security-alerts",
-          "file": "recipes/recipe-triage-security-alerts.md",
-          "size": 1825
-        },
-        {
-          "name": "recipes/recipe-transfer-file-ownership",
-          "file": "recipes/recipe-transfer-file-ownership.md",
-          "size": 1955
-        },
-        {
-          "name": "recipes/recipe-sync-contacts-to-sheet",
-          "file": "recipes/recipe-sync-contacts-to-sheet.md",
-          "size": 2052
-        },
-        {
-          "name": "recipes/recipe-share-folder-with-team",
-          "file": "recipes/recipe-share-folder-with-team.md",
-          "size": 2185
-        },
-        {
-          "name": "recipes/recipe-share-event-materials",
-          "file": "recipes/recipe-share-event-materials.md",
-          "size": 1976
-        },
-        {
-          "name": "recipes/recipe-share-doc-and-notify",
-          "file": "recipes/recipe-share-doc-and-notify.md",
-          "size": 2149
-        },
-        {
-          "name": "recipes/recipe-send-team-announcement",
-          "file": "recipes/recipe-send-team-announcement.md",
-          "size": 1844
-        },
-        {
-          "name": "recipes/recipe-send-personalized-emails",
-          "file": "recipes/recipe-send-personalized-emails.md",
-          "size": 1875
-        },
-        {
-          "name": "recipes/recipe-search-and-export-emails",
-          "file": "recipes/recipe-search-and-export-emails.md",
-          "size": 1920
-        },
-        {
-          "name": "recipes/recipe-schedule-recurring-event",
-          "file": "recipes/recipe-schedule-recurring-event.md",
-          "size": 1997
-        },
-        {
-          "name": "recipes/recipe-save-email-to-doc",
-          "file": "recipes/recipe-save-email-to-doc.md",
-          "size": 2069
-        },
-        {
-          "name": "recipes/recipe-save-email-attachments",
-          "file": "recipes/recipe-save-email-attachments.md",
-          "size": 2100
-        },
-        {
-          "name": "recipes/recipe-review-overdue-tasks",
-          "file": "recipes/recipe-review-overdue-tasks.md",
-          "size": 1763
-        },
-        {
-          "name": "recipes/recipe-review-meet-participants",
-          "file": "recipes/recipe-review-meet-participants.md",
-          "size": 1963
-        },
-        {
-          "name": "recipes/recipe-reschedule-meeting",
-          "file": "recipes/recipe-reschedule-meeting.md",
-          "size": 2037
-        },
-        {
-          "name": "recipes/recipe-post-mortem-setup",
-          "file": "recipes/recipe-post-mortem-setup.md",
-          "size": 2039
-        },
-        {
-          "name": "recipes/recipe-plan-weekly-schedule",
-          "file": "recipes/recipe-plan-weekly-schedule.md",
-          "size": 1981
-        },
-        {
-          "name": "recipes/recipe-organize-drive-folder",
-          "file": "recipes/recipe-organize-drive-folder.md",
-          "size": 2146
-        },
-        {
-          "name": "recipes/recipe-log-deal-update",
-          "file": "recipes/recipe-log-deal-update.md",
-          "size": 1991
-        },
-        {
-          "name": "recipes/recipe-label-and-archive-emails",
-          "file": "recipes/recipe-label-and-archive-emails.md",
-          "size": 2034
-        },
-        {
-          "name": "recipes/recipe-generate-report-from-sheet",
-          "file": "recipes/recipe-generate-report-from-sheet.md",
-          "size": 2188
-        },
-        {
-          "name": "recipes/recipe-forward-labeled-emails",
-          "file": "recipes/recipe-forward-labeled-emails.md",
-          "size": 1977
-        },
-        {
-          "name": "recipes/recipe-find-large-files",
-          "file": "recipes/recipe-find-large-files.md",
-          "size": 1939
-        },
-        {
-          "name": "recipes/recipe-find-free-time",
-          "file": "recipes/recipe-find-free-time.md",
-          "size": 1998
-        },
-        {
-          "name": "recipes/recipe-email-drive-link",
-          "file": "recipes/recipe-email-drive-link.md",
-          "size": 2010
-        },
-        {
-          "name": "recipes/recipe-draft-email-from-doc",
-          "file": "recipes/recipe-draft-email-from-doc.md",
-          "size": 1840
-        },
-        {
-          "name": "recipes/recipe-deploy-apps-script",
-          "file": "recipes/recipe-deploy-apps-script.md",
-          "size": 2034
-        },
-        {
-          "name": "recipes/recipe-create-vacation-responder",
-          "file": "recipes/recipe-create-vacation-responder.md",
-          "size": 2146
-        },
-        {
-          "name": "recipes/recipe-create-task-list",
-          "file": "recipes/recipe-create-task-list.md",
-          "size": 2009
-        },
-        {
-          "name": "recipes/recipe-create-shared-drive",
-          "file": "recipes/recipe-create-shared-drive.md",
-          "size": 1984
-        },
-        {
-          "name": "recipes/recipe-create-presentation",
-          "file": "recipes/recipe-create-presentation.md",
-          "size": 1871
-        },
-        {
-          "name": "recipes/recipe-create-meet-space",
-          "file": "recipes/recipe-create-meet-space.md",
-          "size": 1805
-        },
-        {
-          "name": "recipes/recipe-create-gmail-filter",
-          "file": "recipes/recipe-create-gmail-filter.md",
-          "size": 2109
-        },
-        {
-          "name": "recipes/recipe-create-feedback-form",
-          "file": "recipes/recipe-create-feedback-form.md",
-          "size": 1878
-        },
-        {
-          "name": "recipes/recipe-create-expense-tracker",
-          "file": "recipes/recipe-create-expense-tracker.md",
-          "size": 2230
-        },
-        {
-          "name": "recipes/recipe-create-events-from-sheet",
-          "file": "recipes/recipe-create-events-from-sheet.md",
-          "size": 1919
-        },
-        {
-          "name": "recipes/recipe-create-doc-from-template",
-          "file": "recipes/recipe-create-doc-from-template.md",
-          "size": 2081
-        },
-        {
-          "name": "recipes/recipe-create-classroom-course",
-          "file": "recipes/recipe-create-classroom-course.md",
-          "size": 1954
-        },
-        {
-          "name": "recipes/recipe-copy-sheet-for-new-month",
-          "file": "recipes/recipe-copy-sheet-for-new-month.md",
-          "size": 2076
-        },
-        {
-          "name": "recipes/recipe-compare-sheet-tabs",
-          "file": "recipes/recipe-compare-sheet-tabs.md",
-          "size": 1802
-        },
-        {
-          "name": "recipes/recipe-collect-form-responses",
-          "file": "recipes/recipe-collect-form-responses.md",
-          "size": 1761
-        },
-        {
-          "name": "recipes/recipe-cancel-and-notify",
-          "file": "recipes/recipe-cancel-and-notify.md",
-          "size": 2025
-        },
-        {
-          "name": "recipes/recipe-bulk-download-folder",
-          "file": "recipes/recipe-bulk-download-folder.md",
-          "size": 1886
-        },
-        {
-          "name": "recipes/recipe-block-focus-time",
-          "file": "recipes/recipe-block-focus-time.md",
-          "size": 2053
-        },
-        {
-          "name": "recipes/recipe-batch-reply-to-emails",
-          "file": "recipes/recipe-batch-reply-to-emails.md",
-          "size": 2157
         },
         {
           "name": "recipes/recipe-batch-rename-files",
@@ -3057,9 +2827,79 @@
           "size": 1938
         },
         {
+          "name": "recipes/recipe-label-and-archive-emails",
+          "file": "recipes/recipe-label-and-archive-emails.md",
+          "size": 2034
+        },
+        {
+          "name": "recipes/recipe-review-overdue-tasks",
+          "file": "recipes/recipe-review-overdue-tasks.md",
+          "size": 1763
+        },
+        {
           "name": "recipes/recipe-batch-invite-to-event",
           "file": "recipes/recipe-batch-invite-to-event.md",
           "size": 2067
+        },
+        {
+          "name": "recipes/recipe-transfer-file-ownership",
+          "file": "recipes/recipe-transfer-file-ownership.md",
+          "size": 1955
+        },
+        {
+          "name": "recipes/recipe-create-expense-tracker",
+          "file": "recipes/recipe-create-expense-tracker.md",
+          "size": 2230
+        },
+        {
+          "name": "recipes/recipe-share-folder-with-team",
+          "file": "recipes/recipe-share-folder-with-team.md",
+          "size": 2185
+        },
+        {
+          "name": "recipes/recipe-share-doc-and-notify",
+          "file": "recipes/recipe-share-doc-and-notify.md",
+          "size": 2149
+        },
+        {
+          "name": "recipes/recipe-create-feedback-form",
+          "file": "recipes/recipe-create-feedback-form.md",
+          "size": 1878
+        },
+        {
+          "name": "recipes/recipe-block-focus-time",
+          "file": "recipes/recipe-block-focus-time.md",
+          "size": 2053
+        },
+        {
+          "name": "recipes/recipe-bulk-download-folder",
+          "file": "recipes/recipe-bulk-download-folder.md",
+          "size": 1886
+        },
+        {
+          "name": "recipes/recipe-audit-external-sharing",
+          "file": "recipes/recipe-audit-external-sharing.md",
+          "size": 1978
+        },
+        {
+          "name": "recipes/recipe-email-drive-link",
+          "file": "recipes/recipe-email-drive-link.md",
+          "size": 2010
+        },
+        {
+          "name": "recipes/recipe-triage-security-alerts",
+          "file": "recipes/recipe-triage-security-alerts.md",
+          "size": 1825
+        },
+        {
+          "name": "recipes/recipe-create-shared-drive",
+          "file": "recipes/recipe-create-shared-drive.md",
+          "size": 1984
+        },
+        {
+          "name": "recipes/recipe-log-deal-update",
+          "file": "recipes/recipe-log-deal-update.md",
+          "size": 1991
         },
         {
           "name": "recipes/recipe-backup-sheet-as-csv",
@@ -3067,9 +2907,169 @@
           "size": 1897
         },
         {
-          "name": "recipes/recipe-audit-external-sharing",
-          "file": "recipes/recipe-audit-external-sharing.md",
-          "size": 1978
+          "name": "recipes/recipe-create-meet-space",
+          "file": "recipes/recipe-create-meet-space.md",
+          "size": 1805
+        },
+        {
+          "name": "recipes/recipe-create-task-list",
+          "file": "recipes/recipe-create-task-list.md",
+          "size": 2009
+        },
+        {
+          "name": "recipes/recipe-compare-sheet-tabs",
+          "file": "recipes/recipe-compare-sheet-tabs.md",
+          "size": 1802
+        },
+        {
+          "name": "recipes/recipe-create-vacation-responder",
+          "file": "recipes/recipe-create-vacation-responder.md",
+          "size": 2146
+        },
+        {
+          "name": "recipes/recipe-review-meet-participants",
+          "file": "recipes/recipe-review-meet-participants.md",
+          "size": 1963
+        },
+        {
+          "name": "recipes/recipe-find-free-time",
+          "file": "recipes/recipe-find-free-time.md",
+          "size": 1998
+        },
+        {
+          "name": "recipes/recipe-copy-sheet-for-new-month",
+          "file": "recipes/recipe-copy-sheet-for-new-month.md",
+          "size": 2076
+        },
+        {
+          "name": "recipes/recipe-sync-contacts-to-sheet",
+          "file": "recipes/recipe-sync-contacts-to-sheet.md",
+          "size": 2052
+        },
+        {
+          "name": "recipes/recipe-send-personalized-emails",
+          "file": "recipes/recipe-send-personalized-emails.md",
+          "size": 1875
+        },
+        {
+          "name": "recipes/recipe-send-team-announcement",
+          "file": "recipes/recipe-send-team-announcement.md",
+          "size": 1844
+        },
+        {
+          "name": "recipes/recipe-reschedule-meeting",
+          "file": "recipes/recipe-reschedule-meeting.md",
+          "size": 2037
+        },
+        {
+          "name": "recipes/recipe-save-email-attachments",
+          "file": "recipes/recipe-save-email-attachments.md",
+          "size": 2100
+        },
+        {
+          "name": "recipes/recipe-create-events-from-sheet",
+          "file": "recipes/recipe-create-events-from-sheet.md",
+          "size": 1919
+        },
+        {
+          "name": "recipes/recipe-generate-report-from-sheet",
+          "file": "recipes/recipe-generate-report-from-sheet.md",
+          "size": 2188
+        },
+        {
+          "name": "recipes/recipe-watch-drive-changes",
+          "file": "recipes/recipe-watch-drive-changes.md",
+          "size": 1992
+        },
+        {
+          "name": "recipes/recipe-create-gmail-filter",
+          "file": "recipes/recipe-create-gmail-filter.md",
+          "size": 2109
+        },
+        {
+          "name": "recipes/recipe-save-email-to-doc",
+          "file": "recipes/recipe-save-email-to-doc.md",
+          "size": 2069
+        },
+        {
+          "name": "recipes/recipe-post-mortem-setup",
+          "file": "recipes/recipe-post-mortem-setup.md",
+          "size": 2039
+        },
+        {
+          "name": "recipes/recipe-draft-email-from-doc",
+          "file": "recipes/recipe-draft-email-from-doc.md",
+          "size": 1840
+        },
+        {
+          "name": "recipes/recipe-search-and-export-emails",
+          "file": "recipes/recipe-search-and-export-emails.md",
+          "size": 1920
+        },
+        {
+          "name": "recipes/recipe-create-doc-from-template",
+          "file": "recipes/recipe-create-doc-from-template.md",
+          "size": 2081
+        },
+        {
+          "name": "recipes/recipe-plan-weekly-schedule",
+          "file": "recipes/recipe-plan-weekly-schedule.md",
+          "size": 1981
+        },
+        {
+          "name": "recipes/recipe-create-presentation",
+          "file": "recipes/recipe-create-presentation.md",
+          "size": 1871
+        },
+        {
+          "name": "recipes/recipe-deploy-apps-script",
+          "file": "recipes/recipe-deploy-apps-script.md",
+          "size": 2034
+        },
+        {
+          "name": "recipes/recipe-organize-drive-folder",
+          "file": "recipes/recipe-organize-drive-folder.md",
+          "size": 2146
+        },
+        {
+          "name": "recipes/recipe-create-classroom-course",
+          "file": "recipes/recipe-create-classroom-course.md",
+          "size": 1954
+        },
+        {
+          "name": "recipes/recipe-share-event-materials",
+          "file": "recipes/recipe-share-event-materials.md",
+          "size": 1976
+        },
+        {
+          "name": "recipes/recipe-collect-form-responses",
+          "file": "recipes/recipe-collect-form-responses.md",
+          "size": 1761
+        },
+        {
+          "name": "recipes/recipe-find-large-files",
+          "file": "recipes/recipe-find-large-files.md",
+          "size": 1939
+        },
+        {
+          "name": "recipes/recipe-cancel-and-notify",
+          "file": "recipes/recipe-cancel-and-notify.md",
+          "size": 2025
+        },
+        {
+          "name": "recipes/recipe-schedule-recurring-event",
+          "file": "recipes/recipe-schedule-recurring-event.md",
+          "size": 1997
+        },
+        {
+          "name": "recipes/recipe-batch-reply-to-emails",
+          "file": "recipes/recipe-batch-reply-to-emails.md",
+          "size": 2157
+        },
+        {
+          "name": "recipes/recipe-forward-labeled-emails",
+          "file": "recipes/recipe-forward-labeled-emails.md",
+          "size": 1977
         }
       ],
       "marketing": [
@@ -4645,6 +4645,11 @@
           "size": 633
         },
         {
+          "name": "superlogical",
+          "file": "superlogical.json",
+          "size": 646
+        },
+        {
           "name": "terraform",
           "file": "terraform.json",
           "size": 452
@@ -4949,17 +4954,17 @@
         {
           "name": "agents-crewai",
           "file": "agents-crewai/SKILL.md",
-          "size": 13487
+          "size": 13482
         },
         {
           "name": "agents-langchain",
           "file": "agents-langchain/SKILL.md",
-          "size": 12857
+          "size": 12864
         },
         {
           "name": "agents-llamaindex",
           "file": "agents-llamaindex/SKILL.md",
-          "size": 14744
+          "size": 14751
         },
         {
           "name": "ai-agents-architect",
@@ -5024,12 +5029,12 @@
         {
           "name": "data-processing-nemo-curator",
           "file": "data-processing-nemo-curator/SKILL.md",
-          "size": 9356
+          "size": 9372
         },
         {
           "name": "data-processing-ray-data",
           "file": "data-processing-ray-data/SKILL.md",
-          "size": 7346
+          "size": 7362
         },
         {
           "name": "data-scientist",
@@ -5059,87 +5064,87 @@
         {
           "name": "distributed-training-accelerate",
           "file": "distributed-training-accelerate/SKILL.md",
-          "size": 8358
+          "size": 8367
         },
         {
           "name": "distributed-training-deepspeed",
           "file": "distributed-training-deepspeed/SKILL.md",
-          "size": 144988
+          "size": 145009
         },
         {
           "name": "distributed-training-megatron-core",
           "file": "distributed-training-megatron-core/SKILL.md",
-          "size": 9724
+          "size": 9736
         },
         {
           "name": "distributed-training-pytorch-fsdp",
           "file": "distributed-training-pytorch-fsdp/SKILL.md",
-          "size": 160163
+          "size": 160184
         },
         {
           "name": "distributed-training-pytorch-lightning",
           "file": "distributed-training-pytorch-lightning/SKILL.md",
-          "size": 9139
+          "size": 9160
         },
         {
           "name": "distributed-training-ray-train",
           "file": "distributed-training-ray-train/SKILL.md",
-          "size": 10714
+          "size": 10735
         },
         {
           "name": "emerging-techniques-knowledge-distillation",
           "file": "emerging-techniques-knowledge-distillation/SKILL.md",
-          "size": 13618
+          "size": 13638
         },
         {
           "name": "emerging-techniques-long-context",
           "file": "emerging-techniques-long-context/SKILL.md",
-          "size": 15595
+          "size": 15615
         },
         {
           "name": "emerging-techniques-model-merging",
           "file": "emerging-techniques-model-merging/SKILL.md",
-          "size": 12457
+          "size": 12477
         },
         {
           "name": "emerging-techniques-model-pruning",
           "file": "emerging-techniques-model-pruning/SKILL.md",
-          "size": 13762
+          "size": 13782
         },
         {
           "name": "emerging-techniques-moe-training",
           "file": "emerging-techniques-moe-training/SKILL.md",
-          "size": 14986
+          "size": 15006
         },
         {
           "name": "emerging-techniques-speculative-decoding",
           "file": "emerging-techniques-speculative-decoding/SKILL.md",
-          "size": 14090
+          "size": 14110
         },
         {
           "name": "evaluation-bigcode-evaluation-harness",
           "file": "evaluation-bigcode-evaluation-harness/SKILL.md",
-          "size": 11696
+          "size": 11711
         },
         {
           "name": "evaluation-lm-evaluation-harness",
           "file": "evaluation-lm-evaluation-harness/SKILL.md",
-          "size": 11913
+          "size": 11922
         },
         {
           "name": "evaluation-nemo-evaluator",
           "file": "evaluation-nemo-evaluator/SKILL.md",
-          "size": 12225
+          "size": 12232
         },
         {
           "name": "fine-tuning-axolotl",
           "file": "fine-tuning-axolotl/SKILL.md",
-          "size": 4797
+          "size": 4809
         },
         {
           "name": "fine-tuning-llama-factory",
           "file": "fine-tuning-llama-factory/SKILL.md",
-          "size": 2490
+          "size": 2502
         },
         {
           "name": "fine-tuning-peft",
@@ -5149,7 +5154,7 @@
         {
           "name": "fine-tuning-unsloth",
           "file": "fine-tuning-unsloth/SKILL.md",
-          "size": 2307
+          "size": 2319
         },
         {
           "name": "gemini",
@@ -5169,27 +5174,27 @@
         {
           "name": "inference-serving-llama-cpp",
           "file": "inference-serving-llama-cpp/SKILL.md",
-          "size": 5930
+          "size": 5948
         },
         {
           "name": "inference-serving-sglang",
           "file": "inference-serving-sglang/SKILL.md",
-          "size": 11431
+          "size": 11449
         },
         {
           "name": "inference-serving-tensorrt-llm",
           "file": "inference-serving-tensorrt-llm/SKILL.md",
-          "size": 5057
+          "size": 5075
         },
         {
           "name": "inference-serving-vllm",
           "file": "inference-serving-vllm/SKILL.md",
-          "size": 9044
+          "size": 9049
         },
         {
           "name": "infrastructure-lambda-labs",
           "file": "infrastructure-lambda-labs/SKILL.md",
-          "size": 12153
+          "size": 12158
         },
         {
           "name": "infrastructure-modal",
@@ -5199,7 +5204,7 @@
         {
           "name": "infrastructure-skypilot",
           "file": "infrastructure-skypilot/SKILL.md",
-          "size": 9659
+          "size": 9648
         },
         {
           "name": "jira",
@@ -5239,22 +5244,22 @@
         {
           "name": "mechanistic-interpretability-nnsight",
           "file": "mechanistic-interpretability-nnsight/SKILL.md",
-          "size": 13084
+          "size": 13089
         },
         {
           "name": "mechanistic-interpretability-pyvene",
           "file": "mechanistic-interpretability-pyvene/SKILL.md",
-          "size": 14162
+          "size": 14177
         },
         {
           "name": "mechanistic-interpretability-saelens",
           "file": "mechanistic-interpretability-saelens/SKILL.md",
-          "size": 12772
+          "size": 12781
         },
         {
           "name": "mechanistic-interpretability-transformer-lens",
           "file": "mechanistic-interpretability-transformer-lens/SKILL.md",
-          "size": 12054
+          "size": 12066
         },
         {
           "name": "ml-engineer",
@@ -5269,77 +5274,77 @@
         {
           "name": "mlops-mlflow",
           "file": "mlops-mlflow/SKILL.md",
-          "size": 15617
+          "size": 15623
         },
         {
           "name": "mlops-tensorboard",
           "file": "mlops-tensorboard/SKILL.md",
-          "size": 15294
+          "size": 15300
         },
         {
           "name": "mlops-weights-and-biases",
           "file": "mlops-weights-and-biases/SKILL.md",
-          "size": 12472
+          "size": 12478
         },
         {
           "name": "model-architecture-litgpt",
           "file": "model-architecture-litgpt/SKILL.md",
-          "size": 11028
+          "size": 11029
         },
         {
           "name": "model-architecture-mamba",
           "file": "model-architecture-mamba/SKILL.md",
-          "size": 7386
+          "size": 7392
         },
         {
           "name": "model-architecture-nanogpt",
           "file": "model-architecture-nanogpt/SKILL.md",
-          "size": 6770
+          "size": 6789
         },
         {
           "name": "model-architecture-rwkv",
           "file": "model-architecture-rwkv/SKILL.md",
-          "size": 7117
+          "size": 7123
         },
         {
           "name": "model-architecture-torchtitan",
           "file": "model-architecture-torchtitan/SKILL.md",
-          "size": 8945
+          "size": 8936
         },
         {
           "name": "multimodal-audiocraft",
           "file": "multimodal-audiocraft/SKILL.md",
-          "size": 16326
+          "size": 16320
         },
         {
           "name": "multimodal-blip-2",
           "file": "multimodal-blip-2/SKILL.md",
-          "size": 18634
+          "size": 18629
         },
         {
           "name": "multimodal-clip",
           "file": "multimodal-clip/SKILL.md",
-          "size": 6902
+          "size": 6913
         },
         {
           "name": "multimodal-llava",
           "file": "multimodal-llava/SKILL.md",
-          "size": 7851
+          "size": 7862
         },
         {
           "name": "multimodal-segment-anything",
           "file": "multimodal-segment-anything/SKILL.md",
-          "size": 13421
+          "size": 13426
         },
         {
           "name": "multimodal-stable-diffusion",
           "file": "multimodal-stable-diffusion/SKILL.md",
-          "size": 12989
+          "size": 12983
         },
         {
           "name": "multimodal-whisper",
           "file": "multimodal-whisper/SKILL.md",
-          "size": 7484
+          "size": 7495
         },
         {
           "name": "observability-langsmith",
@@ -5364,12 +5369,12 @@
         {
           "name": "optimization-bitsandbytes",
           "file": "optimization-bitsandbytes/SKILL.md",
-          "size": 10144
+          "size": 10139
         },
         {
           "name": "optimization-flash-attention",
           "file": "optimization-flash-attention/SKILL.md",
-          "size": 10219
+          "size": 10221
         },
         {
           "name": "optimization-gguf",
@@ -5379,7 +5384,7 @@
         {
           "name": "optimization-gptq",
           "file": "optimization-gptq/SKILL.md",
-          "size": 11611
+          "size": 11624
         },
         {
           "name": "optimization-hqq",
@@ -5399,42 +5404,42 @@
         {
           "name": "post-training-grpo-rl-training",
           "file": "post-training-grpo-rl-training/SKILL.md",
-          "size": 17218
+          "size": 17232
         },
         {
           "name": "post-training-miles",
           "file": "post-training-miles/SKILL.md",
-          "size": 8918
+          "size": 8920
         },
         {
           "name": "post-training-openrlhf",
           "file": "post-training-openrlhf/SKILL.md",
-          "size": 8379
+          "size": 8384
         },
         {
           "name": "post-training-simpo",
           "file": "post-training-simpo/SKILL.md",
-          "size": 5934
+          "size": 5939
         },
         {
           "name": "post-training-slime",
           "file": "post-training-slime/SKILL.md",
-          "size": 11618
+          "size": 11620
         },
         {
           "name": "post-training-torchforge",
           "file": "post-training-torchforge/SKILL.md",
-          "size": 10752
+          "size": 10754
         },
         {
           "name": "post-training-trl-fine-tuning",
           "file": "post-training-trl-fine-tuning/SKILL.md",
-          "size": 11469
+          "size": 11478
         },
         {
           "name": "post-training-verl",
           "file": "post-training-verl/SKILL.md",
-          "size": 10341
+          "size": 10343
         },
         {
           "name": "prompt-caching",
@@ -5454,22 +5459,22 @@
         {
           "name": "prompt-engineering-dspy",
           "file": "prompt-engineering-dspy/SKILL.md",
-          "size": 15309
+          "size": 15328
         },
         {
           "name": "prompt-engineering-guidance",
           "file": "prompt-engineering-guidance/SKILL.md",
-          "size": 14533
+          "size": 14552
         },
         {
           "name": "prompt-engineering-instructor",
           "file": "prompt-engineering-instructor/SKILL.md",
-          "size": 16845
+          "size": 16864
         },
         {
           "name": "prompt-engineering-outlines",
           "file": "prompt-engineering-outlines/SKILL.md",
-          "size": 15951
+          "size": 15970
         },
         {
           "name": "prompt-engineering-patterns",
@@ -5494,7 +5499,7 @@
         {
           "name": "rag-chroma",
           "file": "rag-chroma/SKILL.md",
-          "size": 9183
+          "size": 9187
         },
         {
           "name": "rag-engineer",
@@ -5504,7 +5509,7 @@
         {
           "name": "rag-faiss",
           "file": "rag-faiss/SKILL.md",
-          "size": 5066
+          "size": 5070
         },
         {
           "name": "rag-implementation",
@@ -5514,17 +5519,17 @@
         {
           "name": "rag-pinecone",
           "file": "rag-pinecone/SKILL.md",
-          "size": 7845
+          "size": 7849
         },
         {
           "name": "rag-qdrant",
           "file": "rag-qdrant/SKILL.md",
-          "size": 13451
+          "size": 13441
         },
         {
           "name": "rag-sentence-transformers",
           "file": "rag-sentence-transformers/SKILL.md",
-          "size": 6345
+          "size": 6349
         },
         {
           "name": "research-engineer",
@@ -5534,17 +5539,17 @@
         {
           "name": "safety-alignment-constitutional-ai",
           "file": "safety-alignment-constitutional-ai/SKILL.md",
-          "size": 8195
+          "size": 8212
         },
         {
           "name": "safety-alignment-llamaguard",
           "file": "safety-alignment-llamaguard/SKILL.md",
-          "size": 9204
+          "size": 9221
         },
         {
           "name": "safety-alignment-nemo-guardrails",
           "file": "safety-alignment-nemo-guardrails/SKILL.md",
-          "size": 7642
+          "size": 7659
         },
         {
           "name": "subagent-driven-development",
@@ -5554,12 +5559,12 @@
         {
           "name": "tokenization-huggingface-tokenizers",
           "file": "tokenization-huggingface-tokenizers/SKILL.md",
-          "size": 13692
+          "size": 13705
         },
         {
           "name": "tokenization-sentencepiece",
           "file": "tokenization-sentencepiece/SKILL.md",
-          "size": 5650
+          "size": 5663
         },
         {
           "name": "voice-agents",
@@ -5623,12 +5628,12 @@
         {
           "name": "brand-guidelines-anthropic",
           "file": "brand-guidelines-anthropic/SKILL.md",
-          "size": 2235
+          "size": 2245
         },
         {
           "name": "brand-guidelines-community",
           "file": "brand-guidelines-community/SKILL.md",
-          "size": 2235
+          "size": 2245
         },
         {
           "name": "ceo-advisor",
@@ -5962,7 +5967,7 @@
         {
           "name": "claude-d3js-skill",
           "file": "claude-d3js-skill/SKILL.md",
-          "size": 21764
+          "size": 21775
         },
         {
           "name": "develop-web-game",
@@ -6365,7 +6370,7 @@
         {
           "name": "brainstorming",
           "file": "brainstorming/SKILL.md",
-          "size": 2505
+          "size": 8961
         },
         {
           "name": "brightdata-local-search",
@@ -6390,17 +6395,17 @@
         {
           "name": "cc-skill-backend-patterns",
           "file": "cc-skill-backend-patterns/SKILL.md",
-          "size": 13220
+          "size": 13229
         },
         {
           "name": "cc-skill-clickhouse-io",
           "file": "cc-skill-clickhouse-io/SKILL.md",
-          "size": 10017
+          "size": 10026
         },
         {
           "name": "cc-skill-coding-standards",
           "file": "cc-skill-coding-standards/SKILL.md",
-          "size": 11443
+          "size": 11452
         },
         {
           "name": "cc-skill-continuous-learning",
@@ -6410,7 +6415,7 @@
         {
           "name": "cc-skill-frontend-patterns",
           "file": "cc-skill-frontend-patterns/SKILL.md",
-          "size": 14356
+          "size": 14365
         },
         {
           "name": "cc-skill-project-guidelines-example",
@@ -6420,7 +6425,7 @@
         {
           "name": "cc-skill-security-review",
           "file": "cc-skill-security-review/SKILL.md",
-          "size": 12247
+          "size": 12256
         },
         {
           "name": "cc-skill-strategic-compact",
@@ -7005,7 +7010,7 @@
         {
           "name": "postgres-best-practices",
           "file": "postgres-best-practices/SKILL.md",
-          "size": 1887
+          "size": 1878
         },
         {
           "name": "powershell-windows",
@@ -7050,7 +7055,7 @@
         {
           "name": "react-best-practices",
           "file": "react-best-practices/SKILL.md",
-          "size": 5257
+          "size": 5250
         },
         {
           "name": "react-dev",
@@ -7215,7 +7220,7 @@
         {
           "name": "skill-development",
           "file": "skill-development/SKILL.md",
-          "size": 33168
+          "size": 33172
         },
         {
           "name": "skill-installer",
@@ -7422,7 +7427,7 @@
         {
           "name": "pdf-anthropic",
           "file": "pdf-anthropic/SKILL.md",
-          "size": 8072
+          "size": 8082
         },
         {
           "name": "pdf-fill-studio",
@@ -7437,7 +7442,7 @@
         {
           "name": "pdf-processing",
           "file": "pdf-processing/SKILL.md",
-          "size": 8072
+          "size": 8083
         },
         {
           "name": "pdf-processing-pro",
@@ -7576,12 +7581,12 @@
         {
           "name": "internal-comms-anthropic",
           "file": "internal-comms-anthropic/SKILL.md",
-          "size": 1511
+          "size": 1521
         },
         {
           "name": "internal-comms-community",
           "file": "internal-comms-community/SKILL.md",
-          "size": 1511
+          "size": 1521
         },
         {
           "name": "isms-audit-expert",
@@ -7673,7 +7678,7 @@
         {
           "name": "git-context-controller",
           "file": "git-context-controller/SKILL.md",
-          "size": 6615
+          "size": 6634
         },
         {
           "name": "star-history-chart",
@@ -7830,11 +7835,6 @@
           "size": 90080
         },
         {
-          "name": "brainstorming",
-          "file": "brainstorming/SKILL.md",
-          "size": 2505
-        },
-        {
           "name": "claude-code-sessions",
           "file": "claude-code-sessions/SKILL.md",
           "size": 3167
@@ -7982,7 +7982,7 @@
         {
           "name": "nowait",
           "file": "nowait/SKILL.md",
-          "size": 4888
+          "size": 4868
         },
         {
           "name": "obsidian-clipper-template-creator",
@@ -8023,6 +8023,11 @@
           "name": "requirements-clarity",
           "file": "requirements-clarity/SKILL.md",
           "size": 9314
+        },
+        {
+          "name": "rex-claude",
+          "file": "rex-claude/SKILL.md",
+          "size": 8491
         },
         {
           "name": "ship-learn-next",
@@ -8541,7 +8546,7 @@
         {
           "name": "pptx-posters",
           "file": "pptx-posters/SKILL.md",
-          "size": 30293
+          "size": 30292
         },
         {
           "name": "protocolsio-integration",
@@ -8591,7 +8596,7 @@
         {
           "name": "pymc",
           "file": "pymc/SKILL.md",
-          "size": 15721
+          "size": 15703
         },
         {
           "name": "pymoo",
@@ -9464,6 +9469,18 @@
           "size": 981
         }
       ],
+      "appearance": [
+        {
+          "name": "halloween-spinner",
+          "file": "halloween-spinner.json",
+          "size": 555
+        },
+        {
+          "name": "halloween-theme",
+          "file": "halloween-theme.json",
+          "size": 1037
+        }
+      ],
       "authentication": [
         {
           "name": "api-key-helper",
@@ -9870,15 +9887,15 @@
     },
     "mcps": {
       "categories": 13,
-      "templates": 107
+      "templates": 108
     },
     "skills": {
       "categories": 32,
       "templates": 900
     },
     "settings": {
-      "categories": 13,
-      "templates": 77
+      "categories": 14,
+      "templates": 79
     }
   }
 }
